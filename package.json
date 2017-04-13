@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lasso-marko": "^2.3.0",
+    "marko": "^4.2.8"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }

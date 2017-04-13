@@ -1,3 +1,4 @@
+public/static/*
 node_modules/*
 !node_modules/laco
 node_modules/laco/node_modules/*
