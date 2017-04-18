@@ -1,3 +1,4 @@
+install.lock
 .cache/*
 public/static/*
 node_modules/*
