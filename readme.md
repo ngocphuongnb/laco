@@ -5,6 +5,10 @@ git clone https://nguyenngocphuongnb@bitbucket.org/nguyenngocphuongnb/laco.git y
 cd your-app-name
 npm install
 ```
+**Make Laco commander executable on linux**
+```
+chmod +x laco
+```
 **Configure your app**
 ```
 ./laco config
