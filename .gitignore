@@ -1,6 +1,7 @@
 install.lock
 .cache/*
 public/static/*
+public/data/*
 node_modules/*
 !node_modules/laco
 node_modules/laco/node_modules/*
