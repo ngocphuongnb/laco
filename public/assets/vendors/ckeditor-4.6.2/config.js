@@ -5,6 +5,7 @@ CKEDITOR.editorConfig = function( config ) {
 	config.autoGrow_minHeight = 450;
 	//config.autoGrow_maxHeight = 800;
 	config.fixed_top = '50px';
+	config.filebrowserImageBrowseUrl = '/admin/media/modal?target=image&types=image&multi=0';
 	config.toolbarGroups = [
 		{ name: 'clipboard', groups: [ 'undo', 'clipboard' ] },
 		{ name: 'basicstyles', groups: [ 'basicstyles', 'cleanup' ] },

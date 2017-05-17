@@ -14,34 +14,30 @@
 CKEDITOR.plugins.add( 'fixed', {
     init: function( editor ) {
         editor.on( 'instanceReady', function() {
-            window.addEventListener('scroll', function(){
-                var content             = document.getElementsByClassName('cke_contents').item(0);
-                var toolbar             = document.getElementsByClassName('cke_top').item(0);
-                var editorElm           = document.getElementsByClassName('cke').item(0);
-                var inner               = document.getElementsByClassName('cke_inner').item(0);
-                var scrollvalue         = document.documentElement.scrollTop > document.body.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop;
-                toolbar.style.width     = content.offsetWidth + "px";
-                toolbar.style.top       = editor.config.fixed_top;
-                toolbar.style.left      = "0px";
-                toolbar.style.right     = "0px";
-                toolbar.style.margin    = "0 auto";
-                toolbar.style.boxSizing = "border-box";
+            var editorElm = $('#cke_' + editor.name);
+            window.addEventListener('scroll', function() {
+                var toolbar = $('.cke_top', editorElm);
+                var currentScroll = $(window).scrollTop();
+                var editorOffsetTop = editorElm.offset().top - toolbar.height();
+                var editorBottomOffsetTop = editorElm.offset().top + editorElm.height() - toolbar.height() - 60;
 
-                if(toolbar.offsetTop <= scrollvalue){
-                    toolbar.style.position   = "fixed";
-                    //content.style.paddingTop = toolbar.offsetHeight + "px";
+                if(currentScroll - editorOffsetTop > parseInt(editor.config.fixed_top)){
+                    toolbar.css({
+                        position: 'fixed',
+                        left: editorElm.offset().left + 1,
+                        width: editorElm.width(),
+                        top: editor.config.fixed_top,
+                        'box-sizing': 'border-box'
+                    });
                 }
-
-                if(editorElm.offsetTop > scrollvalue && (editorElm.offsetTop + editorElm.offsetHeight) >= (scrollvalue + toolbar.offsetHeight)){
-                    toolbar.style.position   = "relative";
-                    content.style.paddingTop = "0px";
+                else {
+                    toolbar.css({
+                        position: 'relative',
+                        top: 'auto',
+                        left: 'auto'
+                    });
                 }
-
-                // if((editorElm.offsetTop + editorElm.offsetHeight) < (scrollvalue + toolbar.offsetHeight)){
-                //     toolbar.style.position = "absolute";
-                //     toolbar.style.top      = "calc(100% - " + toolbar.offsetHeight + "px)";
-                //     inner.style.position   = "relative";
-                // }
+                toolbar.css('display', currentScroll <= editorBottomOffsetTop ? 'block' : 'none');
             }, false);
         } );
         
