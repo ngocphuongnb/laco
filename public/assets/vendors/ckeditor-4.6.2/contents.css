@@ -113,11 +113,10 @@ span[lang]
 figure
 {
 	text-align: center;
-	border: solid 1px #ccc;
-	border-radius: 2px;
+	border: none;
 	background: rgba(0,0,0,0.05);
-	padding: 10px;
-	margin: 10px 20px;
+	padding: 3px;
+	margin: 10px 0;
 	display: inline-block;
 }
 
@@ -125,6 +124,8 @@ figure > figcaption
 {
 	text-align: center;
 	display: block; /* For IE8 */
+	padding: 5px;
+	background: #edecec
 }
 
 a > img {

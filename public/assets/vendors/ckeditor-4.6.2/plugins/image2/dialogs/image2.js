@@ -36,7 +36,7 @@ CKEDITOR.dialog.add("image2", function(f) {
 
     function F() {
         var a = this.getValue();
-        t(!1);
+        t(!0);
         a !== x.data.src ? (G(a, function(a, b, c) {
             t(!0);
             if (!a) return k(!1);
@@ -239,9 +239,7 @@ CKEDITOR.dialog.add("image2", function(f) {
                     items: [
                         [c.alignNone, "none"],
                         [c.alignLeft, "left"],
-                        [c.alignCenter,
-                            "center"
-                        ],
+                        [c.alignCenter, "center"],
                         [c.alignRight, "right"]
                     ],
                     label: c.align,
@@ -264,92 +262,6 @@ CKEDITOR.dialog.add("image2", function(f) {
                     a.setData("hasCaption", this.getValue())
                 }
             }]
-        },
-        {
-            id: "Advance",
-            label: b.advanceTab,
-            elements: [
-                {
-                    id: "margin",
-                    type: "text",
-                    label: b.margin,
-                    requiredContent:"img{margin-top,margin-right,margin-bottom,margin-left}",
-                    setup: function(a) {
-                        this.setValue(a.data.margin)
-                    },
-                    commit: function(a) {
-                        var b = a.element;
-                        a.setData("margin", this.getValue())
-                        var cs = this.getValue().split(' ');
-
-                        var mt, mr, mb, ml;
-
-                        if(cs.length == 1) mt = mr = mb = ml = parseInt(cs[0]);
-                        else if(cs.length == 2) {
-                            mt = mb = parseInt(cs[0]);
-                            mr = ml = parseInt(cs[1]);
-                        }
-                        else if(cs.length == 3) {
-                            mt = parseInt(cs[0]);
-                            mr = ml = parseInt(cs[1]);
-                            mb = parseInt(cs[2]);
-                        }
-                        else if(cs.length == 4) {
-                            mt = parseInt(cs[0]);
-                            mr = parseInt(cs[1]);
-                            mb = parseInt(cs[2]);
-                            ml = parseInt(cs[3]);
-                        }
-
-                        var c = parseInt(this.getValue(), 10);
-                        isNaN(c)
-                            ? !c && this.isChanged() && (b.removeStyle("margin-top"), b.removeStyle("margin-bottom"), b.removeStyle("margin-right"), b.removeStyle("margin-left"))
-                            : (b.setStyle("margin-top", CKEDITOR.tools.cssLength(mt)), b.setStyle("margin-right", CKEDITOR.tools.cssLength(mr)), b.setStyle("margin-bottom", CKEDITOR.tools.cssLength(mb)), b.setStyle("margin-left", CKEDITOR.tools.cssLength(ml)));
-                    }
-                },
-                {
-                    id: "padding",
-                    type: "text",
-                    label: b.padding,
-                    setup: function(a) {
-                        this.setValue(a.data.padding)
-                    },
-                    commit: function(a) {
-                        a.setData("padding", this.getValue())
-                    }
-                },
-                {
-                    id: "style",
-                    type: "textarea",
-                    label: b.style,
-                    setup: function(a) {
-                        this.setValue(a.data.style)
-                    },
-                    commit: function(a) {
-                        a.setData("style", this.getValue())
-                    }
-                }
-            ]
-        },
-        {
-            id: "Upload",
-            hidden: !0,
-            filebrowser: "uploadButton",
-            label: b.uploadTab,
-            elements: [{
-                    type: "file",
-                    id: "upload",
-                    label: b.btnUpload,
-                    style: "height:40px"
-                },
-                {
-                    type: "fileButton",
-                    id: "uploadButton",
-                    filebrowser: "info:src",
-                    label: b.btnUpload,
-                    "for": ["Upload", "upload"]
-                }
-            ]
         }]
     }
 });

@@ -1,8 +1,10 @@
 CKEDITOR.basePath = '/assets/vendors/ckeditor-4.6.2/';
-CKEDITOR.config.extraPlugins = 'autogrow,fixed';
+CKEDITOR.plugins.basePath = '/assets/vendors/ckeditor-4.6.2/plugins/';
+CKEDITOR.config.extraPlugins = 'autogrow,fixed,laco_media';
 
 CKEDITOR.editorConfig = function( config ) {
-	config.autoGrow_minHeight = 450;
+	config.entities_latin = false;
+	config.autoGrow_minHeight = 200;
 	//config.autoGrow_maxHeight = 800;
 	config.fixed_top = '50px';
 	config.filebrowserImageBrowseUrl = '/admin/media/modal?target=image&types=image&multi=0';
