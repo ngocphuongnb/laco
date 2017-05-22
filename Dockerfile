@@ -1,9 +1,9 @@
 FROM mhart/alpine-node:6.10.3
 
-ADD package.json /tmp/package.json
-ADD node_modules/laco /tmp/node_modules/laco
+ADD . /opt/app
+#ADD node_modules/laco /tmp/node_modules/laco
 
-RUN rm -rf /tmp/node_modules/laco/node_modules
+RUN rm -rf /opt/app/node_modules/laco/node_modules
 
 
 # Installing graphicsmagick
@@ -26,8 +26,8 @@ RUN apk add --update g++ \
                      libpng-dev \
                      libtool \
                      libgomp \
-                     nginx && \
-    wget --no-check-certificate $PKGSOURCE && \
+                     nginx
+RUN wget --no-check-certificate $PKGSOURCE && \
     lzip -d -c GraphicsMagick-$PKGVER.tar.lz | tar -xvf - && \
     cd GraphicsMagick-$PKGVER && \
     ./configure \
@@ -50,8 +50,7 @@ RUN apk add --update g++ \
     rm -rf GraphicsMagick-$PKGVER && \
     rm GraphicsMagick-$PKGVER.tar.lz
 
-RUN cd /tmp && npm install --production
-RUN mkdir -p /opt/app && cp -a /tmp/node_modules /opt/app/
+RUN cd /opt/app && npm install --production
 
 RUN apk del g++ \
             gcc \
@@ -62,7 +61,6 @@ RUN apk del g++ \
             wget
 
 WORKDIR /opt/app
-ADD . /opt/app
 
 EXPOSE 2811
 

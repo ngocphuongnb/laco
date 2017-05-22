@@ -51,3 +51,19 @@ router.attach('home', 'post', (req, res) => {
 ```
 router.detach('home', 'post') //"POST" handler is now no longer available from "Home" router
 ```
+
+## **III. Docker **
+#### **1. Build image **
+```
+sudo docker build -t laco-app .
+```
+
+#### **1. Execute command **
+```
+sudo docker run laco-app node -v
+```
+
+#### **1. Run **
+```
+sudo docker run -p 2811:2811 -ti laco-app
+```
