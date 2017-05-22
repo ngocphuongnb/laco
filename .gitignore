@@ -1,3 +1,4 @@
+.vscode
 install.lock
 *.marko.js
 .cache/*
