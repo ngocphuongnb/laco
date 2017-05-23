@@ -4,7 +4,6 @@ CKEDITOR.plugins.add( 'laco_media', {
     init: function( editor ) {
         editor.addCommand('lacoOpenMediaBrowser', {
             exec : function(editor) {
-                console.log('exec');
                 new LacoModal({
                     isImmediate: true,
                     type: 'iframe',
