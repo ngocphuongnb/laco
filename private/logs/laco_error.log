@@ -1,0 +1,16 @@
+2018-03-21T12:03:18.379Z - error: [Router.register] Invalid route: 
+{
+  "path": "/"
+}
+2018-03-21T13:46:34.256Z - error: [Router.register] Invalid route: 
+{
+  "path": "",
+  "name": "home",
+  "label": "Home"
+}
+2018-03-21T13:47:03.347Z - error: [Router.register] Invalid route: 
+{
+  "path": "",
+  "name": "home",
+  "label": "Home"
+}

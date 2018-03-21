@@ -1,0 +1,95 @@
+2018-03-21T11:59:58.985Z - info: Ahihi after new
+2018-03-21T11:59:58.993Z - info: [start] App running on port: 3000
+2018-03-21T11:59:58.994Z - info: Ahihi it's started
+2018-03-21T12:02:26.471Z - info: [Router.dispatch] Dispatching...
+2018-03-21T12:02:26.480Z - info: [start] App running on port: 3000
+2018-03-21T12:02:26.481Z - info: Ahihi it's started
+2018-03-21T12:03:18.379Z - error: [Router.register] Invalid route: 
+{
+  "path": "/"
+}
+2018-03-21T12:03:18.382Z - info: [Router.dispatch] Dispatching...
+2018-03-21T12:03:18.388Z - info: [start] App running on port: 3000
+2018-03-21T12:03:18.389Z - info: Ahihi it's started
+2018-03-21T12:04:40.837Z - info: [Router.register] Registering route: Home
+2018-03-21T12:04:40.840Z - info: [Router.dispatch] Dispatching...
+2018-03-21T12:04:40.848Z - info: [start] App running on port: 3000
+2018-03-21T12:04:40.849Z - info: Ahihi it's started
+2018-03-21T13:39:03.760Z - info: [Router.register] Registering route: Home
+2018-03-21T13:39:03.763Z - info: [subapp.register] Success register sub app: /blog
+2018-03-21T13:39:03.772Z - info: [start] App running on port: 3000
+2018-03-21T13:39:03.773Z - info: Ahihi it's started
+2018-03-21T13:41:07.906Z - info: [Router.register] Registering route: Home
+2018-03-21T13:41:07.909Z - info: [subapp.register] Success register sub app: /blog
+2018-03-21T13:41:07.918Z - info: [start] App running on port: 3000
+2018-03-21T13:41:07.919Z - info: Ahihi it's started
+2018-03-21T13:41:53.621Z - info: [Router.register] Registering route: Home
+2018-03-21T13:41:53.624Z - info: [subapp.register] Success register sub app: /blog
+2018-03-21T13:41:53.631Z - info: [start] App running on port: 3000
+2018-03-21T13:41:53.632Z - info: Ahihi it's started
+2018-03-21T13:42:25.337Z - info: [Router.register] Registering route: Home
+2018-03-21T13:42:25.341Z - info: [subapp.register] Success register sub app: /blog
+2018-03-21T13:42:25.350Z - info: [start] App running on port: 3000
+2018-03-21T13:42:25.350Z - info: Ahihi it's started
+2018-03-21T13:45:36.511Z - info: [Router.register] Registering route: Home
+2018-03-21T13:45:36.514Z - info: [subapp.register] Success register sub app: /blog
+2018-03-21T13:45:36.515Z - info: [Router.dispatch] Dispatching...
+2018-03-21T13:45:36.538Z - info: [start] App running on port: 3000
+2018-03-21T13:45:36.538Z - info: Ahihi it's started
+2018-03-21T13:45:56.487Z - info: [Router.register] Registering route: Home
+2018-03-21T13:45:56.490Z - info: [subapp.register] Success register sub app: /blog
+2018-03-21T13:45:56.491Z - info: [Router.dispatch] Dispatching...
+2018-03-21T13:45:56.498Z - info: [start] App running on port: 3000
+2018-03-21T13:45:56.499Z - info: Ahihi it's started
+2018-03-21T13:46:14.872Z - info: [Router.register] Registering route: Home
+2018-03-21T13:46:14.875Z - info: [subapp.register] Success register sub app: /
+2018-03-21T13:46:14.876Z - info: [Router.dispatch] Dispatching...
+2018-03-21T13:46:14.884Z - info: [start] App running on port: 3000
+2018-03-21T13:46:14.884Z - info: Ahihi it's started
+2018-03-21T13:46:34.256Z - error: [Router.register] Invalid route: 
+{
+  "path": "",
+  "name": "home",
+  "label": "Home"
+}
+2018-03-21T13:46:34.259Z - info: [subapp.register] Success register sub app: /
+2018-03-21T13:46:34.259Z - info: [Router.dispatch] Dispatching...
+2018-03-21T13:46:34.267Z - info: [start] App running on port: 3000
+2018-03-21T13:46:34.267Z - info: Ahihi it's started
+2018-03-21T13:47:03.348Z - error: [Router.register] Invalid route: 
+{
+  "path": "",
+  "name": "home",
+  "label": "Home"
+}
+2018-03-21T13:47:03.350Z - info: [subapp.register] Success register sub app: /
+2018-03-21T13:47:03.351Z - info: [Router.dispatch] Dispatching...
+2018-03-21T13:47:03.359Z - info: [start] App running on port: 3000
+2018-03-21T13:47:03.359Z - info: Ahihi it's started
+2018-03-21T13:47:25.798Z - info: [Router.register] Registering route: Home
+2018-03-21T13:47:25.801Z - info: [subapp.register] Success register sub app: /
+2018-03-21T13:47:25.801Z - info: [Router.dispatch] Dispatching...
+2018-03-21T13:47:25.809Z - info: [start] App running on port: 3000
+2018-03-21T13:47:25.810Z - info: Ahihi it's started
+2018-03-21T13:54:01.196Z - info: [Router.register] Registering route: Home
+2018-03-21T13:54:01.199Z - info: [subapp.register] Success register sub app: /
+2018-03-21T13:54:01.200Z - info: [Router.dispatch] Dispatching...
+2018-03-21T13:54:01.223Z - info: [start] App running on port: 3000
+2018-03-21T13:54:01.223Z - info: Ahihi it's started
+2018-03-21T13:54:26.490Z - info: [Router.register] Registering route: Home
+2018-03-21T13:54:26.493Z - info: [subapp.register] Success register sub app: /
+2018-03-21T13:54:26.494Z - info: [Router.dispatch] Dispatching...
+2018-03-21T13:54:26.516Z - info: [start] App running on port: 3000
+2018-03-21T13:54:26.517Z - info: Ahihi it's started
+2018-03-21T13:55:22.563Z - info: [Router.register] Registering route: Home
+2018-03-21T13:55:22.566Z - info: [subapp.register] Success register sub app: /
+2018-03-21T13:55:22.567Z - info: [Router.dispatch] Dispatching...
+2018-03-21T13:55:22.570Z - info: [subapp.dispatch] / mounted...
+2018-03-21T13:55:22.577Z - info: [start] App running on port: 3000
+2018-03-21T13:55:22.578Z - info: Ahihi it's started
+2018-03-21T13:55:35.337Z - info: [Router.register] Registering route: Home
+2018-03-21T13:55:35.340Z - info: [subapp.register] Success register sub app: /
+2018-03-21T13:55:35.340Z - info: [Router.dispatch] Dispatching...
+2018-03-21T13:55:35.343Z - info: [subapp.dispatch] [/] mounted...
+2018-03-21T13:55:35.351Z - info: [start] App running on port: 3000
+2018-03-21T13:55:35.351Z - info: Ahihi it's started
