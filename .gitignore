@@ -1,0 +1,10 @@
+.vscode
+install.lock
+*.marko.js
+.cache/*
+public/*
+!public/assets
+node_modules/*
+!node_modules/laco
+node_modules/laco/node_modules/*
+!node_modules/laco-ext-*
