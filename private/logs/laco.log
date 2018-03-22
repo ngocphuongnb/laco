@@ -649,3 +649,145 @@ caller is not defined
 2018-03-22T10:19:43.030Z - info: [subapp.dispatch] [admin] Mounted...
 2018-03-22T10:19:43.032Z - info: [start] App running on port: 3000
 2018-03-22T10:19:43.032Z - info: [main] App started!
+2018-03-22T13:33:48.158Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:33:48.160Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:33:48.161Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:33:48.161Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:33:48.161Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:33:48.162Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: cotnroller is not defined
+    at Controller.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller.js:32:25)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:11:26)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+cotnroller is not defined
+2018-03-22T13:33:48.164Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: cotnroller is not defined
+    at Controller.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller.js:32:25)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:11:26)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+cotnroller is not defined
+2018-03-22T13:34:19.983Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:34:19.985Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:34:19.986Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:34:19.986Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:34:19.987Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:34:19.987Z - info: [Controller.register] [admin] Registering controller: dashboard
+2018-03-22T13:34:19.988Z - info: [subapp.register] [admin] Success register sub app: /admin
+2018-03-22T13:34:19.989Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T13:34:19.991Z - info: [subapp.dispatch] [admin] Mounted...
+2018-03-22T13:34:19.994Z - info: [start] App running on port: 3000
+2018-03-22T13:34:19.994Z - info: [main] App started!
+2018-03-22T13:35:21.607Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:35:21.611Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:35:21.612Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:35:21.615Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:35:21.615Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:35:21.616Z - info: [Controller.register] [admin] Registering controller: dashboard
+2018-03-22T13:35:21.616Z - info: [subapp.register] [admin] Success register sub app: /admin
+2018-03-22T13:35:21.617Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T13:35:21.620Z - info: [subapp.dispatch] [admin] Mounted...
+2018-03-22T13:35:21.622Z - info: [start] App running on port: 3000
+2018-03-22T13:35:21.623Z - info: [main] App started!
+2018-03-22T13:36:00.790Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:36:00.792Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:36:00.793Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:36:00.794Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:36:00.794Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:36:00.795Z - info: [Controller.register] [admin] Registering controller: dashboard
+2018-03-22T13:36:00.795Z - info: [subapp.register] [admin] Success register sub app: /admin
+2018-03-22T13:36:00.796Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T13:36:00.798Z - info: [subapp.dispatch] [admin] Mounted...
+2018-03-22T13:36:00.801Z - info: [start] App running on port: 3000
+2018-03-22T13:36:00.802Z - info: [main] App started!
+2018-03-22T13:36:53.713Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:36:53.715Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:36:53.716Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:36:53.716Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:36:53.717Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:36:53.717Z - info: [Controller.register] [admin] Registering controller: dashboard
+2018-03-22T13:36:53.718Z - info: [subapp.register] [admin] Success register sub app: /admin
+2018-03-22T13:36:53.719Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T13:36:53.721Z - info: [subapp.dispatch] [admin] Mounted...
+2018-03-22T13:36:53.724Z - info: [start] App running on port: 3000
+2018-03-22T13:36:53.724Z - info: [main] App started!
+2018-03-22T13:40:31.338Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:40:31.340Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:40:31.341Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:40:31.341Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:40:31.341Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:40:31.345Z - info: [Controller.register] [admin] Registering controller: dashboard
+2018-03-22T13:40:31.345Z - info: [subapp.register] [admin] Success register sub app: /admin
+2018-03-22T13:40:31.346Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T13:40:31.348Z - info: [subapp.dispatch] [admin] Mounted...
+2018-03-22T13:40:31.353Z - info: [start] App running on port: 3000
+2018-03-22T13:40:31.353Z - info: [main] App started!
+2018-03-22T13:41:04.109Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:41:04.111Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:41:04.112Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:41:04.112Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:41:04.113Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:41:04.116Z - info: [subapp.register] [admin] Success register sub app: /admin
+2018-03-22T13:41:04.117Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T13:41:04.120Z - info: [subapp.dispatch] [admin] Mounted...
+2018-03-22T13:41:04.122Z - info: [start] App running on port: 3000
+2018-03-22T13:41:04.123Z - info: [main] App started!
+2018-03-22T13:41:58.212Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:41:58.214Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:41:58.216Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:41:58.219Z - info: [subapp.register] [admin] Success register sub app: /admin
+2018-03-22T13:41:58.220Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T13:41:58.222Z - info: [subapp.dispatch] [admin] Mounted...
+2018-03-22T13:41:58.225Z - info: [start] App running on port: 3000
+2018-03-22T13:41:58.226Z - info: [main] App started!
+2018-03-22T13:42:43.913Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:42:43.915Z - info: [Router.register] [admin] Registering route: login
+2018-03-22T13:42:43.916Z - info: [Router.register] [admin] Registering route: test
+2018-03-22T13:42:43.922Z - info: [subapp.register] [admin] Success register sub app: /admin
+2018-03-22T13:42:43.923Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T13:42:43.926Z - info: [subapp.dispatch] [admin] Mounted...
+2018-03-22T13:42:43.928Z - info: [start] App running on port: 3000
+2018-03-22T13:42:43.929Z - info: [main] App started!
+2018-03-22T13:43:20.983Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:43:20.985Z - info: [Router.register] [admin] Registering route: login
+2018-03-22T13:43:20.985Z - info: [Router.register] [admin] Registering route: test
+2018-03-22T13:43:20.986Z - info: [Controller.register] [admin] Registering controller: dashboard
+2018-03-22T13:43:20.986Z - info: [subapp.register] [admin] Success register sub app: /admin
+2018-03-22T13:43:20.987Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T13:43:20.990Z - info: [subapp.dispatch] [admin] Mounted...
+2018-03-22T13:43:20.993Z - info: [start] App running on port: 3000
+2018-03-22T13:43:20.993Z - info: [main] App started!
+2018-03-22T13:44:13.260Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:44:13.263Z - info: [Router.register] [admin] Registering route: login
+2018-03-22T13:44:13.263Z - info: [Router.register] [admin] Registering route: test
+2018-03-22T13:44:13.264Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-22T13:44:13.264Z - info: [subapp.register] [admin] Success register sub app: /admin
+2018-03-22T13:44:13.265Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T13:44:13.268Z - info: [subapp.dispatch] [admin] Mounted...
+2018-03-22T13:44:13.271Z - info: [start] App running on port: 3000
+2018-03-22T13:44:13.271Z - info: [main] App started!
+2018-03-22T13:44:58.435Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:44:58.437Z - info: [Router.register] [admin] Registering route: login
+2018-03-22T13:44:58.438Z - info: [Router.register] [admin] Registering route: test
+2018-03-22T13:44:58.438Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-22T13:44:58.439Z - info: [Subapp.register] [admin] Success register sub app: /admin
+2018-03-22T13:44:58.439Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T13:44:58.442Z - info: [Subapp.dispatch] [admin] Mounted...
+2018-03-22T13:44:58.445Z - info: [start] App running on port: 3000
+2018-03-22T13:44:58.446Z - info: [main] App started!
+2018-03-22T13:45:11.422Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T13:45:11.424Z - info: [Router.register] [admin] Registering route: login
+2018-03-22T13:45:11.424Z - info: [Router.register] [admin] Registering route: test
+2018-03-22T13:45:11.425Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-22T13:45:11.425Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-22T13:45:11.426Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T13:45:11.430Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-22T13:45:11.434Z - info: [start] App running on port: 3000
+2018-03-22T13:45:11.434Z - info: [main] App started!

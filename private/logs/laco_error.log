@@ -143,3 +143,38 @@ caller is not defined
     at tryOnTimeout (timers.js:310:5)
     at Timer.listOnTimeout (timers.js:270:5)
 caller is not defined
+2018-03-22T13:33:48.161Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:33:48.161Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:33:48.162Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: cotnroller is not defined
+    at Controller.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller.js:32:25)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:11:26)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+cotnroller is not defined
+2018-03-22T13:33:48.164Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: cotnroller is not defined
+    at Controller.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller.js:32:25)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:11:26)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+cotnroller is not defined
+2018-03-22T13:34:19.986Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:34:19.987Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:35:21.612Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:35:21.615Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:36:00.793Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:36:00.794Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:36:53.716Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:36:53.717Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:40:31.341Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:40:31.341Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:41:04.112Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-22T13:41:04.113Z - error: [Router.register]  [admin] Route existed (name): test
+2018-03-22T13:41:58.215Z - error: [Router.register]  [admin] Route existed (name): login
