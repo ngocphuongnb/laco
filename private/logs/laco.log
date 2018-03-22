@@ -93,3 +93,559 @@
 2018-03-21T13:55:35.343Z - info: [subapp.dispatch] [/] mounted...
 2018-03-21T13:55:35.351Z - info: [start] App running on port: 3000
 2018-03-21T13:55:35.351Z - info: Ahihi it's started
+2018-03-22T02:07:38.914Z - info: [Router.register] Registering route: Home
+2018-03-22T02:07:38.916Z - info: [subapp.register] Success register sub app: /
+2018-03-22T02:07:38.917Z - info: [Router.register] Registering route: test
+2018-03-22T02:07:38.917Z - info: [Router.dispatch] Dispatching...
+2018-03-22T02:07:38.920Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T02:07:38.925Z - info: [start] App running on port: 3000
+2018-03-22T02:07:38.925Z - info: Ahihi it's started
+2018-03-22T02:33:10.435Z - info: [Router.register] Registering route: Home
+2018-03-22T02:33:10.437Z - info: [subapp.register] Success register sub app: /
+2018-03-22T02:33:10.437Z - info: [Router.register] Registering route: test
+2018-03-22T02:33:10.438Z - info: [Router.dispatch] Dispatching...
+2018-03-22T02:33:10.440Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T02:33:10.447Z - info: [start] App running on port: 3000
+2018-03-22T02:33:10.447Z - info: Ahihi it's started
+2018-03-22T02:34:54.603Z - info: [Router.register] Registering route: Home
+2018-03-22T02:34:54.605Z - info: [subapp.register] Success register sub app: /
+2018-03-22T02:34:54.605Z - info: [Router.register] Registering route: test
+2018-03-22T02:34:54.606Z - info: [Router.dispatch] Dispatching...
+2018-03-22T02:34:54.608Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T02:34:54.614Z - info: [start] App running on port: 3000
+2018-03-22T02:34:54.614Z - info: Ahihi it's started
+2018-03-22T02:43:02.279Z - info: [Router.register] Registering route: Home
+2018-03-22T02:43:02.282Z - info: [subapp.register] Success register sub app: /
+2018-03-22T02:43:02.282Z - info: [Router.register] Registering route: test
+2018-03-22T02:43:02.283Z - info: [Router.dispatch] Dispatching...
+2018-03-22T02:43:02.285Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T02:43:02.291Z - info: [start] App running on port: 3000
+2018-03-22T02:43:02.291Z - info: Ahihi it's started
+2018-03-22T02:43:24.883Z - info: [Router.register] Registering route: Home
+2018-03-22T02:43:24.884Z - info: [subapp.register] Success register sub app: /
+2018-03-22T02:43:24.884Z - info: [Router.register] Registering route: test
+2018-03-22T02:43:24.885Z - info: [Router.dispatch] Dispatching...
+2018-03-22T02:43:24.887Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T02:43:24.893Z - info: [start] App running on port: 3000
+2018-03-22T02:43:24.893Z - info: Ahihi it's started
+2018-03-22T06:09:48.346Z - info: [Router.register] Registering route: Home
+2018-03-22T06:09:48.348Z - info: [Router.register] Registering route: Login
+2018-03-22T06:09:48.349Z - info: [subapp.register] Success register sub app: /
+2018-03-22T06:09:48.349Z - info: [Router.dispatch] Dispatching...
+2018-03-22T06:09:48.352Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T06:09:48.357Z - info: [start] App running on port: 3000
+2018-03-22T06:09:48.357Z - info: Ahihi it's started
+2018-03-22T08:27:03.925Z - info: [Router.register] Registering route: home
+2018-03-22T08:27:03.928Z - info: [Router.register] Registering route: login
+2018-03-22T08:27:03.928Z - info: [Router.register] Registering route: test
+2018-03-22T08:27:03.928Z - info: [subapp.register] Success register sub app: /
+2018-03-22T08:27:03.929Z - info: [Router.dispatch] Dispatching...
+2018-03-22T08:27:03.931Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T08:27:03.934Z - info: [start] App running on port: 3000
+2018-03-22T08:27:03.934Z - info: Ahihi it's started
+2018-03-22T08:30:59.810Z - info: [Router.register] Registering route: home
+2018-03-22T08:30:59.812Z - info: [Router.register] Registering route: login
+2018-03-22T08:30:59.812Z - info: [Router.register] Registering route: test
+2018-03-22T08:30:59.812Z - info: [subapp.register] Success register sub app: /
+2018-03-22T08:30:59.813Z - info: [Router.dispatch] Dispatching...
+2018-03-22T08:30:59.815Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T08:30:59.818Z - info: [start] App running on port: 3000
+2018-03-22T08:30:59.818Z - info: Ahihi it's started
+2018-03-22T08:31:16.435Z - info: [Router.register] Registering route: home
+2018-03-22T08:31:16.437Z - info: [Router.register] Registering route: login
+2018-03-22T08:31:16.438Z - info: [Router.register] Registering route: test
+2018-03-22T08:31:16.438Z - info: [subapp.register] Success register sub app: /
+2018-03-22T08:31:16.438Z - info: [Router.dispatch] Dispatching...
+2018-03-22T08:31:16.441Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T08:31:16.444Z - info: [start] App running on port: 3000
+2018-03-22T08:31:16.444Z - info: Ahihi it's started
+2018-03-22T08:31:50.092Z - info: [Router.register] Registering route: home
+2018-03-22T08:31:50.094Z - info: [Router.register] Registering route: login
+2018-03-22T08:31:50.094Z - info: [Router.register] Registering route: test
+2018-03-22T08:31:50.095Z - info: [subapp.register] Success register sub app: /
+2018-03-22T08:31:50.095Z - info: [Router.dispatch] Dispatching...
+2018-03-22T08:31:50.097Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T08:31:50.100Z - info: [start] App running on port: 3000
+2018-03-22T08:31:50.100Z - info: Ahihi it's started
+2018-03-22T08:37:08.640Z - info: [Router.register] Registering route: home
+2018-03-22T08:37:08.642Z - info: [Router.register] Registering route: login
+2018-03-22T08:37:08.643Z - info: [Router.register] Registering route: test
+2018-03-22T08:37:08.643Z - info: [subapp.register] Success register sub app: /
+2018-03-22T08:37:08.643Z - info: [Router.dispatch] Dispatching...
+2018-03-22T08:37:08.646Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T08:37:08.649Z - info: [start] App running on port: 3000
+2018-03-22T08:37:08.649Z - info: Ahihi it's started
+2018-03-22T08:37:22.283Z - info: [Router.register] Registering route: home
+2018-03-22T08:37:22.285Z - info: [Router.register] Registering route: login
+2018-03-22T08:37:22.286Z - info: [Router.register] Registering route: test
+2018-03-22T08:37:22.286Z - info: [subapp.register] Success register sub app: /
+2018-03-22T08:37:22.286Z - info: [Router.dispatch] Dispatching...
+2018-03-22T08:37:22.289Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T08:37:22.291Z - info: [start] App running on port: 3000
+2018-03-22T08:37:22.291Z - info: Ahihi it's started
+2018-03-22T08:37:42.807Z - info: [Router.register] Registering route: home
+2018-03-22T08:37:42.809Z - info: [Router.register] Registering route: login
+2018-03-22T08:37:42.809Z - info: [Router.register] Registering route: test
+2018-03-22T08:37:42.809Z - info: [subapp.register] Success register sub app: /
+2018-03-22T08:37:42.810Z - info: [Router.dispatch] Dispatching...
+2018-03-22T08:37:42.812Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T08:37:42.815Z - info: [start] App running on port: 3000
+2018-03-22T08:37:42.815Z - info: Ahihi it's started
+2018-03-22T08:39:53.341Z - info: [Router.register] Registering route: home
+2018-03-22T08:39:53.343Z - info: [Router.register] Registering route: login
+2018-03-22T08:39:53.343Z - info: [Router.register] Registering route: test
+2018-03-22T08:39:53.343Z - info: [subapp.register] Success register sub app: /
+2018-03-22T08:39:53.344Z - info: [Router.dispatch] Dispatching...
+2018-03-22T08:39:53.346Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T08:39:53.349Z - info: [start] App running on port: 3000
+2018-03-22T08:39:53.349Z - info: Ahihi it's started
+2018-03-22T08:40:03.405Z - info: [Router.register] Registering route: home
+2018-03-22T08:40:03.407Z - info: [Router.register] Registering route: login
+2018-03-22T08:40:03.407Z - info: [Router.register] Registering route: test
+2018-03-22T08:40:03.407Z - info: [subapp.register] Success register sub app: /
+2018-03-22T08:40:03.407Z - info: [Router.dispatch] Dispatching...
+2018-03-22T08:40:03.410Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T08:40:03.413Z - info: [start] App running on port: 3000
+2018-03-22T08:40:03.413Z - info: Ahihi it's started
+2018-03-22T08:40:32.517Z - info: [Router.register] Registering route: home
+2018-03-22T08:40:32.525Z - info: [Router.register] Registering route: login
+2018-03-22T08:40:32.525Z - info: [Router.register] Registering route: test
+2018-03-22T08:40:32.525Z - info: [subapp.register] Success register sub app: /
+2018-03-22T08:40:32.526Z - info: [Router.dispatch] Dispatching...
+2018-03-22T08:40:32.528Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T08:40:32.531Z - info: [start] App running on port: 3000
+2018-03-22T08:40:32.531Z - info: Ahihi it's started
+2018-03-22T09:02:09.838Z - info: [Router.register] Registering route: home
+2018-03-22T09:02:09.840Z - info: [Router.register] Registering route: login
+2018-03-22T09:02:09.840Z - info: [Router.register] Registering route: test
+2018-03-22T09:02:09.841Z - info: [subapp.register] Success register sub app: /
+2018-03-22T09:02:09.841Z - info: [Router.dispatch] Dispatching...
+2018-03-22T09:02:09.843Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T09:02:09.846Z - info: [start] App running on port: 3000
+2018-03-22T09:02:09.846Z - info: Ahihi it's started
+2018-03-22T09:02:26.537Z - info: [Router.register] Registering route: home
+2018-03-22T09:02:26.539Z - info: [Router.register] Registering route: login
+2018-03-22T09:02:26.539Z - info: [Router.register] Registering route: test
+2018-03-22T09:02:26.540Z - info: [subapp.register] Success register sub app: /
+2018-03-22T09:02:26.540Z - info: [Router.dispatch] Dispatching...
+2018-03-22T09:02:26.542Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T09:02:26.545Z - info: [start] App running on port: 3000
+2018-03-22T09:02:26.545Z - info: Ahihi it's started
+2018-03-22T09:02:26.975Z - warn: [ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:57:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:02:26.976Z - error: [ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:66:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:02:52.603Z - info: [Router.register] Registering route: home
+2018-03-22T09:02:52.605Z - info: [Router.register] Registering route: login
+2018-03-22T09:02:52.605Z - info: [Router.register] Registering route: test
+2018-03-22T09:02:52.606Z - info: [subapp.register] Success register sub app: /
+2018-03-22T09:02:52.606Z - info: [Router.dispatch] Dispatching...
+2018-03-22T09:02:52.608Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T09:02:52.611Z - info: [start] App running on port: 3000
+2018-03-22T09:02:52.611Z - info: Ahihi it's started
+2018-03-22T09:02:53.021Z - warn: [ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:57:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:02:53.022Z - error: [ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:66:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:03:24.791Z - info: [Router.register] Registering route: home
+2018-03-22T09:03:24.793Z - info: [Router.register] Registering route: login
+2018-03-22T09:03:24.793Z - info: [Router.register] Registering route: test
+2018-03-22T09:03:24.793Z - info: [subapp.register] Success register sub app: /
+2018-03-22T09:03:24.794Z - info: [Router.dispatch] Dispatching...
+2018-03-22T09:03:24.796Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T09:03:24.799Z - info: [start] App running on port: 3000
+2018-03-22T09:03:24.799Z - info: Ahihi it's started
+2018-03-22T09:03:25.241Z - warn: [ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:57:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:03:25.242Z - error: [ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:66:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:04:25.385Z - info: [Router.register] Registering route: home
+2018-03-22T09:04:25.387Z - info: [Router.register] Registering route: login
+2018-03-22T09:04:25.387Z - info: [Router.register] Registering route: test
+2018-03-22T09:04:25.387Z - info: [subapp.register] Success register sub app: /
+2018-03-22T09:04:25.388Z - info: [Router.dispatch] Dispatching...
+2018-03-22T09:04:25.390Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T09:04:25.393Z - info: [start] App running on port: 3000
+2018-03-22T09:04:25.393Z - info: Ahihi it's started
+2018-03-22T09:04:25.807Z - warn: [ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:61:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:04:25.808Z - error: [ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:70:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:04:25.808Z - error: [ExtManager.load] An error occurred while finding ext:
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:70:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:04:55.873Z - info: [Router.register] Registering route: home
+2018-03-22T09:04:55.875Z - info: [Router.register] Registering route: login
+2018-03-22T09:04:55.875Z - info: [Router.register] Registering route: test
+2018-03-22T09:04:55.875Z - info: [subapp.register] Success register sub app: /
+2018-03-22T09:04:55.876Z - info: [Router.dispatch] Dispatching...
+2018-03-22T09:04:55.878Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T09:04:55.881Z - info: [start] App running on port: 3000
+2018-03-22T09:04:55.881Z - info: Ahihi it's started
+2018-03-22T09:04:56.318Z - warn: 
+[ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:61:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:04:56.319Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:70:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:04:56.319Z - error: 
+[ExtManager.load] An error occurred while finding ext:
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:70:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:05:40.773Z - info: [Router.register] Registering route: home
+2018-03-22T09:05:40.775Z - info: [Router.register] Registering route: login
+2018-03-22T09:05:40.775Z - info: [Router.register] Registering route: test
+2018-03-22T09:05:40.775Z - info: [subapp.register] Success register sub app: /
+2018-03-22T09:05:40.776Z - info: [Router.dispatch] Dispatching...
+2018-03-22T09:05:40.778Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T09:05:40.781Z - info: [start] App running on port: 3000
+2018-03-22T09:05:40.781Z - info: Ahihi it's started
+2018-03-22T09:05:41.188Z - warn: 
+[ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:61:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:05:41.189Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: laco is not defined
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:71:41)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+laco is not defined
+2018-03-22T09:05:41.190Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: laco is not defined
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:71:41)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+laco is not defined
+2018-03-22T09:06:47.144Z - info: [Router.register] Registering route: home
+2018-03-22T09:06:47.146Z - info: [Router.register] Registering route: login
+2018-03-22T09:06:47.146Z - info: [Router.register] Registering route: test
+2018-03-22T09:06:47.147Z - info: [subapp.register] Success register sub app: /
+2018-03-22T09:06:47.147Z - info: [Router.dispatch] Dispatching...
+2018-03-22T09:06:47.149Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T09:06:47.152Z - info: [start] App running on port: 3000
+2018-03-22T09:06:47.152Z - info: Ahihi it's started
+2018-03-22T09:06:47.573Z - warn: 
+[ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:62:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:06:47.575Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: ExtItem is not a constructor
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:72:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+ExtItem is not a constructor
+2018-03-22T09:06:47.575Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: ExtItem is not a constructor
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:72:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+ExtItem is not a constructor
+2018-03-22T09:07:34.433Z - info: [Router.register] Registering route: home
+2018-03-22T09:07:34.435Z - info: [Router.register] Registering route: login
+2018-03-22T09:07:34.435Z - info: [Router.register] Registering route: test
+2018-03-22T09:07:34.436Z - info: [subapp.register] Success register sub app: /
+2018-03-22T09:07:34.436Z - info: [Router.dispatch] Dispatching...
+2018-03-22T09:07:34.438Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T09:07:34.441Z - info: [start] App running on port: 3000
+2018-03-22T09:07:34.441Z - info: Ahihi it's started
+2018-03-22T09:07:34.882Z - warn: 
+[ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:62:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:07:52.761Z - info: [Router.register] Registering route: home
+2018-03-22T09:07:52.763Z - info: [Router.register] Registering route: login
+2018-03-22T09:07:52.764Z - info: [Router.register] Registering route: test
+2018-03-22T09:07:52.764Z - info: [subapp.register] Success register sub app: /
+2018-03-22T09:07:52.764Z - info: [Router.dispatch] Dispatching...
+2018-03-22T09:07:52.767Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T09:07:52.770Z - info: [start] App running on port: 3000
+2018-03-22T09:07:52.770Z - info: Ahihi it's started
+2018-03-22T09:12:10.474Z - info: [Router.register] Registering route: home
+2018-03-22T09:12:10.476Z - info: [Router.register] Registering route: login
+2018-03-22T09:12:10.476Z - info: [Router.register] Registering route: test
+2018-03-22T09:12:10.477Z - info: [subapp.register] Success register sub app: /
+2018-03-22T09:12:10.477Z - info: [Router.dispatch] Dispatching...
+2018-03-22T09:12:10.479Z - info: [subapp.dispatch] [/] mounted...
+2018-03-22T09:12:10.482Z - info: [start] App running on port: 3000
+2018-03-22T09:12:10.482Z - info: Ahihi it's started
+2018-03-22T09:16:43.605Z - info: [start] App running on port: 3000
+2018-03-22T09:16:43.607Z - info: Ahihi it's started
+2018-03-22T09:16:44.019Z - info: [Router.register] Registering route: Dashboard
+2018-03-22T09:16:44.020Z - info: [Router.register] Registering route: login
+2018-03-22T09:16:44.020Z - info: [Router.register] Registering route: test
+2018-03-22T09:16:44.020Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:20:14.778Z - info: [start] App running on port: 3000
+2018-03-22T09:20:14.780Z - info: Ahihi it's started
+2018-03-22T09:20:15.197Z - info: [Router.register] [Admin] Registering route: Dashboard
+2018-03-22T09:20:15.198Z - info: [Router.register] [Admin] Registering route: login
+2018-03-22T09:20:15.198Z - info: [Router.register] [Admin] Registering route: test
+2018-03-22T09:20:15.198Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:20:29.396Z - info: [start] App running on port: 3000
+2018-03-22T09:20:29.397Z - info: Ahihi it's started
+2018-03-22T09:20:29.817Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: caller is not defined
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:13:29)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:8:21)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:72:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+caller is not defined
+2018-03-22T09:20:29.817Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: caller is not defined
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:13:29)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:8:21)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:72:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+caller is not defined
+2018-03-22T09:20:51.554Z - info: [start] App running on port: 3000
+2018-03-22T09:20:51.558Z - info: Ahihi it's started
+2018-03-22T09:20:51.973Z - info: [Router.register] [/node_modules/laco-ext-admin/index.js] Registering route: Dashboard
+2018-03-22T09:20:51.973Z - info: [Router.register] [/node_modules/laco-ext-admin/index.js] Registering route: login
+2018-03-22T09:20:51.974Z - info: [Router.register] [/node_modules/laco-ext-admin/index.js] Registering route: test
+2018-03-22T09:20:51.974Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:21:02.610Z - info: [start] App running on port: 3000
+2018-03-22T09:21:02.612Z - info: Ahihi it's started
+2018-03-22T09:21:03.041Z - info: [Router.register] [/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin] Registering route: Dashboard
+2018-03-22T09:21:03.042Z - info: [Router.register] [/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin] Registering route: login
+2018-03-22T09:21:03.042Z - info: [Router.register] [/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin] Registering route: test
+2018-03-22T09:21:03.042Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:22:06.348Z - info: [start] App running on port: 3000
+2018-03-22T09:22:06.350Z - info: Ahihi it's started
+2018-03-22T09:22:06.792Z - info: [Router.register] [/node_modules/laco-ext-admin] Registering route: Dashboard
+2018-03-22T09:22:06.793Z - info: [Router.register] [/node_modules/laco-ext-admin] Registering route: login
+2018-03-22T09:22:06.793Z - info: [Router.register] [/node_modules/laco-ext-admin] Registering route: test
+2018-03-22T09:22:06.793Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:22:26.846Z - info: [start] App running on port: 3000
+2018-03-22T09:22:26.849Z - info: Ahihi it's started
+2018-03-22T09:22:27.251Z - info: [Router.register] [node_modules/laco-ext-admin] Registering route: Dashboard
+2018-03-22T09:22:27.252Z - info: [Router.register] [node_modules/laco-ext-admin] Registering route: login
+2018-03-22T09:22:27.252Z - info: [Router.register] [node_modules/laco-ext-admin] Registering route: test
+2018-03-22T09:22:27.252Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:23:16.849Z - info: [start] App running on port: 3000
+2018-03-22T09:23:16.851Z - info: Ahihi it's started
+2018-03-22T09:23:17.307Z - info: [Router.register] [Ext_admin] Registering route: Dashboard
+2018-03-22T09:23:17.308Z - info: [Router.register] [Ext_admin] Registering route: login
+2018-03-22T09:23:17.308Z - info: [Router.register] [Ext_admin] Registering route: test
+2018-03-22T09:23:17.309Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:23:28.589Z - info: [start] App running on port: 3000
+2018-03-22T09:23:28.591Z - info: Ahihi it's started
+2018-03-22T09:23:29.010Z - info: [Router.register] [ext::admin] Registering route: Dashboard
+2018-03-22T09:23:29.010Z - info: [Router.register] [ext::admin] Registering route: login
+2018-03-22T09:23:29.011Z - info: [Router.register] [ext::admin] Registering route: test
+2018-03-22T09:23:29.011Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:24:21.237Z - info: [start] App running on port: 3000
+2018-03-22T09:24:21.239Z - info: [main] App started!
+2018-03-22T09:24:21.668Z - info: [Router.register] [ext::admin] Registering route: Dashboard
+2018-03-22T09:24:21.668Z - info: [Router.register] [ext::admin] Registering route: login
+2018-03-22T09:24:21.669Z - info: [Router.register] [ext::admin] Registering route: test
+2018-03-22T09:24:21.669Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:25:59.884Z - info: [start] App running on port: 3000
+2018-03-22T09:25:59.886Z - info: [main] App started!
+2018-03-22T09:26:00.303Z - info: [Router.register] [ext::admin] Registering route: Dashboard
+2018-03-22T09:26:00.303Z - info: [Router.register] [ext::admin] Registering route: login
+2018-03-22T09:26:00.304Z - info: [Router.register] [ext::admin] Registering route: test
+2018-03-22T09:26:00.304Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:35:45.307Z - info: [Router.register] [ext::admin] Registering route: Dashboard
+2018-03-22T09:35:45.309Z - info: [Router.register] [ext::admin] Registering route: login
+2018-03-22T09:35:45.309Z - info: [Router.register] [ext::admin] Registering route: test
+2018-03-22T09:35:45.310Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:35:54.291Z - info: [Router.register] [ext::admin] Registering route: Dashboard
+2018-03-22T09:35:54.293Z - info: [Router.register] [ext::admin] Registering route: login
+2018-03-22T09:35:54.294Z - info: [Router.register] [ext::admin] Registering route: test
+2018-03-22T09:35:54.294Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:38:05.030Z - info: [Router.register] [ext::admin] Registering route: Dashboard
+2018-03-22T09:38:05.032Z - info: [Router.register] [ext::admin] Registering route: login
+2018-03-22T09:38:05.032Z - info: [Router.register] [ext::admin] Registering route: test
+2018-03-22T09:38:05.033Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:38:05.033Z - info: [Router.dispatch] [ext::admin] Dispatching...
+2018-03-22T09:38:05.036Z - info: [subapp.dispatch] [/admin] mounted...
+2018-03-22T09:38:05.038Z - info: [start] App running on port: 3000
+2018-03-22T09:38:05.038Z - info: [main] App started!
+2018-03-22T09:38:23.189Z - info: [Router.register] [ext::admin] Registering route: Dashboard
+2018-03-22T09:38:23.190Z - info: [Router.register] [ext::admin] Registering route: login
+2018-03-22T09:38:23.191Z - info: [Router.register] [ext::admin] Registering route: test
+2018-03-22T09:38:23.191Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:38:23.192Z - info: [Router.dispatch] [ext::admin] Dispatching...
+2018-03-22T09:38:23.194Z - info: [subapp.dispatch] [/admin] mounted...
+2018-03-22T09:38:23.197Z - info: [start] App running on port: 3000
+2018-03-22T09:38:23.197Z - info: [main] App started!
+2018-03-22T09:38:41.278Z - info: [Router.register] [ext::admin] Registering route: Dashboard
+2018-03-22T09:38:41.280Z - info: [Router.register] [ext::admin] Registering route: login
+2018-03-22T09:38:41.280Z - info: [Router.register] [ext::admin] Registering route: test
+2018-03-22T09:38:41.280Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T09:38:41.281Z - info: [Router.dispatch] [ext::admin] Dispatching...
+2018-03-22T09:38:41.283Z - info: [subapp.dispatch] [/admin] mounted...
+2018-03-22T09:38:41.285Z - info: [start] App running on port: 3000
+2018-03-22T09:38:41.285Z - info: [main] App started!
+2018-03-22T10:06:11.300Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T10:06:11.301Z - info: [Router.register] [admin] Registering route: login
+2018-03-22T10:06:11.302Z - info: [Router.register] [admin] Registering route: test
+2018-03-22T10:06:11.302Z - info: [subapp.register] Success register sub app: /admin
+2018-03-22T10:06:11.303Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T10:06:11.305Z - info: [subapp.dispatch] [/admin] mounted...
+2018-03-22T10:06:11.308Z - info: [start] App running on port: 3000
+2018-03-22T10:06:11.308Z - info: [main] App started!
+2018-03-22T10:07:14.868Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T10:07:14.870Z - info: [Router.register] [admin] Registering route: login
+2018-03-22T10:07:14.870Z - info: [Router.register] [admin] Registering route: test
+2018-03-22T10:07:14.871Z - info: [subapp.register] [app] Success register sub app: /admin
+2018-03-22T10:07:14.871Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T10:07:14.874Z - info: [subapp.dispatch] [/admin] mounted...
+2018-03-22T10:07:14.877Z - info: [start] App running on port: 3000
+2018-03-22T10:07:14.877Z - info: [main] App started!
+2018-03-22T10:07:36.993Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T10:07:36.994Z - info: [Router.register] [admin] Registering route: login
+2018-03-22T10:07:36.995Z - info: [Router.register] [admin] Registering route: test
+2018-03-22T10:07:36.995Z - info: [subapp.register] [admin] Success register sub app: /admin
+2018-03-22T10:07:36.995Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T10:07:36.998Z - info: [subapp.dispatch] [/admin] mounted...
+2018-03-22T10:07:37.000Z - info: [start] App running on port: 3000
+2018-03-22T10:07:37.000Z - info: [main] App started!
+2018-03-22T10:19:43.024Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-22T10:19:43.026Z - info: [Router.register] [admin] Registering route: login
+2018-03-22T10:19:43.027Z - info: [Router.register] [admin] Registering route: test
+2018-03-22T10:19:43.027Z - info: [subapp.register] [admin] Success register sub app: /admin
+2018-03-22T10:19:43.027Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-22T10:19:43.030Z - info: [subapp.dispatch] [admin] Mounted...
+2018-03-22T10:19:43.032Z - info: [start] App running on port: 3000
+2018-03-22T10:19:43.032Z - info: [main] App started!

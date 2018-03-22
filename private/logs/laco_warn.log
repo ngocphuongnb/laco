@@ -14,3 +14,223 @@
   "name": "home",
   "label": "Home"
 }
+2018-03-22T09:02:26.975Z - warn: [ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:57:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:02:26.976Z - error: [ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:66:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:02:53.021Z - warn: [ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:57:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:02:53.022Z - error: [ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:66:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:03:25.241Z - warn: [ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:57:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:03:25.241Z - error: [ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:66:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:04:25.807Z - warn: [ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:61:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:04:25.808Z - error: [ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:70:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:04:25.808Z - error: [ExtManager.load] An error occurred while finding ext:
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:70:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:04:56.318Z - warn: 
+[ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:61:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:04:56.319Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:70:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:04:56.319Z - error: 
+[ExtManager.load] An error occurred while finding ext:
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:70:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js'
+2018-03-22T09:05:41.188Z - warn: 
+[ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:61:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:05:41.189Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: laco is not defined
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:71:41)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+laco is not defined
+2018-03-22T09:05:41.190Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: laco is not defined
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:71:41)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+laco is not defined
+2018-03-22T09:06:47.573Z - warn: 
+[ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:62:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:06:47.574Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: ExtItem is not a constructor
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:72:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+ExtItem is not a constructor
+2018-03-22T09:06:47.575Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: ExtItem is not a constructor
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:72:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+ExtItem is not a constructor
+2018-03-22T09:07:34.881Z - warn: 
+[ExtManager.load] Cannot load package json file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:62:35)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/package.json'
+2018-03-22T09:20:29.817Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: caller is not defined
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:13:29)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:8:21)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:72:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+caller is not defined
+2018-03-22T09:20:29.817Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: caller is not defined
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:13:29)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:8:21)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:72:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+caller is not defined
