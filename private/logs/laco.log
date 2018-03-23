@@ -791,3 +791,1579 @@ cotnroller is not defined
 2018-03-22T13:45:11.430Z - info: [SubApp.dispatch] [admin] Mounted...
 2018-03-22T13:45:11.434Z - info: [start] App running on port: 3000
 2018-03-22T13:45:11.434Z - info: [main] App started!
+2018-03-23T01:18:26.706Z - info: [Router.register] [ext::admin] Registering route: Dashboard
+2018-03-23T01:18:26.707Z - info: [Router.register] [ext::admin] Registering route: login
+2018-03-23T01:18:26.708Z - info: [SubApp.register] [ext::admin] Success register sub app: /admin
+2018-03-23T01:18:26.708Z - info: [Router.dispatch] [ext::admin] Dispatching...
+2018-03-23T01:18:26.710Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T01:18:26.713Z - info: [start] App running on port: 3000
+2018-03-23T01:18:26.713Z - info: [main] App started!
+2018-03-23T01:20:24.484Z - info: [Router.register] [ext::admin] Registering route: Dashboard
+2018-03-23T01:20:24.486Z - info: [Router.register] [ext::admin] Registering route: login
+2018-03-23T01:20:24.486Z - info: [SubApp.register] [ext::admin] Success register sub app: /admin
+2018-03-23T01:20:24.487Z - info: [Router.dispatch] [ext::admin] Dispatching...
+2018-03-23T01:20:24.489Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T01:20:24.491Z - info: [start] App running on port: 3000
+2018-03-23T01:20:24.491Z - info: [main] App started!
+2018-03-23T01:33:57.299Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T01:33:57.300Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T01:33:57.301Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T01:33:57.301Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T01:33:57.303Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T01:33:57.306Z - info: [start] App running on port: 3000
+2018-03-23T01:33:57.306Z - info: [main] App started!
+2018-03-23T01:45:22.805Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T01:45:22.806Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T01:45:22.807Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T01:45:22.808Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T01:45:22.810Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T01:45:22.812Z - info: [start] App running on port: 3000
+2018-03-23T01:45:22.813Z - info: [main] App started!
+2018-03-23T01:46:29.666Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T01:46:29.668Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T01:46:29.669Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T01:46:29.670Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T01:46:29.672Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T01:46:29.674Z - info: [start] App running on port: 3000
+2018-03-23T01:46:29.675Z - info: [main] App started!
+2018-03-23T01:47:05.656Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T01:47:05.658Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T01:47:05.658Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T01:47:05.659Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T01:47:05.659Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T01:47:05.661Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T01:47:05.663Z - info: [start] App running on port: 3000
+2018-03-23T01:47:05.664Z - info: [main] App started!
+2018-03-23T02:15:09.858Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T02:15:09.860Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T02:15:09.860Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T02:15:09.860Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T02:15:09.860Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T02:15:09.861Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T02:15:09.863Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T02:15:09.866Z - info: [start] App running on port: 3000
+2018-03-23T02:15:09.866Z - info: [main] App started!
+2018-03-23T02:16:26.819Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T02:16:26.821Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T02:16:26.821Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T02:16:26.822Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T02:16:26.822Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T02:16:26.823Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T02:16:26.825Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T02:16:26.827Z - info: [start] App running on port: 3000
+2018-03-23T02:16:26.827Z - info: [main] App started!
+2018-03-23T02:17:03.788Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T02:17:03.790Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T02:17:03.790Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T02:17:03.790Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T02:17:03.790Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T02:17:03.791Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T02:17:03.795Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T02:17:03.798Z - info: [start] App running on port: 3000
+2018-03-23T02:17:03.798Z - info: [main] App started!
+2018-03-23T03:08:31.473Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T03:08:31.475Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T03:08:31.476Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T03:08:31.476Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T03:08:31.476Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T03:08:31.477Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T03:08:31.480Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T03:08:31.482Z - info: [start] App running on port: 3000
+2018-03-23T03:08:31.483Z - info: [main] App started!
+2018-03-23T03:09:14.137Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T03:09:14.139Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T03:09:14.139Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T03:09:14.139Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T03:09:14.140Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T03:09:14.140Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T03:09:14.143Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: actionName is not defined
+    at Router.transformHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:236:28)
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:273:50)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:271:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:270:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+    at _.each.sub (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:55:21)
+actionName is not defined
+2018-03-23T03:09:30.915Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T03:09:30.917Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T03:09:30.917Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T03:09:30.917Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T03:09:30.918Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T03:09:30.918Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T03:09:30.922Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T03:09:30.924Z - info: [start] App running on port: 3000
+2018-03-23T03:09:30.925Z - info: [main] App started!
+2018-03-23T03:33:46.922Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T03:33:46.923Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T03:33:46.924Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T03:33:46.924Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T03:33:46.924Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T03:33:46.925Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T03:33:46.937Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T03:33:46.939Z - info: [start] App running on port: 3000
+2018-03-23T03:33:46.939Z - info: [main] App started!
+2018-03-23T03:42:00.796Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T03:42:00.797Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T03:42:00.798Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T03:42:00.798Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T03:42:00.798Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T03:42:00.799Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T03:42:00.811Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T03:42:00.814Z - info: [start] App running on port: 3000
+2018-03-23T03:42:00.814Z - info: [main] App started!
+2018-03-23T03:54:24.023Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T03:54:24.024Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T03:54:24.025Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T03:54:24.025Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T03:54:24.025Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T03:54:24.026Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T03:54:24.033Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T03:54:24.035Z - info: [start] App running on port: 3000
+2018-03-23T03:54:24.035Z - info: [main] App started!
+2018-03-23T04:00:04.309Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:00:04.311Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:00:04.311Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:00:04.312Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:00:04.312Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:00:04.313Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:00:04.315Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'get' of undefined
+    at Router.transformHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:251:62)
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:297:50)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:295:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:294:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+    at _.each.sub (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:55:21)
+Cannot read property 'get' of undefined
+2018-03-23T04:00:25.472Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:00:25.473Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:00:25.474Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:00:25.474Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:00:25.474Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:00:25.475Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:00:25.481Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'get' of undefined
+    at Router.transformHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:253:62)
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:299:50)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:297:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:296:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+    at _.each.sub (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:55:21)
+Cannot read property 'get' of undefined
+2018-03-23T04:00:55.660Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:00:55.662Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:00:55.662Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:00:55.662Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:00:55.663Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:00:55.663Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:00:55.668Z - error: [Router.transform] [admin] Action not found for route: 
+{
+  "subapp": "admin",
+  "controller": "user",
+  "action": "login"
+}
+2018-03-23T04:00:55.670Z - error: [Router.transform] [admin] Action not found for route: 
+{
+  "subapp": "admin",
+  "controller": "dashboard",
+  "action": "index"
+}
+2018-03-23T04:00:55.671Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:00:55.674Z - info: [start] App running on port: 3000
+2018-03-23T04:00:55.674Z - info: [main] App started!
+2018-03-23T04:01:06.273Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:01:06.275Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:01:06.275Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:01:06.276Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:01:06.276Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:01:06.276Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:01:06.278Z - error: [Router.transform] [admin] Action not found for route: 
+{
+  "subapp": "admin",
+  "controller": "user",
+  "action": "login"
+}
+2018-03-23T04:01:06.280Z - error: [Router.transform] [admin] Action not found for route: 
+{
+  "subapp": "admin",
+  "controller": "dashboard",
+  "action": "index"
+}
+2018-03-23T04:01:06.281Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:01:06.283Z - info: [start] App running on port: 3000
+2018-03-23T04:01:06.284Z - info: [main] App started!
+2018-03-23T04:02:05.646Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:02:05.648Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:02:05.648Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:02:05.648Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:02:05.649Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:02:05.649Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:02:05.653Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:02:05.655Z - info: [start] App running on port: 3000
+2018-03-23T04:02:05.655Z - info: [main] App started!
+2018-03-23T04:03:07.505Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:03:07.506Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:03:07.507Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:03:07.507Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-23T04:03:07.508Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:03:07.508Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:03:07.508Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:03:07.509Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:03:07.512Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:03:07.515Z - info: [start] App running on port: 3000
+2018-03-23T04:03:07.515Z - info: [main] App started!
+2018-03-23T04:03:17.940Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:03:17.942Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:03:17.942Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:03:17.943Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:03:17.943Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:03:17.943Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:03:17.944Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:03:17.947Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'get' of undefined
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:307:28)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:295:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:294:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+    at _.each.sub (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:55:21)
+    at /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:4917:15
+Cannot read property 'get' of undefined
+2018-03-23T04:05:00.275Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:05:00.276Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:05:00.276Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:05:00.277Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:05:00.277Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:05:00.277Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:05:00.278Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:05:00.281Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'get' of undefined
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:309:28)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:297:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:296:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+    at _.each.sub (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:55:21)
+    at /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:4917:15
+Cannot read property 'get' of undefined
+2018-03-23T04:06:18.502Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:06:18.503Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:06:18.504Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:06:18.504Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:06:18.504Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:06:18.504Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:06:18.505Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:06:18.509Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:06:18.511Z - info: [start] App running on port: 3000
+2018-03-23T04:06:18.511Z - info: [main] App started!
+2018-03-23T04:06:55.741Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:06:55.743Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:06:55.743Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:06:55.744Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:06:55.744Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:06:55.744Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:06:55.745Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:06:55.747Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:06:55.750Z - info: [start] App running on port: 3000
+2018-03-23T04:06:55.750Z - info: [main] App started!
+2018-03-23T04:10:53.043Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:10:53.045Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:10:53.045Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:10:53.046Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:10:53.046Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:10:53.046Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:10:53.047Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:10:53.050Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:10:53.053Z - info: [start] App running on port: 3000
+2018-03-23T04:10:53.053Z - info: [main] App started!
+2018-03-23T04:11:09.461Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:11:09.463Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:11:09.463Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:11:09.463Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:11:09.463Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:11:09.464Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:11:09.464Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:11:09.468Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: base.trimChar is not a function
+    at SubAppManager.get (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:21:32)
+    at Router.transformHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:248:52)
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:301:50)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:299:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:298:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+base.trimChar is not a function
+2018-03-23T04:11:34.134Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:11:34.135Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:11:34.136Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:11:34.136Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:11:34.136Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:11:34.136Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:11:34.137Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:11:34.141Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: base.trimChar is not a function
+    at SubAppManager.get (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:21:32)
+    at Router.transformHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:250:52)
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:303:50)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:301:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:300:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+base.trimChar is not a function
+2018-03-23T04:11:46.303Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:11:46.305Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:11:46.306Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:11:46.306Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:11:46.306Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:11:46.306Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:11:46.307Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:11:46.312Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: base.trimChar is not a function
+    at SubAppManager.get (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:21:32)
+    at Router.transformHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:250:52)
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:303:50)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:301:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:300:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+base.trimChar is not a function
+2018-03-23T04:12:12.452Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:12:12.454Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:12:12.454Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:12:12.455Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:12:12.455Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:12:12.455Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:12:12.456Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:12:12.459Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:12:12.462Z - info: [start] App running on port: 3000
+2018-03-23T04:12:12.462Z - info: [main] App started!
+2018-03-23T04:13:02.420Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:13:02.421Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T04:13:02.422Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:13:02.422Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:13:02.422Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:13:02.422Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:13:02.423Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:13:02.423Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:13:02.426Z - error: [Router.transform] [admin] Action not found for route: 
+{
+  "subapp": "admin",
+  "controller": "user",
+  "action": "index"
+}
+2018-03-23T04:13:02.426Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:13:02.429Z - info: [start] App running on port: 3000
+2018-03-23T04:13:02.429Z - info: [main] App started!
+2018-03-23T04:13:29.585Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:13:29.587Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T04:13:29.587Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:13:29.588Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:13:29.588Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:13:29.588Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:13:29.588Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:13:29.589Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:13:29.591Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:13:29.594Z - info: [start] App running on port: 3000
+2018-03-23T04:13:29.594Z - info: [main] App started!
+2018-03-23T04:13:46.496Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:13:46.498Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T04:13:46.498Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:13:46.498Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:13:46.498Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:13:46.499Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:13:46.499Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:13:46.499Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:13:46.502Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:13:46.504Z - info: [start] App running on port: 3000
+2018-03-23T04:13:46.505Z - info: [main] App started!
+2018-03-23T04:13:56.269Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:13:56.271Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T04:13:56.271Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:13:56.272Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:13:56.272Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:13:56.272Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:13:56.272Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:13:56.273Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:13:56.275Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:13:56.278Z - info: [start] App running on port: 3000
+2018-03-23T04:13:56.278Z - info: [main] App started!
+2018-03-23T04:14:02.915Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:14:02.917Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T04:14:02.917Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:14:02.917Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:14:02.917Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:14:02.918Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:14:02.918Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:14:02.918Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:14:02.921Z - error: [SubApp.register] App base not found: adminw
+2018-03-23T04:14:02.921Z - error: [Router.transform] [admin] Subapp not found for route: 
+{
+  "subapp": "adminw",
+  "controller": "user",
+  "action": "index"
+}
+2018-03-23T04:14:02.922Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:14:02.924Z - info: [start] App running on port: 3000
+2018-03-23T04:14:02.925Z - info: [main] App started!
+2018-03-23T04:14:36.054Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T04:14:36.056Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T04:14:36.057Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T04:14:36.057Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T04:14:36.057Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T04:14:36.057Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T04:14:36.057Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T04:14:36.058Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T04:14:36.061Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T04:14:36.064Z - info: [start] App running on port: 3000
+2018-03-23T04:14:36.064Z - info: [main] App started!
+2018-03-23T06:07:07.283Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T06:07:07.285Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T06:07:07.285Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T06:07:07.286Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T06:07:07.286Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T06:07:07.286Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T06:07:07.286Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T06:07:07.287Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T06:07:07.290Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T06:07:07.293Z - info: [start] App running on port: 3000
+2018-03-23T06:07:07.293Z - info: [main] App started!
+2018-03-23T06:10:17.519Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T06:10:17.521Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T06:10:17.521Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T06:10:17.521Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T06:10:17.522Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T06:10:17.522Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T06:10:17.522Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T06:10:17.523Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T06:10:17.526Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T06:10:17.528Z - info: [start] App running on port: 3000
+2018-03-23T06:10:17.529Z - info: [main] App started!
+2018-03-23T06:11:45.579Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T06:11:45.581Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T06:11:45.581Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T06:11:45.582Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T06:11:45.582Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T06:11:45.582Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T06:11:45.582Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T06:11:45.583Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T06:11:45.586Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T06:11:45.588Z - info: [start] App running on port: 3000
+2018-03-23T06:11:45.588Z - info: [main] App started!
+2018-03-23T06:11:56.433Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Class extends value #<Object> is not a constructor or null
+    at Object.<anonymous> (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:5:25)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers.js:5:18)
+    at Module._compile (module.js:643:30)
+Class extends value #<Object> is not a constructor or null
+2018-03-23T06:11:56.434Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Class extends value #<Object> is not a constructor or null
+    at Object.<anonymous> (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:5:25)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers.js:5:18)
+    at Module._compile (module.js:643:30)
+Class extends value #<Object> is not a constructor or null
+2018-03-23T06:12:16.377Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T06:12:16.379Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T06:12:16.379Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T06:12:16.379Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T06:12:16.380Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T06:12:16.380Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new Dashboard (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:6:16)
+    at ControllerManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/controller/index.js:38:63)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:12:26)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T06:12:16.381Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new Dashboard (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:6:16)
+    at ControllerManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/controller/index.js:38:63)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:12:26)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T06:12:32.100Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T06:12:32.102Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T06:12:32.102Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T06:12:32.103Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T06:12:32.103Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T06:12:32.103Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T06:12:32.103Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T06:12:32.104Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T06:12:32.107Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T06:12:32.109Z - info: [start] App running on port: 3000
+2018-03-23T06:12:32.109Z - info: [main] App started!
+2018-03-23T06:14:13.490Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js/libs/controller/base'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at global.lacoLib.name (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/helper.js:7:12)
+    at Object.<anonymous> (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:3:24)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js/libs/controller/base'
+2018-03-23T06:14:13.491Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js/libs/controller/base'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at global.lacoLib.name (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/helper.js:7:12)
+    at Object.<anonymous> (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:3:24)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js/libs/controller/base'
+2018-03-23T06:14:32.523Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T06:14:32.525Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T06:14:32.525Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T06:14:32.525Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T06:14:32.525Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T06:14:32.526Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T06:14:32.526Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T06:14:32.527Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T06:14:32.529Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T06:14:32.532Z - info: [start] App running on port: 3000
+2018-03-23T06:14:32.532Z - info: [main] App started!
+2018-03-23T06:19:24.057Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T06:19:24.058Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T06:19:24.059Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T06:19:24.059Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T06:19:24.059Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T06:19:24.059Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T06:19:24.060Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T06:19:24.060Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T06:19:24.063Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T06:19:24.065Z - info: [start] App running on port: 3000
+2018-03-23T06:19:24.065Z - info: [main] App started!
+2018-03-23T06:33:42.974Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: UIManager is not a constructor
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:9:21)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+UIManager is not a constructor
+2018-03-23T06:33:42.975Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: UIManager is not a constructor
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:9:21)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+UIManager is not a constructor
+2018-03-23T06:33:57.138Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T06:33:57.140Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T06:33:57.140Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T06:33:57.140Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T06:33:57.140Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T06:33:57.141Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T06:33:57.141Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T06:33:57.141Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T06:33:57.144Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T06:33:57.147Z - info: [start] App running on port: 3000
+2018-03-23T06:33:57.147Z - info: [main] App started!
+2018-03-23T06:46:09.444Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: UITheme is not defined
+    at new UIManager (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:14:26)
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:9:21)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+UITheme is not defined
+2018-03-23T06:46:09.446Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: UITheme is not defined
+    at new UIManager (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:14:26)
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:9:21)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+UITheme is not defined
+2018-03-23T06:58:34.446Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T06:58:34.448Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T06:58:34.448Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T06:58:34.448Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T06:58:34.449Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T06:58:34.449Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T06:58:34.449Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T06:58:34.450Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T06:58:34.453Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T06:58:34.455Z - info: [start] App running on port: 3000
+2018-03-23T06:58:34.455Z - info: [main] App started!
+2018-03-23T07:02:54.811Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T07:02:54.813Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T07:02:54.813Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T07:02:54.814Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T07:02:54.814Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T07:02:54.814Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T07:02:54.814Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T07:02:54.815Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T07:02:54.818Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T07:02:54.820Z - info: [start] App running on port: 3000
+2018-03-23T07:02:54.820Z - info: [main] App started!
+2018-03-23T07:03:39.376Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T07:03:39.378Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T07:03:39.378Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T07:03:39.379Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T07:03:39.379Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T07:03:39.379Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T07:03:39.380Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T07:03:39.381Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T07:03:39.384Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T07:03:39.386Z - info: [start] App running on port: 3000
+2018-03-23T07:03:39.386Z - info: [main] App started!
+2018-03-23T07:06:57.078Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T07:06:57.080Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T07:06:57.080Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T07:06:57.080Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T07:06:57.081Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T07:06:57.081Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T07:06:57.083Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T07:06:57.083Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T07:06:57.086Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T07:06:57.088Z - info: [start] App running on port: 3000
+2018-03-23T07:06:57.088Z - info: [main] App started!
+2018-03-23T07:08:15.797Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T07:08:15.799Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T07:08:15.799Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T07:08:15.799Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T07:08:15.800Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T07:08:15.800Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T07:08:15.802Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T07:08:15.802Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T07:08:15.805Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T07:08:15.807Z - info: [start] App running on port: 3000
+2018-03-23T07:08:15.807Z - info: [main] App started!
+2018-03-23T07:08:58.812Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T07:08:58.814Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T07:08:58.814Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T07:08:58.814Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T07:08:58.814Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T07:08:58.815Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T07:08:58.815Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new SemanticUIAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js:7:9)
+    at UIManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:34:46)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:14:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T07:08:58.816Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new SemanticUIAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js:7:9)
+    at UIManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:34:46)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:14:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T07:10:14.470Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T07:10:14.473Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T07:10:14.473Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T07:10:14.473Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T07:10:14.473Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T07:10:14.474Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T07:10:14.475Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T07:10:14.476Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T07:10:14.478Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T07:10:14.481Z - info: [start] App running on port: 3000
+2018-03-23T07:10:14.481Z - info: [main] App started!
+2018-03-23T07:22:07.055Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T07:22:07.057Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T07:22:07.057Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T07:22:07.057Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T07:22:07.058Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T07:22:07.058Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T07:22:07.058Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T07:22:07.059Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T07:22:07.062Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T07:22:07.065Z - info: [start] App running on port: 3000
+2018-03-23T07:22:07.065Z - info: [main] App started!
+2018-03-23T08:27:14.302Z - info: [Ctller.load] Loading extension: admin
+2018-03-23T08:27:14.306Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:27:14.307Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:27:14.307Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:27:14.307Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:27:14.307Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:27:14.307Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:27:14.308Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:27:14.308Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:27:14.311Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:27:14.313Z - info: [start] App running on port: 3000
+2018-03-23T08:27:14.314Z - info: [main] App started!
+2018-03-23T08:27:28.167Z - info: [Ctller.loading] Loading extension: admin
+2018-03-23T08:27:28.172Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:27:28.173Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:27:28.173Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:27:28.173Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:27:28.173Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:27:28.174Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:27:28.174Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:27:28.175Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:27:28.177Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:27:28.180Z - info: [start] App running on port: 3000
+2018-03-23T08:27:28.180Z - info: [main] App started!
+2018-03-23T08:27:40.220Z - info: [Ctller.extloader] Loading extension: admin
+2018-03-23T08:27:40.224Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:27:40.225Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:27:40.225Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:27:40.225Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:27:40.225Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:27:40.226Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:27:40.226Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:27:40.227Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:27:40.229Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:27:40.232Z - info: [start] App running on port: 3000
+2018-03-23T08:27:40.232Z - info: [main] App started!
+2018-03-23T08:28:02.750Z - info: [Ctller.loadext] Loading extension: admin
+2018-03-23T08:28:02.754Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:28:02.755Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:28:02.755Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:28:02.755Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:28:02.755Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:28:02.756Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:28:02.756Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:28:02.757Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:28:02.759Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:28:02.762Z - info: [start] App running on port: 3000
+2018-03-23T08:28:02.762Z - info: [main] App started!
+2018-03-23T08:28:31.544Z - info: [Ctller.loadexts] Loading extension: admin
+2018-03-23T08:28:31.548Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:28:31.549Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:28:31.549Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:28:31.549Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:28:31.549Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:28:31.549Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:28:31.550Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:28:31.551Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:28:31.553Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:28:31.556Z - info: [start] App running on port: 3000
+2018-03-23T08:28:31.556Z - info: [main] App started!
+2018-03-23T08:28:59.674Z - info: [ExtManager.loadExts] Loading extension: admin
+2018-03-23T08:28:59.678Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:28:59.679Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:28:59.679Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:28:59.679Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:28:59.679Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:28:59.680Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:28:59.680Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:28:59.681Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:28:59.683Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:28:59.686Z - info: [start] App running on port: 3000
+2018-03-23T08:28:59.686Z - info: [main] App started!
+2018-03-23T08:29:09.772Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T08:29:09.776Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:29:09.776Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:29:09.776Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:29:09.777Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:29:09.777Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:29:09.777Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:29:09.778Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:29:09.778Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:29:09.781Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:29:09.783Z - info: [start] App running on port: 3000
+2018-03-23T08:29:09.784Z - info: [main] App started!
+2018-03-23T08:30:16.812Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T08:30:16.817Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:30:16.817Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:30:16.818Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:30:16.818Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:30:16.818Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:30:16.818Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:30:16.818Z - info: [ui.register] Registering ui: SemUIAdmin
+2018-03-23T08:30:16.819Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:30:16.820Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:30:16.822Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:30:16.825Z - info: [start] App running on port: 3000
+2018-03-23T08:30:16.825Z - info: [main] App started!
+2018-03-23T08:30:34.864Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T08:30:34.868Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:30:34.869Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:30:34.869Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:30:34.869Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:30:34.869Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:30:34.870Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:30:34.870Z - info: [AppUi.register] Registering ui: SemUIAdmin
+2018-03-23T08:30:34.870Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:30:34.871Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:30:34.873Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:30:34.876Z - info: [start] App running on port: 3000
+2018-03-23T08:30:34.876Z - info: [main] App started!
+2018-03-23T08:31:20.718Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T08:31:20.722Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:31:20.723Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:31:20.723Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:31:20.723Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:31:20.723Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:31:20.723Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:31:20.724Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T08:31:20.724Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:31:20.725Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:31:20.728Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:31:20.731Z - info: [start] App running on port: 3000
+2018-03-23T08:31:20.731Z - info: [main] App started!
+2018-03-23T08:47:44.767Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T08:47:44.773Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:47:44.773Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:47:44.774Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:47:44.774Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:47:44.774Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:47:44.774Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:47:44.775Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T08:47:44.776Z - error: [lib.ui.addLayouts] [undefined] [SemUIAdmin] Layout not found: 
+{
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "baseDir": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "file": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 9,
+    "column": 14
+  },
+  "layoutPath": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/layouts/test"
+}
+2018-03-23T08:47:44.776Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:47:44.777Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:47:44.779Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:47:44.782Z - info: [start] App running on port: 3000
+2018-03-23T08:47:44.782Z - info: [main] App started!
+2018-03-23T08:48:22.015Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T08:48:22.021Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:48:22.021Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:48:22.021Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:48:22.022Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:48:22.022Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:48:22.022Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:48:22.022Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T08:48:22.024Z - error: [lib.ui.addLayouts] [undefined] [SemUIAdmin] Layout not found: 
+{
+  "layoutPath": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/layouts/test",
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "baseDir": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "file": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 9,
+    "column": 14
+  }
+}
+2018-03-23T08:48:22.024Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:48:22.025Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:48:22.028Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:48:22.030Z - info: [start] App running on port: 3000
+2018-03-23T08:48:22.031Z - info: [main] App started!
+2018-03-23T08:49:36.808Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T08:49:36.814Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:49:36.815Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:49:36.815Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:49:36.815Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:49:36.815Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:49:36.816Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:49:36.816Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T08:49:36.817Z - error: [lib.ui.addLayouts] [admin] [SemUIAdmin] Layout not found: 
+{
+  "layoutPath": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/layouts/test",
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "baseDir": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "file": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 9,
+    "column": 14
+  }
+}
+2018-03-23T08:49:36.818Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:49:36.818Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:49:36.822Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:49:36.824Z - info: [start] App running on port: 3000
+2018-03-23T08:49:36.824Z - info: [main] App started!
+2018-03-23T08:50:50.177Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T08:50:50.184Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:50:50.185Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:50:50.185Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:50:50.185Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:50:50.186Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:50:50.186Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:50:50.186Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T08:50:50.187Z - info: [lib.ui.addLayouts] [admin] [SemUIAdmin] Registering UI task: test
+2018-03-23T08:50:50.898Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:50:50.899Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:50:50.902Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:50:50.905Z - info: [start] App running on port: 3000
+2018-03-23T08:50:50.905Z - info: [main] App started!
+2018-03-23T08:51:13.093Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T08:51:13.099Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:51:13.100Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:51:13.100Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:51:13.100Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:51:13.100Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:51:13.101Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:51:13.101Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T08:51:13.101Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering UI task: test
+2018-03-23T08:51:13.251Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:51:13.252Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:51:13.254Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:51:13.257Z - info: [start] App running on port: 3000
+2018-03-23T08:51:13.257Z - info: [main] App started!
+2018-03-23T08:52:46.441Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T08:52:46.447Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:52:46.448Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:52:46.448Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:52:46.448Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:52:46.448Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:52:46.449Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:52:46.449Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T08:52:46.449Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering UI task: test
+2018-03-23T08:52:46.597Z - error: [lib.ui.addLayou] [admin] [SemUIAdmin] View not found: 
+{
+  "viewPath": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/views/test",
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "baseDir": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "file": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 10,
+    "column": 14
+  }
+}
+2018-03-23T08:52:46.598Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:52:46.598Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:52:46.601Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:52:46.603Z - info: [start] App running on port: 3000
+2018-03-23T08:52:46.603Z - info: [main] App started!
+2018-03-23T08:53:12.286Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T08:53:12.292Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:53:12.293Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:53:12.293Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:53:12.293Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:53:12.293Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:53:12.294Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:53:12.294Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T08:53:12.294Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering UI task: test
+2018-03-23T08:53:12.442Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering UI task: test
+2018-03-23T08:53:12.446Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:53:12.446Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:53:12.449Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:53:12.451Z - info: [start] App running on port: 3000
+2018-03-23T08:53:12.451Z - info: [main] App started!
+2018-03-23T08:53:38.026Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T08:53:38.032Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:53:38.033Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:53:38.033Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:53:38.033Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:53:38.034Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:53:38.034Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:53:38.034Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T08:53:38.035Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering UI task: test
+2018-03-23T08:53:38.180Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-23T08:53:38.184Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:53:38.185Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:53:38.187Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:53:38.189Z - info: [start] App running on port: 3000
+2018-03-23T08:53:38.190Z - info: [main] App started!
+2018-03-23T08:53:53.305Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T08:53:53.312Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T08:53:53.312Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T08:53:53.313Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T08:53:53.313Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T08:53:53.313Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T08:53:53.313Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T08:53:53.314Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T08:53:53.314Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: test
+2018-03-23T08:53:53.461Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-23T08:53:53.464Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T08:53:53.465Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T08:53:53.468Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T08:53:53.470Z - info: [start] App running on port: 3000
+2018-03-23T08:53:53.470Z - info: [main] App started!
+2018-03-23T09:28:20.884Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:28:20.889Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:10:9)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:75:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T09:28:20.890Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:10:9)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:75:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T09:28:36.322Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:28:36.326Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new BaseExtension (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/base.js:6:16)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:10:9)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:75:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T09:28:36.326Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new BaseExtension (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/base.js:6:16)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:10:9)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:75:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T09:28:52.741Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:28:52.746Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new BaseExtension (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/base.js:6:16)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:10:9)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:75:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T09:28:52.746Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new BaseExtension (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/base.js:6:16)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:10:9)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:75:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T09:29:08.929Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:29:08.934Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:29:08.935Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:29:08.935Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:29:08.935Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:29:08.936Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:29:08.936Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:29:08.936Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:29:08.937Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:29:08.937Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T09:29:08.940Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T09:29:08.943Z - info: [start] App running on port: 3000
+2018-03-23T09:29:08.943Z - info: [main] App started!
+2018-03-23T09:35:37.850Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:35:37.855Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:35:37.855Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:35:37.856Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:35:37.856Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:35:37.857Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:35:37.857Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:35:37.858Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:35:37.858Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:36:16.282Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:36:16.287Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:36:16.288Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:36:16.288Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:36:16.288Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:36:16.289Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:36:16.289Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:36:16.289Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:36:16.290Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:36:33.645Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:36:33.649Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:36:33.649Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:36:33.650Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:36:33.650Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:36:33.650Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:36:33.651Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:36:33.651Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:36:33.652Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:37:15.975Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:37:15.980Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:37:15.980Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:37:15.981Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:37:15.981Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:37:15.981Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:37:15.982Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:37:15.982Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:37:15.983Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:38:39.548Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:38:39.553Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:38:39.554Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:38:39.554Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:38:39.554Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:38:39.555Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:38:39.555Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:38:39.556Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:38:39.556Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:39:04.443Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:39:04.449Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:39:04.449Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:39:04.450Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:39:04.450Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:39:04.451Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:39:04.451Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:39:04.452Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:39:04.453Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:39:04.453Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T09:39:04.456Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T09:39:04.459Z - info: [start] App running on port: 3000
+2018-03-23T09:39:04.459Z - info: [main] App started!
+2018-03-23T09:40:04.630Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:40:04.635Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:40:04.635Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:40:04.635Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:40:04.636Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:40:04.636Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:40:04.637Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:40:04.637Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:40:04.638Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:40:25.460Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:40:25.465Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:40:25.465Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:40:25.466Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:40:25.466Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:40:25.467Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:40:25.467Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:40:25.467Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:40:25.468Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:56:40.576Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:56:40.582Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:56:40.582Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:56:40.583Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:56:40.583Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:56:40.584Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:56:40.584Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:56:40.584Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:56:40.585Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:56:49.204Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:56:49.210Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:56:49.210Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:56:49.210Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:56:49.210Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:56:49.211Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:56:49.211Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:56:49.212Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:56:49.212Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:57:10.409Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:57:10.414Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:57:10.414Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:57:10.414Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:57:10.415Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:57:10.415Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:57:10.416Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:57:10.416Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:57:10.417Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:59:06.363Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:59:06.370Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:59:06.371Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:59:06.371Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:59:06.371Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:59:06.372Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:59:06.372Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:59:06.373Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:59:06.374Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:59:15.831Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:59:15.838Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:59:15.838Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:59:15.838Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:59:15.839Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:59:15.839Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:59:15.840Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:59:15.840Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:59:15.841Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T09:59:44.608Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T09:59:44.613Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T09:59:44.614Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T09:59:44.614Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T09:59:44.614Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T09:59:44.615Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T09:59:44.615Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T09:59:44.616Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T09:59:44.616Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:04:01.331Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:04:13.014Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:04:51.632Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:04:51.638Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:04:51.639Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:04:51.639Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:04:51.639Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:04:51.640Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:04:51.640Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:04:51.641Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:04:51.641Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:06:01.433Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:06:01.438Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:06:01.438Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:06:01.438Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:06:01.438Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:06:01.439Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:06:01.439Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:06:01.440Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:06:01.440Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:08:40.986Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:08:40.991Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:08:40.992Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:08:40.992Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:08:40.992Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:08:40.993Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:08:40.993Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:08:40.994Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:08:40.994Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:09:19.846Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:09:19.850Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:09:19.851Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:09:19.851Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:09:19.851Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:09:19.852Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:09:19.852Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:09:19.853Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:09:19.853Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:09:57.179Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:09:57.184Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:09:57.185Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:09:57.185Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:09:57.185Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:09:57.186Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:09:57.186Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:09:57.186Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:09:57.187Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:10:11.282Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:10:11.286Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:10:11.287Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:10:11.287Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:10:11.287Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:10:11.288Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:10:11.288Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:10:11.289Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:10:11.289Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:11:04.770Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:11:04.775Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:11:04.776Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:11:04.776Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:11:04.776Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:11:04.777Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:11:04.777Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:11:04.778Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:11:04.778Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:11:13.758Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:11:13.763Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:11:13.763Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:11:13.764Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:11:13.764Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:11:13.764Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:11:13.765Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:11:13.765Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:11:13.766Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:11:13.767Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T10:11:13.769Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T10:11:13.772Z - info: [start] App running on port: 3000
+2018-03-23T10:11:13.772Z - info: [main] App started!
+2018-03-23T10:12:56.509Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:12:56.514Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:12:56.515Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:12:56.515Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:12:56.515Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:12:56.516Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:12:56.516Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:12:56.517Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:12:56.517Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:12:56.518Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T10:12:56.520Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T10:12:56.523Z - info: [start] App running on port: 3000
+2018-03-23T10:12:56.523Z - info: [main] App started!
+2018-03-23T10:17:00.887Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:17:00.892Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:17:00.893Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:17:00.893Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:17:00.893Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:17:00.894Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:17:00.894Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:17:00.895Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:17:00.895Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:17:00.896Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T10:17:00.898Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T10:17:00.901Z - info: [start] App running on port: 3000
+2018-03-23T10:17:00.901Z - info: [main] App started!
+2018-03-23T10:22:34.766Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:22:34.771Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:22:34.771Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:22:34.771Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:22:34.771Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:22:34.772Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:22:34.772Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:22:34.773Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:22:34.773Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:22:47.454Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:22:47.459Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:22:47.460Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:22:47.460Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:22:47.460Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:22:47.461Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:22:47.461Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:22:47.462Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:22:47.462Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:22:47.463Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T10:22:47.465Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T10:22:47.468Z - info: [start] App running on port: 3000
+2018-03-23T10:22:47.468Z - info: [main] App started!
+2018-03-23T10:23:10.642Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:23:10.648Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:23:10.648Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:23:10.649Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:23:10.649Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:23:10.650Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:23:10.650Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:23:10.650Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:23:10.651Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:23:10.651Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: result is not defined
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:18:49)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:30)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+result is not defined
+2018-03-23T10:23:10.652Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: result is not defined
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:18:49)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:30)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+result is not defined
+2018-03-23T10:23:22.027Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:23:22.033Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:23:22.033Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:23:22.033Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:23:22.033Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:23:22.034Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:23:22.034Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:23:22.035Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:23:22.035Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:23:22.036Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: extObj.init is not a function
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:77:24)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+extObj.init is not a function
+2018-03-23T10:23:22.037Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: extObj.init is not a function
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:77:24)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+extObj.init is not a function
+2018-03-23T10:23:29.623Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:23:29.628Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:23:29.628Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:23:29.629Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:23:29.629Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:23:29.630Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:23:29.630Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:23:29.630Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:23:29.631Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:24:16.991Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:24:16.996Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:24:16.997Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:24:16.997Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:24:16.997Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:24:16.998Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:24:16.998Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:24:16.998Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:24:16.999Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:24:17.000Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T10:24:17.002Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T10:24:17.005Z - info: [start] App running on port: 3000
+2018-03-23T10:24:17.005Z - info: [main] App started!
+2018-03-23T10:30:04.158Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:30:04.164Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:30:04.164Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:30:04.165Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:30:04.165Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:30:04.166Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:30:04.166Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:30:04.166Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:30:04.167Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:31:05.214Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:31:05.219Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:31:05.220Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:31:05.220Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:31:05.220Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:31:05.221Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:31:05.221Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:31:05.222Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:31:05.222Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:31:27.269Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:31:27.274Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:31:27.274Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:31:27.275Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:31:27.275Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:31:27.276Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:31:27.276Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:31:27.276Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:31:27.277Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:33:12.071Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:33:12.077Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:33:12.077Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:33:12.077Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:33:12.078Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:33:12.078Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:33:12.079Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:33:12.079Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:33:12.080Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:34:16.836Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:34:16.840Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:34:16.841Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:34:16.841Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:34:16.841Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:34:16.842Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:34:16.842Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:34:16.842Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:34:16.843Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:35:29.695Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:35:29.701Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:35:29.701Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:35:29.702Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:35:29.702Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:35:29.703Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:35:29.703Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:35:29.703Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:35:29.704Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:36:03.550Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:36:03.555Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:36:03.556Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:36:03.556Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:36:03.556Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:36:03.557Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:36:03.557Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:36:03.558Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:36:03.559Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:40:20.122Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:40:20.126Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: admin is not defined
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:13:52)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:30)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+admin is not defined
+2018-03-23T10:40:20.127Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: admin is not defined
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:13:52)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:30)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+admin is not defined
+2018-03-23T10:40:40.025Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:41:30.583Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:41:30.588Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:41:30.589Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:41:30.589Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:41:30.589Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:41:30.590Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:41:30.590Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:41:30.591Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:41:30.591Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T10:42:31.860Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T10:42:31.866Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T10:42:31.867Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T10:42:31.867Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T10:42:31.868Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T10:42:31.868Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T10:42:31.869Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T10:42:31.869Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T10:42:31.870Z - info: [SubApp.register] [admin] Success register sub app: /admin

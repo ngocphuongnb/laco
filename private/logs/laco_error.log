@@ -178,3 +178,459 @@ cotnroller is not defined
 2018-03-22T13:41:04.112Z - error: [Router.register]  [admin] Route existed (name): login
 2018-03-22T13:41:04.113Z - error: [Router.register]  [admin] Route existed (name): test
 2018-03-22T13:41:58.215Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-23T03:09:14.143Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: actionName is not defined
+    at Router.transformHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:236:28)
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:273:50)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:271:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:270:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+    at _.each.sub (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:55:21)
+actionName is not defined
+2018-03-23T04:00:04.315Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'get' of undefined
+    at Router.transformHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:251:62)
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:297:50)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:295:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:294:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+    at _.each.sub (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:55:21)
+Cannot read property 'get' of undefined
+2018-03-23T04:00:25.481Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'get' of undefined
+    at Router.transformHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:253:62)
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:299:50)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:297:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:296:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+    at _.each.sub (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:55:21)
+Cannot read property 'get' of undefined
+2018-03-23T04:00:55.668Z - error: [Router.transform] [admin] Action not found for route: 
+{
+  "subapp": "admin",
+  "controller": "user",
+  "action": "login"
+}
+2018-03-23T04:00:55.670Z - error: [Router.transform] [admin] Action not found for route: 
+{
+  "subapp": "admin",
+  "controller": "dashboard",
+  "action": "index"
+}
+2018-03-23T04:01:06.278Z - error: [Router.transform] [admin] Action not found for route: 
+{
+  "subapp": "admin",
+  "controller": "user",
+  "action": "login"
+}
+2018-03-23T04:01:06.279Z - error: [Router.transform] [admin] Action not found for route: 
+{
+  "subapp": "admin",
+  "controller": "dashboard",
+  "action": "index"
+}
+2018-03-23T04:03:07.507Z - error: [Router.register]  [admin] Route existed (name): login
+2018-03-23T04:03:17.947Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'get' of undefined
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:307:28)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:295:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:294:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+    at _.each.sub (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:55:21)
+    at /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:4917:15
+Cannot read property 'get' of undefined
+2018-03-23T04:05:00.281Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'get' of undefined
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:309:28)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:297:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:296:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+    at _.each.sub (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:55:21)
+    at /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:4917:15
+Cannot read property 'get' of undefined
+2018-03-23T04:11:09.468Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: base.trimChar is not a function
+    at SubAppManager.get (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:21:32)
+    at Router.transformHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:248:52)
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:301:50)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:299:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:298:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+base.trimChar is not a function
+2018-03-23T04:11:34.141Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: base.trimChar is not a function
+    at SubAppManager.get (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:21:32)
+    at Router.transformHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:250:52)
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:303:50)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:301:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:300:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+base.trimChar is not a function
+2018-03-23T04:11:46.312Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: base.trimChar is not a function
+    at SubAppManager.get (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:21:32)
+    at Router.transformHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:250:52)
+    at _.each.method (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:303:50)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at _.each.routeObj (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:301:15)
+    at arrayEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:508:11)
+    at Function.forEach (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/node_modules/lodash/lodash.js:9334:14)
+    at Router.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/router.js:300:11)
+    at SubAppBase.dispatch (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:28:21)
+base.trimChar is not a function
+2018-03-23T04:13:02.426Z - error: [Router.transform] [admin] Action not found for route: 
+{
+  "subapp": "admin",
+  "controller": "user",
+  "action": "index"
+}
+2018-03-23T04:14:02.921Z - error: [SubApp.register] App base not found: adminw
+2018-03-23T04:14:02.921Z - error: [Router.transform] [admin] Subapp not found for route: 
+{
+  "subapp": "adminw",
+  "controller": "user",
+  "action": "index"
+}
+2018-03-23T06:11:56.432Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Class extends value #<Object> is not a constructor or null
+    at Object.<anonymous> (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:5:25)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers.js:5:18)
+    at Module._compile (module.js:643:30)
+Class extends value #<Object> is not a constructor or null
+2018-03-23T06:11:56.434Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Class extends value #<Object> is not a constructor or null
+    at Object.<anonymous> (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:5:25)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers.js:5:18)
+    at Module._compile (module.js:643:30)
+Class extends value #<Object> is not a constructor or null
+2018-03-23T06:12:16.380Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new Dashboard (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:6:16)
+    at ControllerManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/controller/index.js:38:63)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:12:26)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T06:12:16.381Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new Dashboard (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:6:16)
+    at ControllerManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/controller/index.js:38:63)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:12:26)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T06:14:13.490Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js/libs/controller/base'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at global.lacoLib.name (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/helper.js:7:12)
+    at Object.<anonymous> (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:3:24)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js/libs/controller/base'
+2018-03-23T06:14:13.491Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ Error: Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js/libs/controller/base'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at global.lacoLib.name (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/helper.js:7:12)
+    at Object.<anonymous> (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:3:24)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+Cannot find module '/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js/libs/controller/base'
+2018-03-23T06:33:42.973Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: UIManager is not a constructor
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:9:21)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+UIManager is not a constructor
+2018-03-23T06:33:42.975Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: UIManager is not a constructor
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:9:21)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+UIManager is not a constructor
+2018-03-23T06:46:09.444Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: UITheme is not defined
+    at new UIManager (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:14:26)
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:9:21)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+UITheme is not defined
+2018-03-23T06:46:09.446Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: UITheme is not defined
+    at new UIManager (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:14:26)
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:9:21)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+UITheme is not defined
+2018-03-23T07:08:58.815Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new SemanticUIAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js:7:9)
+    at UIManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:34:46)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:14:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T07:08:58.816Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new SemanticUIAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js:7:9)
+    at UIManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:34:46)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:14:18)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T08:47:44.776Z - error: [lib.ui.addLayouts] [undefined] [SemUIAdmin] Layout not found: 
+{
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "baseDir": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "file": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 9,
+    "column": 14
+  },
+  "layoutPath": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/layouts/test"
+}
+2018-03-23T08:48:22.024Z - error: [lib.ui.addLayouts] [undefined] [SemUIAdmin] Layout not found: 
+{
+  "layoutPath": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/layouts/test",
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "baseDir": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "file": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 9,
+    "column": 14
+  }
+}
+2018-03-23T08:49:36.817Z - error: [lib.ui.addLayouts] [admin] [SemUIAdmin] Layout not found: 
+{
+  "layoutPath": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/layouts/test",
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "baseDir": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "file": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 9,
+    "column": 14
+  }
+}
+2018-03-23T08:52:46.597Z - error: [lib.ui.addLayou] [admin] [SemUIAdmin] View not found: 
+{
+  "viewPath": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/views/test",
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "baseDir": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin",
+    "file": "/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 10,
+    "column": 14
+  }
+}
+2018-03-23T09:28:20.889Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:10:9)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:75:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T09:28:20.890Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:10:9)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:75:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T09:28:36.326Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new BaseExtension (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/base.js:6:16)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:10:9)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:75:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T09:28:36.326Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new BaseExtension (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/base.js:6:16)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:10:9)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:75:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T09:28:52.746Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new BaseExtension (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/base.js:6:16)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:10:9)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:75:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T09:28:52.746Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new BaseExtension (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/base.js:6:16)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:10:9)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:75:29)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-23T10:23:10.651Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: result is not defined
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:18:49)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:30)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+result is not defined
+2018-03-23T10:23:10.652Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: result is not defined
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:18:49)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:30)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+result is not defined
+2018-03-23T10:23:22.036Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: extObj.init is not a function
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:77:24)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+extObj.init is not a function
+2018-03-23T10:23:22.037Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: extObj.init is not a function
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:77:24)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+extObj.init is not a function
+2018-03-23T10:40:20.126Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: admin is not defined
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:13:52)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:30)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+admin is not defined
+2018-03-23T10:40:20.127Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: admin is not defined
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:13:52)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:74:30)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+admin is not defined
