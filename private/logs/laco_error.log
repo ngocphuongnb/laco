@@ -634,3 +634,34 @@ admin is not defined
     at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
     at <anonymous>
 admin is not defined
+2018-03-23T15:50:21.094Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'emit' of undefined
+    at SemanticUIAdmin.discovery.err (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js:12:25)
+    at SemanticUIAdmin.discovery (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/base.js:43:9)
+    at new SemanticUIAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js:9:14)
+    at UIManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:35:46)
+    at LacoAdmin.init (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:17:18)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:77:24)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+Cannot read property 'emit' of undefined
+2018-03-23T15:50:21.096Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'emit' of undefined
+    at SemanticUIAdmin.discovery.err (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js:12:25)
+    at SemanticUIAdmin.discovery (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/base.js:43:9)
+    at new SemanticUIAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js:9:14)
+    at UIManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:35:46)
+    at LacoAdmin.init (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:17:18)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:77:24)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+Cannot read property 'emit' of undefined
+2018-03-25T02:14:40.884Z - error: null
+2018-03-25T02:17:36.518Z - error: null
+2018-03-25T02:18:13.188Z - error: null

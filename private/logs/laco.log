@@ -2367,3 +2367,467 @@ admin is not defined
 2018-03-23T10:42:31.869Z - info: [Ctller.register] [admin] Registering controller: user
 2018-03-23T10:42:31.869Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
 2018-03-23T10:42:31.870Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T15:44:54.549Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T15:44:54.574Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T15:44:54.575Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T15:44:54.576Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T15:44:54.576Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T15:44:54.577Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T15:44:54.585Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T15:44:54.586Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T15:44:54.586Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T15:46:40.738Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T15:46:40.747Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T15:46:40.749Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T15:46:40.750Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T15:46:40.750Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T15:46:40.751Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T15:46:40.753Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T15:46:40.753Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T15:46:40.754Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T15:47:16.775Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T15:47:16.785Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T15:47:16.786Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T15:47:16.787Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T15:47:16.787Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T15:47:16.787Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T15:47:16.789Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T15:47:16.789Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T15:47:16.789Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T15:47:16.790Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T15:47:16.793Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T15:47:16.798Z - info: [start] App running on port: 3000
+2018-03-23T15:47:16.798Z - info: [main] App started!
+2018-03-23T15:47:36.396Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T15:47:36.405Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T15:47:36.407Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T15:47:36.407Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T15:47:36.408Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T15:47:36.408Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T15:47:36.409Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T15:47:36.410Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T15:47:36.410Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T15:50:21.083Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T15:50:21.092Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T15:50:21.094Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'emit' of undefined
+    at SemanticUIAdmin.discovery.err (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js:12:25)
+    at SemanticUIAdmin.discovery (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/base.js:43:9)
+    at new SemanticUIAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js:9:14)
+    at UIManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:35:46)
+    at LacoAdmin.init (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:17:18)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:77:24)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+Cannot read property 'emit' of undefined
+2018-03-23T15:50:21.096Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'emit' of undefined
+    at SemanticUIAdmin.discovery.err (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js:12:25)
+    at SemanticUIAdmin.discovery (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/base.js:43:9)
+    at new SemanticUIAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/SemanticUIAdmin/index.js:9:14)
+    at UIManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:35:46)
+    at LacoAdmin.init (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:17:18)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:77:24)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+Cannot read property 'emit' of undefined
+2018-03-23T15:52:31.838Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T15:52:31.846Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T15:52:31.889Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T15:52:31.890Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T15:52:31.890Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T15:52:31.891Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T15:52:31.892Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T15:52:31.893Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T15:52:31.894Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T15:53:37.163Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T15:53:37.172Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T15:53:37.220Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T15:53:37.220Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T15:53:37.221Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T15:53:37.221Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T15:53:37.223Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T15:53:37.223Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T15:53:37.224Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T15:54:53.686Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T15:54:53.695Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T15:54:53.721Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T15:54:53.721Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T15:54:53.721Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T15:54:53.721Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T15:54:53.723Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T15:54:53.724Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T15:54:53.725Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T15:54:53.725Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T15:54:53.728Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T15:54:53.731Z - info: [start] App running on port: 3000
+2018-03-23T15:54:53.731Z - info: [main] App started!
+2018-03-23T15:55:37.175Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T15:55:37.191Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T15:55:37.193Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T15:55:37.194Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T15:55:37.194Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T15:55:37.195Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T15:55:37.196Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T15:55:37.197Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T15:55:37.197Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T15:55:48.681Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T15:55:48.689Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T15:55:48.690Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T15:55:48.691Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T15:55:48.691Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T15:55:48.692Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T15:55:48.694Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T15:55:48.694Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T15:55:48.694Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T15:55:48.695Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T15:55:48.698Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T15:55:48.701Z - info: [start] App running on port: 3000
+2018-03-23T15:55:48.701Z - info: [main] App started!
+2018-03-23T15:57:43.273Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T15:57:43.282Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T15:57:43.283Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T15:57:43.284Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T15:57:43.284Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T15:57:43.284Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T15:57:43.286Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T15:57:43.286Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T15:57:43.287Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T15:57:43.287Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T15:57:43.290Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T15:57:43.293Z - info: [start] App running on port: 3000
+2018-03-23T15:57:43.293Z - info: [main] App started!
+2018-03-23T15:58:46.005Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T15:58:46.019Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T15:58:46.020Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T15:58:46.020Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T15:58:46.021Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T15:58:46.021Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T15:58:46.022Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T15:58:46.023Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T15:58:46.023Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T15:59:45.346Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T15:59:45.355Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T15:59:45.356Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T15:59:45.357Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T15:59:45.357Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T15:59:45.358Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T15:59:45.361Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T15:59:45.361Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T15:59:45.361Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T15:59:45.362Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T15:59:45.364Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T15:59:45.367Z - info: [start] App running on port: 3000
+2018-03-23T15:59:45.368Z - info: [main] App started!
+2018-03-23T16:07:04.639Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T16:07:04.646Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T16:07:04.648Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T16:07:04.648Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T16:07:04.649Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T16:07:04.649Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T16:07:04.651Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T16:07:04.651Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T16:07:04.651Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T16:07:04.652Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T16:07:04.656Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T16:07:04.660Z - info: [start] App running on port: 3000
+2018-03-23T16:07:04.661Z - info: [main] App started!
+2018-03-23T16:07:44.691Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T16:07:44.698Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T16:07:44.699Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T16:07:44.700Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T16:07:44.700Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T16:07:44.701Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T16:07:44.702Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T16:07:44.703Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T16:07:44.703Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T16:07:44.704Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T16:07:44.707Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T16:07:44.710Z - info: [start] App running on port: 3000
+2018-03-23T16:07:44.711Z - info: [main] App started!
+2018-03-23T16:08:05.804Z - info: [ExtManager.load] Loading extension: admin
+2018-03-23T16:08:05.810Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-23T16:08:05.812Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-23T16:08:05.813Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-23T16:08:05.813Z - info: [Router.register] [admin] Registering route: login
+2018-03-23T16:08:05.813Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-23T16:08:05.815Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-23T16:08:05.815Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-23T16:08:05.816Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-23T16:08:05.817Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-23T16:08:05.819Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-23T16:08:05.822Z - info: [start] App running on port: 3000
+2018-03-23T16:08:05.823Z - info: [main] App started!
+2018-03-25T01:27:41.714Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T01:27:41.738Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T01:27:41.739Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T01:27:41.740Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T01:27:41.741Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T01:27:41.741Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T01:27:41.749Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T01:27:41.749Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T01:27:41.750Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T01:27:41.751Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T01:27:41.753Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T01:27:41.756Z - info: [start] App running on port: 3000
+2018-03-25T01:27:41.756Z - info: [main] App started!
+2018-03-25T02:14:40.837Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T02:14:40.862Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T02:14:40.864Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T02:14:40.865Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T02:14:40.865Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T02:14:40.865Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T02:14:40.874Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T02:14:40.875Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T02:14:40.875Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T02:14:40.884Z - error: null
+2018-03-25T02:14:40.885Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T02:14:40.889Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T02:14:40.892Z - info: [start] App running on port: 3000
+2018-03-25T02:14:40.893Z - info: [main] App started!
+2018-03-25T02:17:36.497Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T02:17:36.504Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T02:17:36.506Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T02:17:36.507Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T02:17:36.508Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T02:17:36.508Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T02:17:36.510Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T02:17:36.510Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T02:17:36.510Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T02:17:36.518Z - error: null
+2018-03-25T02:17:36.519Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T02:17:36.522Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T02:17:36.525Z - info: [start] App running on port: 3000
+2018-03-25T02:17:36.525Z - info: [main] App started!
+2018-03-25T02:18:13.168Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T02:18:13.174Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T02:18:13.176Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T02:18:13.176Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T02:18:13.177Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T02:18:13.177Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T02:18:13.179Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T02:18:13.179Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T02:18:13.180Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T02:18:13.188Z - error: null
+2018-03-25T02:18:13.189Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T02:18:13.193Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T02:18:13.196Z - info: [start] App running on port: 3000
+2018-03-25T02:18:13.197Z - info: [main] App started!
+2018-03-25T02:21:09.850Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T02:21:09.856Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T02:21:09.858Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T02:21:09.858Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T02:21:09.859Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T02:21:09.859Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T02:21:09.862Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T02:21:09.862Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T02:21:09.863Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T02:21:09.867Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T02:21:11.525Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T02:21:11.535Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T02:21:55.853Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T02:21:55.862Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T02:21:55.865Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T02:21:55.865Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T02:21:55.866Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T02:21:55.866Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T02:21:55.868Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T02:21:55.868Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T02:21:55.869Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T02:21:55.873Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T02:21:56.151Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T02:21:56.160Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T02:22:31.079Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T02:22:31.084Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T02:22:31.086Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T02:22:31.087Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T02:22:31.087Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T02:22:31.087Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T02:22:31.089Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T02:22:31.089Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T02:22:31.090Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T02:22:31.094Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T02:22:31.374Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T02:22:31.384Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T02:22:50.810Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T02:22:50.816Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T02:22:50.818Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T02:22:50.819Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T02:22:50.819Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T02:22:50.819Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T02:22:50.821Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T02:22:50.822Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T02:22:50.822Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T02:22:50.827Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T02:22:51.106Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T02:22:51.114Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T02:22:51.123Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T02:22:51.129Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T02:22:51.134Z - info: [start] App running on port: 3000
+2018-03-25T02:22:51.134Z - info: [main] App started!
+2018-03-25T02:23:26.256Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T02:23:26.263Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T02:23:26.265Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T02:23:26.265Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T02:23:26.265Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T02:23:26.266Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T02:23:26.267Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T02:23:26.268Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T02:23:26.268Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T02:23:26.271Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T02:23:26.552Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T02:23:26.561Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T02:23:26.573Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T02:23:26.577Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T02:23:26.583Z - info: [start] App running on port: 3000
+2018-03-25T02:23:26.583Z - info: [main] App started!
+2018-03-25T02:25:11.568Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T02:25:11.575Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T02:25:11.577Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T02:25:11.577Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T02:25:11.578Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T02:25:11.578Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T02:25:11.580Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T02:25:11.580Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T02:25:11.581Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T02:25:11.585Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T02:25:11.864Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T02:25:11.872Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T02:25:11.882Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T02:25:11.887Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T02:25:11.894Z - info: [start] App running on port: 3000
+2018-03-25T02:25:11.895Z - info: [main] App started!
+2018-03-25T02:32:43.128Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T02:32:43.137Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T02:32:43.139Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T02:32:43.139Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T02:32:43.139Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T02:32:43.140Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T02:32:43.141Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T02:32:43.142Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T02:32:43.142Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T02:32:43.146Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T02:32:43.423Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T02:32:43.431Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T02:32:43.442Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T02:32:43.447Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T02:32:43.453Z - info: [start] App running on port: 3000
+2018-03-25T02:32:43.453Z - info: [main] App started!
+2018-03-25T03:06:17.067Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T03:06:17.079Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T03:06:17.082Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T03:06:17.082Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T03:06:17.083Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T03:06:17.083Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T03:06:17.085Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T03:06:17.085Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T03:06:17.086Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T03:06:17.089Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T03:06:17.370Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T03:06:17.380Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T03:06:17.391Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T03:06:17.395Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T03:06:17.401Z - info: [start] App running on port: 3000
+2018-03-25T03:06:17.401Z - info: [main] App started!
+2018-03-25T03:06:42.568Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T03:06:42.575Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T03:06:42.577Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T03:06:42.578Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T03:06:42.579Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T03:06:42.579Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T03:06:42.580Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T03:06:42.581Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T03:06:42.581Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T03:06:42.585Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T03:06:42.912Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T03:06:42.920Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T03:06:42.932Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T03:06:42.937Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T03:06:42.945Z - info: [start] App running on port: 3000
+2018-03-25T03:06:42.945Z - info: [main] App started!
+2018-03-25T03:07:44.319Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T03:07:44.329Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T03:07:44.331Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T03:07:44.332Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T03:07:44.333Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T03:07:44.333Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T03:07:44.334Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T03:07:44.335Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T03:07:44.335Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T03:07:44.336Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T03:07:44.340Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T03:07:44.343Z - info: [start] App running on port: 3000
+2018-03-25T03:07:44.343Z - info: [main] App started!
+2018-03-25T03:07:44.347Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T03:07:44.637Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T03:07:44.646Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T03:08:16.760Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T03:08:16.767Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T03:08:16.769Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T03:08:16.769Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T03:08:16.770Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T03:08:16.770Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T03:08:16.772Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T03:08:16.773Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T03:08:16.773Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T03:08:16.777Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T03:08:17.063Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T03:08:17.073Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T03:08:17.085Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T03:08:17.090Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T03:08:17.096Z - info: [start] App running on port: 3000
+2018-03-25T03:08:17.097Z - info: [main] App started!
+2018-03-25T03:09:47.258Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T03:09:47.264Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T03:09:47.266Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T03:09:47.266Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T03:09:47.267Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T03:09:47.267Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T03:09:47.273Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T03:09:47.274Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T03:09:47.274Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T03:09:47.277Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T03:09:47.559Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T03:09:47.566Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T03:09:47.575Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T03:09:47.578Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T03:09:47.583Z - info: [start] App running on port: 3000
+2018-03-25T03:09:47.583Z - info: [main] App started!
+2018-03-25T12:31:42.611Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T12:31:42.619Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T12:31:42.621Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T12:31:42.622Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T12:31:42.622Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T12:31:42.622Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T12:31:42.624Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T12:31:42.624Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T12:31:42.625Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T12:31:42.629Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T12:31:42.946Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T12:31:42.959Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T12:31:42.969Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T12:31:42.974Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T12:31:42.979Z - info: [start] App running on port: 3000
+2018-03-25T12:31:42.979Z - info: [main] App started!
+2018-03-25T12:32:26.493Z - info: [ExtManager.load] Loading extension: admin
+2018-03-25T12:32:26.498Z - info: [UIMana.register] [admin] Registering ui: SemUIAdmin
+2018-03-25T12:32:26.500Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-25T12:32:26.501Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-25T12:32:26.501Z - info: [Router.register] [admin] Registering route: login
+2018-03-25T12:32:26.502Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-25T12:32:26.503Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-25T12:32:26.504Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-25T12:32:26.504Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-25T12:32:26.508Z - info: [lib.ui.addLayou] [admin] [SemUIAdmin] Registering layout: left.body
+2018-03-25T12:32:26.792Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: dashboard/index
+2018-03-25T12:32:26.801Z - info: [lib.ui.addViews] [admin] [SemUIAdmin] Registering view: test
+2018-03-25T12:32:26.808Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-25T12:32:26.813Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-25T12:32:26.821Z - info: [start] App running on port: 3000
+2018-03-25T12:32:26.822Z - info: [main] App started!
