@@ -6038,3 +6038,474 @@ CommandHandler is not a constructor
 2018-03-26T10:20:41.192Z - info: [SubApp.dispatch] [admin] Mounted...
 2018-03-26T10:20:41.194Z - info: [start] App running on port: 3000
 2018-03-26T10:20:41.194Z - info: [main] App started!
+2018-03-26T13:54:20.770Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T13:54:20.791Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T13:54:20.796Z - info: [UIMana.register] [admin] Registering ui: AdminBSB
+2018-03-26T13:54:20.799Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: createBSB
+2018-03-26T13:54:20.799Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T13:54:20.800Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T13:54:20.800Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T13:54:20.801Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T13:54:20.802Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T13:54:20.802Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T13:54:20.802Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T13:54:20.813Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T13:54:20.814Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T13:54:20.815Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T13:54:20.819Z - info: [lib.ui.addLayou] [admin] [AdminBSB] Registering layout: default
+2018-03-26T13:54:22.491Z - info: [lib.ui.addViews] [admin] [AdminBSB] Registering view: dashboard/index
+2018-03-26T13:54:35.387Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T13:54:35.392Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T13:54:35.394Z - info: [UIMana.register] [admin] Registering ui: AdminBSB
+2018-03-26T13:54:35.396Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: createBSB
+2018-03-26T13:54:35.397Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T13:54:35.397Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T13:54:35.398Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T13:54:35.398Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T13:54:35.399Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T13:54:35.399Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T13:54:35.400Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T13:54:35.404Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T13:54:35.405Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T13:54:35.406Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T13:54:35.414Z - info: [lib.ui.addLayou] [admin] [AdminBSB] Registering layout: default
+2018-03-26T13:54:35.760Z - info: [lib.ui.addViews] [admin] [AdminBSB] Registering view: dashboard/index
+2018-03-26T13:54:46.595Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T13:54:46.600Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T13:54:46.602Z - info: [UIMana.register] [admin] Registering ui: AdminBSB
+2018-03-26T13:54:46.604Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: createBSB
+2018-03-26T13:54:46.604Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T13:54:46.605Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T13:54:46.605Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T13:54:46.606Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T13:54:46.606Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T13:54:46.606Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T13:54:46.607Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T13:54:46.608Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T13:54:46.609Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T13:54:46.609Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T13:54:46.613Z - info: [lib.ui.addLayou] [admin] [AdminBSB] Registering layout: default
+2018-03-26T13:54:46.899Z - info: [lib.ui.addViews] [admin] [AdminBSB] Registering view: dashboard/index
+2018-03-26T13:58:06.868Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T13:58:06.872Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T13:58:06.874Z - info: [UIMana.register] [admin] Registering ui: AdminBSB
+2018-03-26T13:58:06.877Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: createBSB
+2018-03-26T13:58:06.877Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T13:58:06.877Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T13:58:06.877Z - info: [lib.ui.baseTask] [admin] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T13:58:06.878Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T13:58:06.879Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T13:58:06.879Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T13:58:06.879Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T13:58:06.881Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T13:58:06.881Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T13:58:06.882Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T13:58:06.885Z - info: [lib.ui.addLayou] [admin] [AdminBSB] Registering layout: default
+2018-03-26T13:58:07.155Z - info: [lib.ui.addViews] [admin] [AdminBSB] Registering view: dashboard/index
+2018-03-26T14:07:49.506Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:07:50.133Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:07:50.137Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:26:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:07:50.140Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:26:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:08:39.551Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:08:40.177Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:08:40.212Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:28:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:08:40.215Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:28:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:10:20.227Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:10:20.874Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:10:20.897Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:28:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:10:20.898Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:28:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:11:00.880Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:11:01.529Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:11:01.533Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:28:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:11:01.535Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:28:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:11:38.351Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:11:38.971Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:11:38.975Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T14:11:38.976Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T14:11:38.976Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T14:11:38.976Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T14:11:38.978Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T14:11:38.978Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T14:11:38.979Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T14:11:38.983Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'name' of undefined
+    at UIManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:57:63)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:17:22)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'name' of undefined
+2018-03-26T14:11:38.985Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'name' of undefined
+    at UIManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:57:63)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:17:22)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'name' of undefined
+2018-03-26T14:12:20.483Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:12:21.146Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:12:21.151Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T14:12:21.152Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T14:12:21.152Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T14:12:21.152Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T14:12:21.154Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T14:12:21.154Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T14:12:21.155Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T14:12:21.158Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-26T14:12:21.162Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'name' of undefined
+    at SemanticUIAdmin.addTasks (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/base.js:86:63)
+    at new SemanticUIAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB/index.js:13:14)
+    at UIManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:58:46)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:17:22)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'name' of undefined
+2018-03-26T14:12:21.163Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'name' of undefined
+    at SemanticUIAdmin.addTasks (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/base.js:86:63)
+    at new SemanticUIAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB/index.js:13:14)
+    at UIManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:58:46)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:17:22)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'name' of undefined
+2018-03-26T14:14:16.213Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:14:16.875Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:14:16.879Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T14:14:16.880Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T14:14:16.880Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T14:14:16.880Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T14:14:16.883Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T14:14:16.883Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T14:14:16.884Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T14:14:16.892Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-26T14:14:16.895Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: createBSB
+2018-03-26T14:14:16.895Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T14:14:16.895Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T14:14:16.896Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T14:14:16.901Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-26T14:14:17.224Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-26T14:14:39.945Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:14:40.588Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:14:40.592Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T14:14:40.593Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T14:14:40.593Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T14:14:40.594Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T14:14:40.596Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T14:14:40.597Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T14:14:40.597Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T14:14:40.601Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-26T14:14:40.603Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: createBSB
+2018-03-26T14:14:40.604Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T14:14:40.604Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T14:14:40.604Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T14:14:40.607Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-26T14:14:40.978Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-26T14:19:28.664Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:19:29.291Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:19:29.295Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T14:19:29.295Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T14:19:29.296Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T14:19:29.296Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T14:19:29.298Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T14:19:29.298Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T14:19:29.299Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T14:19:29.305Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-26T14:19:29.307Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: createBSB
+2018-03-26T14:19:29.307Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T14:19:29.308Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T14:19:29.308Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T14:19:29.311Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-26T14:19:29.681Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-26T14:19:29.690Z - info: [Router.dispatch] [admin] Dispatching...
+2018-03-26T14:19:29.694Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-03-26T14:19:29.698Z - info: [start] App running on port: 3000
+2018-03-26T14:19:29.698Z - info: [main] App started!
+2018-03-26T14:24:50.160Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:24:50.927Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:24:50.934Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T14:24:50.935Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T14:24:50.935Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T14:24:50.936Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T14:24:50.937Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T14:24:50.937Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T14:24:50.938Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T14:24:50.941Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-26T14:24:50.942Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: createBSB
+2018-03-26T14:24:50.943Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T14:24:50.943Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T14:24:50.943Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T14:24:50.950Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-26T14:24:51.293Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-26T14:26:20.898Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:26:21.771Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:26:21.775Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T14:26:21.779Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T14:26:21.779Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T14:26:21.780Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T14:26:21.781Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T14:26:21.782Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T14:26:21.782Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T14:26:21.785Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-26T14:26:21.787Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: createBSB
+2018-03-26T14:26:21.788Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T14:26:21.788Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T14:26:21.788Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T14:26:21.791Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-26T14:26:22.137Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-26T14:26:22.153Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: CommandHandler is not a constructor
+    at Commander.executeCommand (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:101:26)
+    at Commander.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:64:14)
+    at Laco.Commander.laco.once (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/index.js:39:58)
+    at Laco.on (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+CommandHandler is not a constructor
+2018-03-26T14:27:02.204Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:27:02.950Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:27:02.954Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T14:27:02.955Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T14:27:02.955Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T14:27:02.955Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T14:27:02.957Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T14:27:02.957Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T14:27:02.957Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T14:27:02.964Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-26T14:27:02.970Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: createBSB
+2018-03-26T14:27:02.972Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T14:27:02.972Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T14:27:02.972Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T14:27:02.977Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-26T14:27:03.303Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-26T14:27:03.313Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: laco is not defined
+    at list (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/command.js:16:21)
+    at Commander.executeCommand (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:103:9)
+    at Commander.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:64:14)
+    at Laco.Commander.laco.once (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/index.js:39:58)
+    at Laco.on (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+laco is not defined
+2018-03-26T14:28:09.816Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:28:10.603Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:28:10.612Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T14:28:10.613Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T14:28:10.613Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T14:28:10.613Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T14:28:10.615Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T14:28:10.615Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T14:28:10.616Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T14:28:10.625Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-26T14:28:10.628Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: createBSB
+2018-03-26T14:28:10.629Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T14:28:10.629Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T14:28:10.629Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T14:28:10.632Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-26T14:28:10.967Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-26T14:28:53.911Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:28:54.731Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:28:54.735Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T14:28:54.736Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T14:28:54.736Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T14:28:54.737Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T14:28:54.738Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T14:28:54.739Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T14:28:54.740Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T14:28:54.745Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-26T14:28:54.746Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: createBSB
+2018-03-26T14:28:54.747Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T14:28:54.747Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T14:28:54.747Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T14:28:54.750Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-26T14:28:55.064Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-26T14:30:37.493Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:30:38.294Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:30:38.298Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T14:30:38.298Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T14:30:38.299Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T14:30:38.299Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T14:30:38.300Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T14:30:38.300Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T14:30:38.301Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T14:30:38.304Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-26T14:30:38.307Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: createBSB
+2018-03-26T14:30:38.307Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T14:30:38.308Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T14:30:38.308Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T14:30:38.311Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-26T14:30:38.634Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-26T14:30:52.417Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:30:53.228Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:30:53.232Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T14:30:53.232Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T14:30:53.233Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T14:30:53.233Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T14:30:53.235Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T14:30:53.235Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T14:30:53.237Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T14:30:53.240Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-26T14:30:53.242Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: createBSB
+2018-03-26T14:30:53.242Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T14:30:53.243Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T14:30:53.243Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T14:30:53.246Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-26T14:30:53.577Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-26T14:30:53.586Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'ui' of undefined
+    at list (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/command.js:16:26)
+    at Commander.executeCommand (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:103:9)
+    at Commander.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:64:14)
+    at Laco.Commander.laco.once (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/index.js:39:58)
+    at Laco.on (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+Cannot read property 'ui' of undefined
+2018-03-26T14:31:06.874Z - info: [Commander.regis] Registering command: uitask
+2018-03-26T14:31:07.617Z - info: [ExtManager.load] Loading extension: admin
+2018-03-26T14:31:07.624Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-26T14:31:07.625Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-26T14:31:07.625Z - info: [Router.register] [admin] Registering route: login
+2018-03-26T14:31:07.626Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-26T14:31:07.628Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-26T14:31:07.628Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-26T14:31:07.629Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-26T14:31:07.632Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-26T14:31:07.634Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: createBSB
+2018-03-26T14:31:07.637Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: cleanBSB
+2018-03-26T14:31:07.637Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-26T14:31:07.638Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-26T14:31:07.642Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-26T14:31:07.961Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-26T14:31:07.973Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'ui' of undefined
+    at list (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/command.js:16:26)
+    at Commander.executeCommand (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:103:9)
+    at Commander.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:64:14)
+    at Laco.Commander.laco.once (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/index.js:39:58)
+    at Laco.on (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+Cannot read property 'ui' of undefined

@@ -1454,3 +1454,177 @@ Cannot read property 'registeredApps' of undefined
     at emitNone (events.js:106:13)
     at Laco.emit (events.js:208:7)
 CommandHandler is not a constructor
+2018-03-26T14:07:50.137Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:26:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:07:50.140Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:26:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:08:40.212Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:28:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:08:40.214Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:28:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:10:20.897Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:28:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:10:20.898Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:28:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:11:01.532Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:28:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:11:01.535Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'register' of undefined
+    at new UIManager (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:28:23)
+    at new SubAppBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'register' of undefined
+2018-03-26T14:11:38.982Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'name' of undefined
+    at UIManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:57:63)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:17:22)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'name' of undefined
+2018-03-26T14:11:38.985Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'name' of undefined
+    at UIManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:57:63)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:17:22)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'name' of undefined
+2018-03-26T14:26:22.152Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: CommandHandler is not a constructor
+    at Commander.executeCommand (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:101:26)
+    at Commander.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:64:14)
+    at Laco.Commander.laco.once (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/index.js:39:58)
+    at Laco.on (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+CommandHandler is not a constructor
+2018-03-26T14:27:03.312Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: laco is not defined
+    at list (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/command.js:16:21)
+    at Commander.executeCommand (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:103:9)
+    at Commander.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:64:14)
+    at Laco.Commander.laco.once (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/index.js:39:58)
+    at Laco.on (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+laco is not defined
+2018-03-26T14:30:53.585Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'ui' of undefined
+    at list (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/command.js:16:26)
+    at Commander.executeCommand (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:103:9)
+    at Commander.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:64:14)
+    at Laco.Commander.laco.once (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/index.js:39:58)
+    at Laco.on (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+Cannot read property 'ui' of undefined
+2018-03-26T14:31:07.973Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'ui' of undefined
+    at list (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/command.js:16:26)
+    at Commander.executeCommand (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:103:9)
+    at Commander.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:64:14)
+    at Laco.Commander.laco.once (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/index.js:39:58)
+    at Laco.on (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+Cannot read property 'ui' of undefined
