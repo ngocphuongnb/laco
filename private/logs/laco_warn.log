@@ -756,3 +756,701 @@ Cannot read property 'emit' of undefined
 2018-03-25T02:14:40.884Z - error: null
 2018-03-25T02:17:36.518Z - error: null
 2018-03-25T02:18:13.188Z - error: null
+2018-03-26T06:13:59.704Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: this.addTasks is not a function
+    at new SemanticUIAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB/index.js:13:14)
+    at UIManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:38:46)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:14:18)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:77:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+this.addTasks is not a function
+2018-03-26T06:13:59.705Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: this.addTasks is not a function
+    at new SemanticUIAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB/index.js:13:14)
+    at UIManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:38:46)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:14:18)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:77:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+this.addTasks is not a function
+2018-03-26T06:14:25.757Z - error: [lib.ui.base] [admin] [AdminBSB] Task name existed: createBSB Registered from: 
+{
+  "task": {
+    "name": "createBSB",
+    "handler": null,
+    "cmd": "mkdir",
+    "target": [
+      "/bsb",
+      "/bsb/js",
+      "/bsb/css",
+      "/bsb/images"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:14:25.757Z - error: [lib.ui.base] [admin] [AdminBSB] Task name existed: cleanBSB Registered from: 
+{
+  "task": {
+    "name": "cleanBSB",
+    "handler": null,
+    "cmd": "rm",
+    "target": [
+      "/bsb/js/*",
+      "/bsb/css/*",
+      "/bsb/images/*"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:14:25.758Z - error: [lib.ui.base] [admin] [AdminBSB] Task name existed: buildCommonJs Registered from: 
+{
+  "task": {
+    "name": "buildCommonJs",
+    "handler": null,
+    "cmd": "build",
+    "target": "/bsb/js/common.js",
+    "dependencies": [
+      "public/js/file1.js",
+      "public/js/file2.js",
+      "public/js/file3.js"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:14:25.759Z - error: [lib.ui.base] [admin] [AdminBSB] Task name existed: buildCommonStyle Registered from: 
+{
+  "task": {
+    "name": "buildCommonStyle",
+    "handler": null,
+    "cmd": "build",
+    "target": "/bsb/css/common.css",
+    "dependencies": [
+      "public/css/file1.css",
+      "public/css/file2.css",
+      "public/css/file3.css"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:15:11.151Z - error: [lib.ui.base] [admin] [AdminBSB] Task name existed: createBSB Registered from: 
+{
+  "task": {
+    "name": "createBSB",
+    "handler": null,
+    "cmd": "mkdir",
+    "target": [
+      "/bsb",
+      "/bsb/js",
+      "/bsb/css",
+      "/bsb/images"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:15:11.152Z - error: [lib.ui.base] [admin] [AdminBSB] Task name existed: cleanBSB Registered from: 
+{
+  "task": {
+    "name": "cleanBSB",
+    "handler": null,
+    "cmd": "rm",
+    "target": [
+      "/bsb/js/*",
+      "/bsb/css/*",
+      "/bsb/images/*"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:15:11.153Z - error: [lib.ui.base] [admin] [AdminBSB] Task name existed: buildCommonJs Registered from: 
+{
+  "task": {
+    "name": "buildCommonJs",
+    "handler": null,
+    "cmd": "build",
+    "target": "/bsb/js/common.js",
+    "dependencies": [
+      "public/js/file1.js",
+      "public/js/file2.js",
+      "public/js/file3.js"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:15:11.153Z - error: [lib.ui.base] [admin] [AdminBSB] Task name existed: buildCommonStyle Registered from: 
+{
+  "task": {
+    "name": "buildCommonStyle",
+    "handler": null,
+    "cmd": "build",
+    "target": "/bsb/css/common.css",
+    "dependencies": [
+      "public/css/file1.css",
+      "public/css/file2.css",
+      "public/css/file3.css"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:15:28.736Z - error: [lib.ui.base] [admin] [AdminBSB] Invalid task handler for: createBSB Registered from: 
+{
+  "task": {
+    "name": "createBSB",
+    "handler": null,
+    "cmd": "mkdir",
+    "target": [
+      "/bsb",
+      "/bsb/js",
+      "/bsb/css",
+      "/bsb/images"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:15:28.737Z - error: [lib.ui.base] [admin] [AdminBSB] Invalid task handler for: cleanBSB Registered from: 
+{
+  "task": {
+    "name": "cleanBSB",
+    "handler": null,
+    "cmd": "rm",
+    "target": [
+      "/bsb/js/*",
+      "/bsb/css/*",
+      "/bsb/images/*"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:15:28.738Z - error: [lib.ui.base] [admin] [AdminBSB] Invalid task handler for: buildCommonJs Registered from: 
+{
+  "task": {
+    "name": "buildCommonJs",
+    "handler": null,
+    "cmd": "build",
+    "target": "/bsb/js/common.js",
+    "dependencies": [
+      "public/js/file1.js",
+      "public/js/file2.js",
+      "public/js/file3.js"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:15:28.738Z - error: [lib.ui.base] [admin] [AdminBSB] Invalid task handler for: buildCommonStyle Registered from: 
+{
+  "task": {
+    "name": "buildCommonStyle",
+    "handler": null,
+    "cmd": "build",
+    "target": "/bsb/css/common.css",
+    "dependencies": [
+      "public/css/file1.css",
+      "public/css/file2.css",
+      "public/css/file3.css"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:15:51.496Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: task.handler is not a constructor
+    at SemanticUIAdmin.addTasks (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/base.js:89:33)
+    at new SemanticUIAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB/index.js:13:14)
+    at UIManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:38:46)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:14:18)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:77:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+task.handler is not a constructor
+2018-03-26T06:15:51.497Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: task.handler is not a constructor
+    at SemanticUIAdmin.addTasks (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/base.js:89:33)
+    at new SemanticUIAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB/index.js:13:14)
+    at UIManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:38:46)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:14:18)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:77:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:58:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:48:63)
+    at <anonymous>
+task.handler is not a constructor
+2018-03-26T06:17:10.317Z - error: [lib.ui.base] [admin] [AdminBSB] Invalid task handler for: createBSB Registered from: 
+{
+  "task": {
+    "name": "createBSB",
+    "handler": null,
+    "cmd": "mkdir",
+    "target": [
+      "/bsb",
+      "/bsb/js",
+      "/bsb/css",
+      "/bsb/images"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:17:10.318Z - error: [lib.ui.base] [admin] [AdminBSB] Invalid task handler for: cleanBSB Registered from: 
+{
+  "task": {
+    "name": "cleanBSB",
+    "handler": null,
+    "cmd": "rm",
+    "target": [
+      "/bsb/js/*",
+      "/bsb/css/*",
+      "/bsb/images/*"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:17:10.319Z - error: [lib.ui.base] [admin] [AdminBSB] Invalid task handler for: buildCommonJs Registered from: 
+{
+  "task": {
+    "name": "buildCommonJs",
+    "handler": null,
+    "cmd": "build",
+    "target": "/bsb/js/common.js",
+    "dependencies": [
+      "public/js/file1.js",
+      "public/js/file2.js",
+      "public/js/file3.js"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T06:17:10.319Z - error: [lib.ui.base] [admin] [AdminBSB] Invalid task handler for: buildCommonStyle Registered from: 
+{
+  "task": {
+    "name": "buildCommonStyle",
+    "handler": null,
+    "cmd": "build",
+    "target": "/bsb/css/common.css",
+    "dependencies": [
+      "public/css/file1.css",
+      "public/css/file2.css",
+      "public/css/file3.css"
+    ]
+  },
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB",
+    "baseDir": "/node_modules/laco-ext-admin/uis/AdminBSB",
+    "file": "/node_modules/laco-ext-admin/uis/AdminBSB/index.js",
+    "method": "SemanticUIAdmin",
+    "line": 13,
+    "column": 14
+  }
+}
+2018-03-26T07:13:38.349Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: _ is not defined
+    at Commander.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander.js:38:9)
+    at new UIManager (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:26:30)
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+_ is not defined
+2018-03-26T07:13:38.349Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: _ is not defined
+    at Commander.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander.js:38:9)
+    at new UIManager (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/index.js:26:30)
+    at new SubAppBase (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/base.js:30:44)
+    at new LacoAdmin (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-admin/index.js:13:21)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+_ is not defined
+2018-03-26T07:17:11.045Z - error: [Commander.exec] Invalid command: uiTasksd
+2018-03-26T07:17:32.580Z - error: [Commander.exec:] Invalid command: uiTasksd
+2018-03-26T08:07:56.302Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: cmd.exec is not a function
+    at Commander.executeCommand (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:40:13)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:21:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+    at ExtManager.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:32:52)
+cmd.exec is not a function
+2018-03-26T08:18:37.975Z - error: [Commander.exec:] Invalid command: null
+2018-03-26T08:26:43.407Z - error: [Commander.exec:] Invalid command: null
+2018-03-26T08:36:04.358Z - error: [Commander.exec:] Invalid command: null
+2018-03-26T08:36:18.515Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: this.action is not a function
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:56:26)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:20:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+    at ExtManager.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:32:52)
+this.action is not a function
+2018-03-26T08:36:32.989Z - error: [Commander.exec:] Invalid command: null
+2018-03-26T08:36:49.433Z - error: [Commander.exec:] Invalid command: null
+2018-03-26T08:37:27.102Z - error: [Commander.exec:] Invalid command: null
+2018-03-26T09:13:45.446Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'start' of undefined
+    at Commander.isCommand (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:54:28)
+    at Laco.start (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:73:22)
+    at Laco.laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/index.js:10:29)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+    at ExtManager.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:32:52)
+Cannot read property 'start' of undefined
+2018-03-26T09:30:19.749Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'description' of undefined
+    at Commander.help (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:73:79)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:55:25)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+Cannot read property 'description' of undefined
+2018-03-26T09:30:44.126Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'description' of undefined
+    at Commander.help (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:74:57)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:55:25)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+Cannot read property 'description' of undefined
+2018-03-26T09:31:14.581Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'options' of undefined
+    at Commander.help (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:73:63)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:55:25)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+Cannot read property 'options' of undefined
+2018-03-26T09:31:33.812Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'options' of undefined
+    at Commander.help (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:74:63)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:55:25)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+Cannot read property 'options' of undefined
+2018-03-26T09:32:19.229Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: optionName is not defined
+    at Commander.help (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:73:50)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:55:25)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+optionName is not defined
+2018-03-26T09:47:39.243Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: optionCMD is not a function
+    at Commander.executeCommand (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:97:9)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:60:14)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+optionCMD is not a function
+2018-03-26T09:49:26.650Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'ui' of undefined
+    at list (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/command.js:16:26)
+    at Commander.executeCommand (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:97:9)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:60:14)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+Cannot read property 'ui' of undefined
+2018-03-26T09:50:15.724Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'ui' of undefined
+    at list (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/command.js:17:26)
+    at Commander.executeCommand (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:97:9)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:60:14)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+Cannot read property 'ui' of undefined
+2018-03-26T09:51:11.421Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'ui' of undefined
+    at list (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/command.js:17:26)
+    at Commander.executeCommand (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:97:9)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:60:14)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+Cannot read property 'ui' of undefined
+2018-03-26T09:51:27.246Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'ui' of undefined
+    at list (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/command.js:17:26)
+    at Commander.executeCommand (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:97:9)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:60:14)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+Cannot read property 'ui' of undefined
+2018-03-26T09:53:29.754Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'ui' of undefined
+    at list (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/command.js:18:26)
+    at Commander.executeCommand (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:97:9)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:60:14)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+Cannot read property 'ui' of undefined
+2018-03-26T09:53:45.459Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'ui' of undefined
+    at list (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/command.js:18:26)
+    at Commander.executeCommand (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:97:9)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:60:14)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+Cannot read property 'ui' of undefined
+2018-03-26T10:01:33.322Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'subAppManager' of undefined
+    at list (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/command.js:18:26)
+    at Commander.executeCommand (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:99:9)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:60:14)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+Cannot read property 'subAppManager' of undefined
+2018-03-26T10:02:23.625Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'subAppManager' of undefined
+    at list (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui/command.js:18:26)
+    at Commander.executeCommand (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:99:9)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:60:14)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+Cannot read property 'subAppManager' of undefined
+2018-03-26T10:08:19.572Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'registeredApps' of undefined
+    at Commander.executeCommand (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:99:44)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:60:14)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+Cannot read property 'registeredApps' of undefined
+2018-03-26T10:18:21.451Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: CommandHandler is not a constructor
+    at Commander.executeCommand (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:97:26)
+    at Commander.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:60:14)
+    at Laco.Commander.laco.once (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/index.js:37:58)
+    at Laco.on (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+CommandHandler is not a constructor
