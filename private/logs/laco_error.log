@@ -1,0 +1,40 @@
+2018-03-27T14:45:49.949Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'length' of undefined
+    at Commander.help (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:88:66)
+    at Commander.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:60:25)
+    at Laco.Commander.laco.once (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/index.js:39:58)
+    at Laco.on (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+Cannot read property 'length' of undefined
+2018-03-27T14:46:12.753Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'length' of undefined
+    at Commander.help (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:88:66)
+    at Commander.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:60:25)
+    at Laco.Commander.laco.once (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/index.js:39:58)
+    at Laco.on (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+Cannot read property 'length' of undefined
+2018-03-27T15:05:55.850Z - error: [Commander.regis] Invalid command handler: 
+{
+  "option": "help",
+  "caller": {
+    "dir": "/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui",
+    "baseDir": "/node_modules/laco/libs/ui",
+    "file": "/node_modules/laco/libs/ui/index.js",
+    "method": "UIManager",
+    "line": 39,
+    "column": 23
+  }
+}

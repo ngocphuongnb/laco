@@ -318,3 +318,352 @@
 2018-03-27T10:02:53.376Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
 2018-03-27T10:02:53.378Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
 2018-03-27T10:02:53.563Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T14:45:26.508Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T14:45:27.286Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T14:45:27.307Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T14:45:27.308Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T14:45:27.309Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T14:45:27.309Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T14:45:27.317Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T14:45:27.318Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T14:45:27.318Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T14:45:27.323Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T14:45:27.326Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T14:45:27.326Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T14:45:27.327Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-27T14:45:27.327Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T14:45:27.331Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T14:45:29.096Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T14:45:48.978Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T14:45:49.634Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T14:45:49.638Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T14:45:49.639Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T14:45:49.639Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T14:45:49.639Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T14:45:49.641Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T14:45:49.641Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T14:45:49.642Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T14:45:49.644Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T14:45:49.646Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T14:45:49.647Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T14:45:49.647Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-27T14:45:49.647Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T14:45:49.650Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T14:45:49.934Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T14:45:49.949Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'length' of undefined
+    at Commander.help (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:88:66)
+    at Commander.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:60:25)
+    at Laco.Commander.laco.once (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/index.js:39:58)
+    at Laco.on (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+Cannot read property 'length' of undefined
+2018-03-27T14:46:05.636Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T14:46:06.288Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T14:46:06.293Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T14:46:06.294Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T14:46:06.294Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T14:46:06.295Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T14:46:06.296Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T14:46:06.297Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T14:46:06.297Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T14:46:06.299Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T14:46:06.301Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T14:46:06.301Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T14:46:06.302Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-27T14:46:06.302Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T14:46:06.304Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T14:46:06.586Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T14:46:11.789Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T14:46:12.450Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T14:46:12.454Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T14:46:12.455Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T14:46:12.455Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T14:46:12.456Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T14:46:12.457Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T14:46:12.458Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T14:46:12.459Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T14:46:12.460Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T14:46:12.462Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T14:46:12.463Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T14:46:12.463Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-27T14:46:12.463Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T14:46:12.466Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T14:46:12.742Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T14:46:12.753Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'length' of undefined
+    at Commander.help (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:88:66)
+    at Commander.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:60:25)
+    at Laco.Commander.laco.once (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/commander/index.js:29:18)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Laco.emit (events.js:208:7)
+    at Laco.all (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/index.js:39:58)
+    at Laco.on (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/EventEmitter.js:23:28)
+    at emitNone (events.js:106:13)
+    at Laco.emit (events.js:208:7)
+Cannot read property 'length' of undefined
+2018-03-27T14:46:52.894Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T14:46:53.574Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T14:46:53.578Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T14:46:53.579Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T14:46:53.579Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T14:46:53.580Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T14:46:53.581Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T14:46:53.581Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T14:46:53.582Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T14:46:53.583Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T14:46:53.585Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T14:46:53.585Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T14:46:53.585Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-27T14:46:53.586Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T14:46:53.588Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T14:46:53.900Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T14:47:05.191Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T14:47:05.851Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T14:47:05.856Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T14:47:05.857Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T14:47:05.857Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T14:47:05.858Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T14:47:05.859Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T14:47:05.860Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T14:47:05.860Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T14:47:05.862Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T14:47:05.864Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T14:47:05.865Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T14:47:05.865Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-27T14:47:05.865Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T14:47:05.868Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T14:47:06.150Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T14:47:11.262Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T14:47:11.927Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T14:47:11.931Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T14:47:11.932Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T14:47:11.932Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T14:47:11.933Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T14:47:11.934Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T14:47:11.935Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T14:47:11.935Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T14:47:11.937Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T14:47:11.939Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T14:47:11.940Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T14:47:11.941Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-27T14:47:11.941Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T14:47:11.944Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T14:47:12.221Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T14:47:16.766Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T14:47:17.424Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T14:47:17.429Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T14:47:17.429Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T14:47:17.430Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T14:47:17.430Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T14:47:17.432Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T14:47:17.432Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T14:47:17.433Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T14:47:17.434Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T14:47:17.436Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T14:47:17.436Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T14:47:17.437Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-27T14:47:17.437Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T14:47:17.440Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T14:47:17.718Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T14:47:22.161Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T14:47:22.831Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T14:47:22.835Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T14:47:22.836Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T14:47:22.836Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T14:47:22.837Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T14:47:22.838Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T14:47:22.839Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T14:47:22.840Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T14:47:22.842Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T14:47:22.843Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T14:47:22.844Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T14:47:22.844Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonJs
+2018-03-27T14:47:22.844Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T14:47:22.847Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T14:47:23.122Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T15:05:54.886Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T15:05:55.542Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T15:05:55.545Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T15:05:55.546Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T15:05:55.547Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T15:05:55.547Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T15:05:55.549Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T15:05:55.549Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T15:05:55.550Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T15:05:55.554Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T15:05:55.556Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T15:05:55.556Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T15:05:55.557Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T15:05:55.560Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T15:05:55.836Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T15:05:55.850Z - error: [Commander.regis] Invalid command handler: 
+{
+  "option": "help",
+  "caller": {
+    "dir": "/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui",
+    "baseDir": "/node_modules/laco/libs/ui",
+    "file": "/node_modules/laco/libs/ui/index.js",
+    "method": "UIManager",
+    "line": 39,
+    "column": 23
+  }
+}
+2018-03-27T15:06:16.565Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T15:06:17.191Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T15:06:17.195Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T15:06:17.195Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T15:06:17.196Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T15:06:17.196Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T15:06:17.198Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T15:06:17.198Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T15:06:17.198Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T15:06:17.200Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T15:06:17.202Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T15:06:17.202Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T15:06:17.202Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T15:06:17.205Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T15:06:17.468Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T15:06:26.330Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T15:06:26.953Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T15:06:26.957Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T15:06:26.958Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T15:06:26.958Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T15:06:26.959Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T15:06:26.960Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T15:06:26.961Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T15:06:26.961Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T15:06:26.963Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T15:06:26.965Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T15:06:26.966Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T15:06:26.966Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T15:06:26.968Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T15:06:27.243Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T15:06:35.816Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T15:06:36.444Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T15:06:36.448Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T15:06:36.449Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T15:06:36.449Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T15:06:36.449Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T15:06:36.451Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T15:06:36.451Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T15:06:36.452Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T15:06:36.453Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T15:06:36.455Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T15:06:36.456Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T15:06:36.456Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T15:06:36.459Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T15:06:36.719Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T15:08:09.056Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T15:08:09.689Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T15:08:09.693Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T15:08:09.693Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T15:08:09.694Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T15:08:09.694Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T15:08:09.696Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T15:08:09.696Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T15:08:09.697Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T15:08:09.698Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T15:08:09.700Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T15:08:09.700Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T15:08:09.701Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T15:08:09.704Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T15:08:09.967Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T15:09:22.357Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T15:09:22.979Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T15:09:22.983Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T15:09:22.984Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T15:09:22.984Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T15:09:22.985Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T15:09:22.986Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T15:09:22.987Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T15:09:22.987Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T15:09:22.988Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T15:09:22.990Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T15:09:22.990Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T15:09:22.990Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T15:09:22.993Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T15:09:23.259Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T15:09:38.922Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T15:09:39.549Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T15:09:39.553Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T15:09:39.554Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T15:09:39.555Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T15:09:39.555Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T15:09:39.557Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T15:09:39.557Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T15:09:39.558Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T15:09:39.559Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T15:09:39.561Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T15:09:39.561Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T15:09:39.561Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T15:09:39.564Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T15:09:39.858Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T15:10:33.693Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T15:10:34.316Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T15:10:34.320Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T15:10:34.320Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T15:10:34.321Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T15:10:34.321Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T15:10:34.323Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T15:10:34.323Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T15:10:34.324Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T15:10:34.325Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T15:10:34.328Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T15:10:34.328Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T15:10:34.328Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T15:10:34.331Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T15:10:34.598Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T15:10:50.346Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T15:10:51.024Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T15:10:51.028Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T15:10:51.029Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T15:10:51.029Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T15:10:51.029Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T15:10:51.031Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T15:10:51.031Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T15:10:51.032Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T15:10:51.034Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T15:10:51.035Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T15:10:51.036Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T15:10:51.036Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T15:10:51.038Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T15:10:51.334Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T15:11:07.315Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T15:11:07.977Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T15:11:07.982Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T15:11:07.983Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T15:11:07.983Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T15:11:07.983Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T15:11:07.985Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T15:11:07.986Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T15:11:07.986Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T15:11:07.992Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T15:11:07.994Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T15:11:07.994Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T15:11:07.995Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T15:11:07.997Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T15:11:08.287Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-03-27T15:21:23.454Z - info: [Commander.regis] Registering command: uitask
+2018-03-27T15:21:24.087Z - info: [ExtManager.load] Loading extension: admin
+2018-03-27T15:21:24.091Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-03-27T15:21:24.092Z - info: [Router.register] [admin] Registering route: userIndex
+2018-03-27T15:21:24.092Z - info: [Router.register] [admin] Registering route: login
+2018-03-27T15:21:24.093Z - info: [Router.register] [admin] Registering route: localroute
+2018-03-27T15:21:24.094Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-03-27T15:21:24.095Z - info: [Ctller.register] [admin] Registering controller: user
+2018-03-27T15:21:24.095Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-03-27T15:21:24.100Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-03-27T15:21:24.101Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-03-27T15:21:24.102Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-03-27T15:21:24.102Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-03-27T15:21:24.105Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-03-27T15:21:24.375Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
