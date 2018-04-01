@@ -38,3 +38,167 @@ Cannot read property 'length' of undefined
     "column": 23
   }
 }
+2018-03-29T16:13:42.210Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: currentDir.startsWidth is not a function
+    at new UIBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/base.js:27:28)
+    at new AdminBSB (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB/index.js:8:9)
+    at UIManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:54:46)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:17:22)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+currentDir.startsWidth is not a function
+2018-03-29T16:13:42.213Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: currentDir.startsWidth is not a function
+    at new UIBase (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/base.js:27:28)
+    at new AdminBSB (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB/index.js:8:9)
+    at UIManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/index.js:54:46)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:17:22)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+currentDir.startsWidth is not a function
+2018-03-29T17:14:58.822Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ Error: Cannot find module '/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/logger'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at global.lacoLib.name (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/helper.js:7:12)
+    at Object.<anonymous> (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB/index.js:4:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+Cannot find module '/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/logger'
+2018-03-29T17:14:58.824Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ Error: Cannot find module '/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/logger'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at global.lacoLib.name (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/helper.js:7:12)
+    at Object.<anonymous> (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/uis/AdminBSB/index.js:4:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+Cannot find module '/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/ui/logger'
+2018-03-30T05:35:50.458Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new User (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/controllers/user.js:6:16)
+    at ControllerManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/index.js:39:63)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:15:26)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-30T05:35:50.461Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new User (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/controllers/user.js:6:16)
+    at ControllerManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/index.js:39:63)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:15:26)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+2018-03-31T02:56:58.257Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'name' of null
+    at new BaseController (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/base.js:11:65)
+    at new Dashboard (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:7:9)
+    at ControllerManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/index.js:39:63)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:15:26)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'name' of null
+2018-03-31T02:56:58.260Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'name' of null
+    at new BaseController (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/base.js:11:65)
+    at new Dashboard (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:7:9)
+    at ControllerManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/index.js:39:63)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:15:26)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'name' of null
+2018-03-31T02:57:17.952Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'name' of null
+    at new BaseController (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/base.js:12:65)
+    at new Dashboard (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:7:9)
+    at ControllerManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/index.js:39:63)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:15:26)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'name' of null
+2018-03-31T02:57:17.954Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'name' of null
+    at new BaseController (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/base.js:12:65)
+    at new Dashboard (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:7:9)
+    at ControllerManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/index.js:39:63)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:15:26)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'name' of null
+2018-03-31T02:57:28.101Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js
+ TypeError: Cannot read property 'name' of null
+    at new BaseController (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/base.js:12:65)
+    at new Dashboard (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:7:9)
+    at ControllerManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/index.js:39:63)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:15:26)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'name' of null
+2018-03-31T02:57:28.103Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'name' of null
+    at new BaseController (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/base.js:12:65)
+    at new Dashboard (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/controllers/dashboard.js:7:9)
+    at ControllerManager.register (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/controller/index.js:39:63)
+    at new LacoAdmin (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-admin/index.js:15:26)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+Cannot read property 'name' of null
+2018-03-31T03:02:33.872Z - error: [lib.controller.base] Invalid view: dashboard.index
+2018-04-01T11:42:12.313Z - error: [SubApp.register] App base not found: homejobchat
+2018-04-01T11:42:12.314Z - error: [Router.transform] [homejobchat] Subapp not found for route: 
+{
+  "subapp": "homejobchat",
+  "controller": "chat",
+  "action": "index"
+}
