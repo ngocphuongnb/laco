@@ -202,3 +202,57 @@ Cannot read property 'name' of null
   "controller": "chat",
   "action": "index"
 }
+2018-04-02T13:09:49.433Z - error: [ext.homejobchat] Cannot connect to database:  MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+2018-04-02T14:01:45.238Z - error: 
+[ExtManager.load] Cannot load ext file for: /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/index.js
+ ReferenceError: AdminBSB is not defined
+    at Object.<anonymous> (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/ui/index.js:52:18)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at new LacoHomeJobChat (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/index.js:25:22)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+AdminBSB is not defined
+2018-04-02T14:01:45.241Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ ReferenceError: AdminBSB is not defined
+    at Object.<anonymous> (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/ui/index.js:52:18)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at new LacoHomeJobChat (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/index.js:25:22)
+    at Promise (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+AdminBSB is not defined
