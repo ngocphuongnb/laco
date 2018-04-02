@@ -3025,3 +3025,75 @@ Cannot read property 'name' of null
 2018-04-01T12:57:00.540Z - info: [SubApp.dispatch] [chat] Mounted...
 2018-04-01T12:57:00.543Z - info: [start] App running on port: 3000
 2018-04-01T12:57:00.544Z - info: [main] App started!
+2018-04-02T03:15:44.625Z - info: [Commander.regis] Registering command: uitask
+2018-04-02T03:15:45.193Z - info: [ExtManager.load] Loading extension: admin
+2018-04-02T03:15:45.243Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-02T03:15:45.243Z - info: [Router.register] [admin] Registering route: login
+2018-04-02T03:15:45.244Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-02T03:15:45.245Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-02T03:15:45.245Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-02T03:15:45.246Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-02T03:15:45.247Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-02T03:15:45.248Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-02T03:15:45.248Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-02T03:15:45.250Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-02T03:15:45.957Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-02T03:15:45.964Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-02T03:15:46.149Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-02T03:15:46.150Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-02T03:15:46.150Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-02T03:15:46.328Z - info: [ext.homejobchat] Connected to database...
+2018-04-02T03:15:46.328Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-02T03:15:46.331Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-02T03:15:46.331Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-02T03:15:46.332Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-02T03:15:46.334Z - info: [start] App running on port: 3000
+2018-04-02T03:15:46.334Z - info: [main] App started!
+2018-04-02T04:00:18.984Z - info: [Commander.regis] Registering command: uitask
+2018-04-02T04:00:53.879Z - info: [ExtManager.load] Loading extension: admin
+2018-04-02T04:00:54.348Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-02T04:00:54.349Z - info: [Router.register] [admin] Registering route: login
+2018-04-02T04:00:54.594Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-02T04:00:54.594Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-02T04:00:54.595Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-02T04:00:54.685Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-02T04:00:54.687Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-02T04:00:54.687Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-02T04:00:54.687Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-02T04:00:54.690Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-02T04:01:12.128Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-02T04:01:12.226Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-02T04:01:29.023Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-02T04:01:29.072Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-02T04:01:29.072Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-02T04:01:29.726Z - info: [ext.homejobchat] Connected to database...
+2018-04-02T04:01:29.728Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-02T04:01:29.730Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-02T04:01:29.730Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-02T04:01:29.730Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-02T04:01:29.736Z - info: [start] App running on port: 3000
+2018-04-02T04:01:29.737Z - info: [main] App started!
+2018-04-02T04:06:30.934Z - info: [Commander.regis] Registering command: uitask
+2018-04-02T04:06:38.261Z - info: [ExtManager.load] Loading extension: admin
+2018-04-02T04:06:38.468Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-02T04:06:38.468Z - info: [Router.register] [admin] Registering route: login
+2018-04-02T04:06:38.521Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-02T04:06:38.521Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-02T04:06:38.521Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-02T04:06:38.570Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-02T04:06:38.572Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-02T04:06:38.572Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-02T04:06:38.572Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-02T04:06:38.574Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-02T04:06:49.112Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-02T04:06:49.145Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-02T04:06:52.492Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-02T04:06:52.493Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-02T04:06:52.493Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-02T04:06:52.548Z - info: [ext.homejobchat] Connected to database...
+2018-04-02T04:06:52.549Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-02T04:06:52.550Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-02T04:06:52.551Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-02T04:06:52.551Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-02T04:06:52.553Z - info: [start] App running on port: 3000
+2018-04-02T04:06:52.555Z - info: [main] App started!
