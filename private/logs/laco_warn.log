@@ -256,3 +256,15 @@ AdminBSB is not defined
     at <anonymous>
     at process._tickCallback (internal/process/next_tick.js:188:7)
 AdminBSB is not defined
+2018-04-05T01:52:21.673Z - error: [Commander.regis] Invalid command handler: 
+{
+  "option": "HJAsset",
+  "caller": {
+    "dir": "/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/ui",
+    "baseDir": "/node_modules/laco/libs/ui",
+    "file": "/node_modules/laco/libs/ui/index.js",
+    "method": "UIManager",
+    "line": 39,
+    "column": 23
+  }
+}
