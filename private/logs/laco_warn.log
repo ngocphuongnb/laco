@@ -268,3 +268,222 @@ AdminBSB is not defined
     "column": 23
   }
 }
+2018-04-06T01:45:40.738Z - error: 
+[ExtManager.load] Cannot load ext file for: /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/index.js
+ TypeError: Cannot read property 'name' of undefined
+    at SubAppManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:32:31)
+    at new LacoHomeJobChat (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/index.js:13:33)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Cannot read property 'name' of undefined
+2018-04-06T01:45:40.739Z - error: 
+[ExtManager.find] An error occurred while finding ext:
+ TypeError: Cannot read property 'name' of undefined
+    at SubAppManager.register (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/subapp/index.js:32:31)
+    at new LacoHomeJobChat (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/index.js:13:33)
+    at Promise (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:79:26)
+    at new Promise (<anonymous>)
+    at ExtManager.load (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:60:16)
+    at Timeout.setTimeout [as _onTimeout] (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/extension/manager.js:50:63)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Cannot read property 'name' of undefined
+2018-04-06T02:36:07.453Z - error: [SubApp.register] App base not found: chat
+2018-04-06T02:36:07.453Z - error: [Router.transform] [homejobchat] Subapp not found for route: 
+{
+  "subapp": "chat",
+  "controller": "conversation",
+  "action": "index"
+}
+2018-04-06T02:36:07.454Z - error: [SubApp.register] App base not found: chat
+2018-04-06T02:36:07.454Z - error: [Router.transform] [homejobchat] Subapp not found for route: 
+{
+  "subapp": "chat",
+  "controller": "conversation",
+  "action": "index"
+}
+2018-04-06T03:12:30.999Z - error: [Router.transform] [homejobchat] Action not found for route: 
+{
+  "subapp": "homejobchat",
+  "controller": "chat",
+  "action": "user"
+}
+2018-04-06T03:24:53.327Z - error: [ext.homejobchat] Cannot save user:
+{
+  "userid": 112,
+  "username": "phuongnn",
+  "type": "worker",
+  "fullname": "Nguyen Ngoc Phuong",
+  "image": "https://cdn.shopify.com/s/files/1/1184/9874/products/main_NEW_winning_1024x1024.jpg",
+  "created_date": "2018-04-06T03:24:53.281Z"
+}
+2018-04-06T03:26:14.676Z - error: [ext.homejobchat] Cannot save user:
+{
+  "userid": 112,
+  "username": "phuongnn",
+  "type": "worker",
+  "fullname": "Nguyen Ngoc Phuong",
+  "image": "https://cdn.shopify.com/s/files/1/1184/9874/products/main_NEW_winning_1024x1024.jpg",
+  "created_date": "2018-04-06T03:26:14.675Z"
+}
+2018-04-06T03:27:02.759Z - error: [ext.homejobchat] Cannot save user:
+{
+  "userid": 112,
+  "username": "phuongnn",
+  "type": "worker",
+  "fullname": "Nguyen Ngoc Phuong",
+  "image": "https://cdn.shopify.com/s/files/1/1184/9874/products/main_NEW_winning_1024x1024.jpg",
+  "created_date": "2018-04-06T03:27:02.755Z"
+}
+2018-04-06T03:27:36.492Z - error: [ext.homejobchat] Cannot save user:
+{
+  "err": "MongoError: E11000 duplicate key error collection: homejobchat.users index: intId_1 dup key: { : null }
+    at Function.MongoError.create (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/error.js:45:10)
+    at toError (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/utils.js:149:22)
+    at /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/collection.js:1035:39
+    at /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+E11000 duplicate key error collection: homejobchat.users index: intId_1 dup key: { : null }",
+  "userInfo": {
+    "userid": 112,
+    "username": "phuongnn",
+    "type": "worker",
+    "fullname": "Nguyen Ngoc Phuong",
+    "image": "https://cdn.shopify.com/s/files/1/1184/9874/products/main_NEW_winning_1024x1024.jpg",
+    "created_date": "2018-04-06T03:27:36.482Z"
+  }
+}
+2018-04-06T03:38:03.936Z - error: [ext.homejobchat] Cannot save user:
+{
+  "err": "BulkWriteError: E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 111 }
+    at /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:535:15
+    at handleCallback (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/utils.js:128:55)
+    at resultHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:456:5)
+    at /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 111 }",
+  "userInfo": {
+    "userid": 111,
+    "username": "thanhnv",
+    "type": "employer",
+    "fullname": "Nguyen Van Thanh",
+    "image": "https://www.publicdomainpictures.net/pictures/150000/velka/sunset-sky-1455125487HWs.jpg",
+    "created_date": "2018-04-06T03:38:03.768Z"
+  }
+}
+2018-04-06T03:40:15.912Z - error: [ext.homejobchat] Cannot save user:
+{
+  "err": "BulkWriteError: E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 112 }
+    at /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:535:15
+    at handleCallback (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/utils.js:128:55)
+    at resultHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:456:5)
+    at /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 112 }",
+  "userInfo": {
+    "userid": 112,
+    "username": "phuongnn",
+    "type": "worker",
+    "fullname": "Nguyen Ngoc Phuong",
+    "image": "https://cdn.shopify.com/s/files/1/1184/9874/products/main_NEW_winning_1024x1024.jpg",
+    "created_date": "2018-04-06T03:40:15.908Z"
+  }
+}
+2018-04-06T05:38:10.688Z - error: [ext.homejobchat] Cannot save user:
+{
+  "err": "BulkWriteError: E11000 duplicate key error collection: homejobchat.conversations index: creatorid_1 dup key: { : 111 }
+    at /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:535:15
+    at handleCallback (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/utils.js:128:55)
+    at resultHandler (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:456:5)
+    at /home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+E11000 duplicate key error collection: homejobchat.conversations index: creatorid_1 dup key: { : 111 }",
+  "conversationInfo": {
+    "creatorid": 111,
+    "targetid": 112,
+    "created_date": "2018-04-06T05:38:10.684Z",
+    "identity": "111_112"
+  }
+}
+2018-04-06T06:16:43.359Z - error: [ext.homejobchat] Cannot get user conversations: TypeError: Cipher data must be a string or a buffer
+    at Cipheriv.update (crypto.js:170:26)
+    at Object.encrypt (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/helper.js:150:28)
+    at _.map.conversation (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:158:48)
+    at arrayMap (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:631:23)
+    at Function.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:9546:14)
+    at db.models.conversation.find.exec.then.conversations (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:157:31)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Cipher data must be a string or a buffer
+2018-04-06T08:21:13.238Z - error: [ext.homejobchat] Cannot get user conversations: TypeError: IV must be a buffer
+    at new Cipheriv (crypto.js:219:16)
+    at Object.createCipheriv (crypto.js:619:10)
+    at Object.encrypt2 (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/helper.js:163:25)
+    at _.map.conversation (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:163:52)
+    at arrayMap (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:631:23)
+    at Function.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:9546:14)
+    at db.models.conversation.find.lean.exec.then.conversations (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:162:35)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+IV must be a buffer
+2018-04-06T08:25:00.877Z - error: [ext.homejobchat] Cannot get user conversations: Error: Invalid IV length
+    at new Cipheriv (crypto.js:219:16)
+    at Object.createCipheriv (crypto.js:619:10)
+    at Object.encrypt (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/helper.js:150:25)
+    at _.map.conversation (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:163:52)
+    at arrayMap (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:631:23)
+    at Function.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:9546:14)
+    at db.models.conversation.find.lean.exec.then.conversations (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:162:35)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Invalid IV length
+2018-04-06T08:25:31.399Z - error: [ext.homejobchat] Cannot get user conversations: Error: Invalid IV length
+    at new Cipheriv (crypto.js:219:16)
+    at Object.createCipheriv (crypto.js:619:10)
+    at Object.encrypt (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/helper.js:150:25)
+    at _.map.conversation (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:163:52)
+    at arrayMap (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:631:23)
+    at Function.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:9546:14)
+    at db.models.conversation.find.lean.exec.then.conversations (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:162:35)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Invalid IV length
+2018-04-06T08:46:23.014Z - error: [ext.homejobchat] Cannot get conversation users: TypeError: Cannot read property 'fullname' of undefined
+    at _.map.conversation (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:186:54)
+    at arrayMap (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:631:23)
+    at Function.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:9546:14)
+    at getUsers.then.users (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:183:39)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Cannot read property 'fullname' of undefined
+2018-04-06T08:47:02.756Z - error: [ext.homejobchat] Cannot get conversation users: TypeError: Cannot read property 'fullname' of undefined
+    at _.map.conversation (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:188:54)
+    at arrayMap (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:631:23)
+    at Function.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:9546:14)
+    at getUsers.then.users (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:183:39)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Cannot read property 'fullname' of undefined
+2018-04-06T08:47:25.304Z - error: [ext.homejobchat] Cannot get conversation users: TypeError: Cannot read property 'fullname' of undefined
+    at _.map.conversation (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:188:54)
+    at arrayMap (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:631:23)
+    at Function.map (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:9546:14)
+    at getUsers.then.users (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:183:39)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Cannot read property 'fullname' of undefined
+2018-04-06T09:46:15.559Z - error: [ext.homejobchat] Cannot get conversation users: TypeError: Cipher data must be a string or a buffer
+    at Cipher.update (crypto.js:170:26)
+    at Object.encrypt2 (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco/libs/helper.js:159:26)
+    at getUsers.then.users (/home/nguyen.ngoc.phuong/Documents/projects/laco2/node_modules/laco-ext-homejobchat/controllers/chat.js:198:59)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Cipher data must be a string or a buffer
