@@ -487,3 +487,106 @@ Cannot read property 'fullname' of undefined
     at <anonymous>
     at process._tickCallback (internal/process/next_tick.js:188:7)
 Cipher data must be a string or a buffer
+2018-04-08T03:02:25.859Z - error: [ext.homejobchat] Cannot connect to database:  MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+2018-04-08T03:23:11.641Z - error: [ext.homejobchat] Cannot save user:
+{
+  "err": "BulkWriteError: E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 111 }
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:535:15
+    at handleCallback (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/utils.js:128:55)
+    at resultHandler (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:456:5)
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 111 }",
+  "userInfo": {
+    "userid": 111,
+    "username": "thanhnv",
+    "type": "employer",
+    "fullname": "Nguyen Van Thanh",
+    "image": "https://r.bstatic.com/images/hotel/max500/117/117351989.jpg",
+    "created_date": "2018-04-08T03:23:11.637Z"
+  }
+}
+2018-04-08T03:24:33.228Z - error: [ext.homejobchat] Cannot save user:
+{
+  "err": "BulkWriteError: E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 112 }
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:535:15
+    at handleCallback (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/utils.js:128:55)
+    at resultHandler (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:456:5)
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 112 }",
+  "userInfo": {
+    "userid": 112,
+    "username": "phuongnn",
+    "type": "worker",
+    "fullname": "Nguyen Ngoc Phuong",
+    "image": "https://mytcr8tiv.files.wordpress.com/2014/05/colored-pencils-pencils-22186558-1600-1200.jpg",
+    "created_date": "2018-04-08T03:24:33.216Z"
+  }
+}
+2018-04-08T03:25:27.769Z - error: [ext.homejobchat] Cannot save user:
+{
+  "err": "BulkWriteError: E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 113 }
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:535:15
+    at handleCallback (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/utils.js:128:55)
+    at resultHandler (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:456:5)
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 113 }",
+  "userInfo": {
+    "userid": 113,
+    "username": "testemployer",
+    "type": "employer",
+    "fullname": "Test Employer",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jEAPMF8hAinm4Uk6uzYXD9oNf2_11abSDOvBhlxQLYCcvubtww",
+    "created_date": "2018-04-08T03:25:27.766Z"
+  }
+}
+2018-04-08T03:27:08.083Z - error: [ext.homejobchat] Cannot save conversation:
+{
+  "err": "BulkWriteError: E11000 duplicate key error collection: homejobchat.conversations index: creatorid_1 dup key: { : 113 }
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:535:15
+    at handleCallback (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/utils.js:128:55)
+    at resultHandler (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:456:5)
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+E11000 duplicate key error collection: homejobchat.conversations index: creatorid_1 dup key: { : 113 }",
+  "conversationInfo": {
+    "creatorid": 113,
+    "targetid": 112,
+    "created_date": "2018-04-08T03:27:08.081Z",
+    "identity": "113_112"
+  }
+}
+2018-04-08T04:34:42.179Z - error: [ext.homejobchat] Cannot get user conversations: ReferenceError: _ is not defined
+    at db.models.conversation.find.lean.exec.then.conversations (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/libs.js:15:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+_ is not defined
+2018-04-08T04:35:07.460Z - error: [ext.homejobchat] Cannot get user conversations: ReferenceError: helper is not defined
+    at _.map.conversation (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/libs.js:21:41)
+    at arrayMap (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:631:23)
+    at Function.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:9546:14)
+    at db.models.conversation.find.lean.exec.then.conversations (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/libs.js:20:31)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+helper is not defined

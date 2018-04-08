@@ -15175,3 +15175,1402 @@ Cipher data must be a string or a buffer
 2018-04-06T11:04:49.756Z - info: [SubApp.dispatch] [chat] Mounted...
 2018-04-06T11:04:49.767Z - info: [start] App running on port: 3000
 2018-04-06T11:04:49.767Z - info: [main] App started!
+2018-04-07T14:15:58.051Z - info: [Commander.regis] Registering command: uitask
+2018-04-07T14:15:58.695Z - info: [ExtManager.load] Loading extension: admin
+2018-04-07T14:15:58.716Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-07T14:15:58.716Z - info: [Router.register] [admin] Registering route: login
+2018-04-07T14:15:58.724Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-07T14:15:58.725Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-07T14:15:58.725Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-07T14:15:58.731Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-07T14:15:58.733Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-07T14:15:58.733Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-07T14:15:58.734Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-07T14:15:58.737Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-07T14:16:00.489Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-07T14:16:00.508Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-07T14:16:02.504Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-07T14:16:02.505Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-07T14:16:02.505Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-07T14:16:02.506Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-07T14:16:02.506Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-07T14:16:02.507Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-07T14:16:02.507Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-07T14:16:02.507Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-07T14:16:02.566Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-07T14:16:02.567Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-07T14:16:06.095Z - info: [ext.homejobchat] Connected to database...
+2018-04-07T14:16:06.139Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-07T14:16:06.141Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-07T14:16:06.141Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-07T14:16:06.142Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-07T14:16:06.155Z - info: [start] App running on port: 3000
+2018-04-07T14:16:06.156Z - info: [main] App started!
+2018-04-08T03:02:18.512Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T03:02:20.220Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T03:02:20.241Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T03:02:20.242Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T03:02:20.250Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T03:02:20.251Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T03:02:20.251Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T03:02:20.256Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T03:02:20.258Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T03:02:20.259Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T03:02:20.259Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T03:02:20.262Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T03:02:22.332Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T03:02:22.358Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T03:02:24.692Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T03:02:24.693Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T03:02:24.693Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T03:02:24.693Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T03:02:24.693Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T03:02:24.694Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T03:02:24.694Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T03:02:24.694Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T03:02:24.760Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T03:02:24.761Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T03:02:25.859Z - error: [ext.homejobchat] Cannot connect to database:  MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+2018-04-08T03:03:32.067Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T03:03:32.681Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T03:03:32.686Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T03:03:32.686Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T03:03:32.688Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T03:03:32.689Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T03:03:32.689Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T03:03:32.691Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T03:03:32.693Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T03:03:32.694Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T03:03:32.695Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T03:03:32.697Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T03:03:32.978Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T03:03:32.997Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T03:03:33.295Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T03:03:33.303Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T03:03:33.303Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T03:03:33.303Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T03:03:33.304Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T03:03:33.304Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T03:03:33.304Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T03:03:33.305Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T03:03:33.325Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T03:03:33.326Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T03:03:33.415Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T03:03:44.062Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T03:03:44.666Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T03:03:44.670Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T03:03:44.670Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T03:03:44.672Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T03:03:44.672Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T03:03:44.673Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T03:03:44.674Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T03:03:44.676Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T03:03:44.677Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T03:03:44.677Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T03:03:44.680Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T03:03:44.956Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T03:03:44.972Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T03:03:45.264Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T03:03:45.272Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T03:03:45.272Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T03:03:45.272Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T03:03:45.273Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T03:03:45.273Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T03:03:45.273Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T03:03:45.274Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T03:03:45.292Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T03:03:45.292Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T03:03:45.383Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T03:03:45.414Z - info:   [ext.admin.ui.HomeJobAssetUI] Running ChatFunctions...
+2018-04-08T03:03:53.932Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T03:03:54.547Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T03:03:54.551Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T03:03:54.551Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T03:03:54.553Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T03:03:54.554Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T03:03:54.554Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T03:03:54.556Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T03:03:54.558Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T03:03:54.559Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T03:03:54.559Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T03:03:54.563Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T03:03:54.854Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T03:03:54.868Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T03:03:55.250Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T03:03:55.251Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T03:03:55.251Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T03:03:55.251Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T03:03:55.251Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T03:03:55.252Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T03:03:55.252Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T03:03:55.252Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T03:03:55.275Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T03:03:55.276Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T03:03:55.409Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T03:03:55.433Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T03:03:55.436Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T03:03:55.436Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T03:03:55.437Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T03:03:55.455Z - info: [start] App running on port: 3000
+2018-04-08T03:03:55.456Z - info: [main] App started!
+2018-04-08T03:09:12.252Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T03:09:12.853Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T03:09:12.858Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T03:09:12.859Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T03:09:12.860Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T03:09:12.861Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T03:09:12.861Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T03:09:12.863Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T03:09:12.865Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T03:09:12.865Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T03:09:12.865Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T03:09:12.868Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T03:09:13.156Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T03:09:13.170Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T03:09:13.469Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T03:09:13.470Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T03:09:13.470Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T03:09:13.470Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T03:09:13.471Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T03:09:13.471Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T03:09:13.472Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T03:09:13.472Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T03:09:13.511Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T03:09:13.512Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T03:09:13.599Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T03:09:13.614Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T03:09:13.616Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T03:09:13.616Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T03:09:13.617Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T03:09:13.628Z - info: [start] App running on port: 3000
+2018-04-08T03:09:13.629Z - info: [main] App started!
+2018-04-08T03:23:11.641Z - error: [ext.homejobchat] Cannot save user:
+{
+  "err": "BulkWriteError: E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 111 }
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:535:15
+    at handleCallback (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/utils.js:128:55)
+    at resultHandler (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:456:5)
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 111 }",
+  "userInfo": {
+    "userid": 111,
+    "username": "thanhnv",
+    "type": "employer",
+    "fullname": "Nguyen Van Thanh",
+    "image": "https://r.bstatic.com/images/hotel/max500/117/117351989.jpg",
+    "created_date": "2018-04-08T03:23:11.637Z"
+  }
+}
+2018-04-08T03:24:33.228Z - error: [ext.homejobchat] Cannot save user:
+{
+  "err": "BulkWriteError: E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 112 }
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:535:15
+    at handleCallback (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/utils.js:128:55)
+    at resultHandler (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:456:5)
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 112 }",
+  "userInfo": {
+    "userid": 112,
+    "username": "phuongnn",
+    "type": "worker",
+    "fullname": "Nguyen Ngoc Phuong",
+    "image": "https://mytcr8tiv.files.wordpress.com/2014/05/colored-pencils-pencils-22186558-1600-1200.jpg",
+    "created_date": "2018-04-08T03:24:33.216Z"
+  }
+}
+2018-04-08T03:25:27.769Z - error: [ext.homejobchat] Cannot save user:
+{
+  "err": "BulkWriteError: E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 113 }
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:535:15
+    at handleCallback (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/utils.js:128:55)
+    at resultHandler (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:456:5)
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+E11000 duplicate key error collection: homejobchat.users index: userid_1 dup key: { : 113 }",
+  "userInfo": {
+    "userid": 113,
+    "username": "testemployer",
+    "type": "employer",
+    "fullname": "Test Employer",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jEAPMF8hAinm4Uk6uzYXD9oNf2_11abSDOvBhlxQLYCcvubtww",
+    "created_date": "2018-04-08T03:25:27.766Z"
+  }
+}
+2018-04-08T03:27:08.083Z - error: [ext.homejobchat] Cannot save conversation:
+{
+  "err": "BulkWriteError: E11000 duplicate key error collection: homejobchat.conversations index: creatorid_1 dup key: { : 113 }
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:535:15
+    at handleCallback (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/utils.js:128:55)
+    at resultHandler (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb/lib/bulk/unordered.js:456:5)
+    at /mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/mongodb-core/lib/connection/pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+E11000 duplicate key error collection: homejobchat.conversations index: creatorid_1 dup key: { : 113 }",
+  "conversationInfo": {
+    "creatorid": 113,
+    "targetid": 112,
+    "created_date": "2018-04-08T03:27:08.081Z",
+    "identity": "113_112"
+  }
+}
+2018-04-08T03:28:48.982Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T03:28:49.592Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T03:28:49.597Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T03:28:49.597Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T03:28:49.599Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T03:28:49.600Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T03:28:49.601Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T03:28:49.602Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T03:28:49.605Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T03:28:49.605Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T03:28:49.606Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T03:28:49.609Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T03:28:49.902Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T03:28:49.915Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T03:28:50.215Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T03:28:50.216Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T03:28:50.216Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T03:28:50.216Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T03:28:50.217Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T03:28:50.217Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T03:28:50.218Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T03:28:50.218Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T03:28:50.259Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T03:28:50.259Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T03:28:50.362Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T03:28:50.376Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T03:28:50.377Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T03:28:50.378Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T03:28:50.379Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T03:28:50.389Z - info: [start] App running on port: 3000
+2018-04-08T03:28:50.390Z - info: [main] App started!
+2018-04-08T03:29:09.937Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T03:29:10.581Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T03:29:10.585Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T03:29:10.586Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T03:29:10.588Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T03:29:10.589Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T03:29:10.590Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T03:29:10.591Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T03:29:10.593Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T03:29:10.594Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T03:29:10.594Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T03:29:10.596Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T03:29:10.883Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T03:29:10.896Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T03:29:11.188Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T03:29:11.189Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T03:29:11.190Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T03:29:11.190Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T03:29:11.190Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T03:29:11.191Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T03:29:11.191Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T03:29:11.192Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T03:29:11.230Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T03:29:11.230Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T03:29:11.314Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T03:29:11.328Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T03:29:11.330Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T03:29:11.330Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T03:29:11.331Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T03:29:11.343Z - info: [start] App running on port: 3000
+2018-04-08T03:29:11.343Z - info: [main] App started!
+2018-04-08T04:23:09.976Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:23:10.579Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:23:10.583Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:23:10.584Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:23:10.585Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:23:10.586Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:23:10.586Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:23:10.588Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:23:10.590Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:23:10.590Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:23:10.591Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:23:10.593Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:23:10.870Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:23:10.889Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:23:11.177Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:23:11.178Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:23:11.178Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:23:11.178Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:23:11.179Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:23:11.179Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:23:11.180Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:23:11.180Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:23:11.200Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:23:11.200Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:23:11.344Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:23:11.369Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:23:11.371Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:23:11.371Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:23:11.372Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:23:11.383Z - info: [start] App running on port: 3000
+2018-04-08T04:23:11.383Z - info: [main] App started!
+2018-04-08T04:23:38.279Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:23:38.962Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:23:38.966Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:23:38.967Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:23:38.968Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:23:38.969Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:23:38.969Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:23:38.971Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:23:38.973Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:23:38.973Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:23:38.973Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:23:38.976Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:23:39.279Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:23:39.294Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:23:39.620Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:23:39.621Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:23:39.621Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:23:39.621Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:23:39.622Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:23:39.622Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:23:39.623Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:23:39.623Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:23:39.740Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:23:39.791Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:23:40.060Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:23:40.099Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:23:40.102Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:23:40.103Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:23:40.106Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:23:40.135Z - info: [start] App running on port: 3000
+2018-04-08T04:23:40.137Z - info: [main] App started!
+2018-04-08T04:23:55.767Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:23:56.426Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:23:56.431Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:23:56.431Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:23:56.433Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:23:56.433Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:23:56.434Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:23:56.435Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:23:56.437Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:23:56.437Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:23:56.438Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:23:56.440Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:23:56.766Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:23:56.781Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:23:57.100Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:23:57.100Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:23:57.101Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:23:57.101Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:23:57.102Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:23:57.110Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:23:57.110Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:23:57.111Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:23:57.167Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:23:57.167Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:23:57.259Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:23:57.275Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:23:57.277Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:23:57.277Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:23:57.278Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:23:57.288Z - info: [start] App running on port: 3000
+2018-04-08T04:23:57.288Z - info: [main] App started!
+2018-04-08T04:24:30.662Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:24:31.317Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:24:31.321Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:24:31.322Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:24:31.323Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:24:31.324Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:24:31.324Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:24:31.326Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:24:31.328Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:24:31.328Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:24:31.328Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:24:31.331Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:24:31.624Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:24:31.637Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:24:31.952Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:24:31.959Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:24:31.960Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:24:31.960Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:24:31.960Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:24:31.961Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:24:31.961Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:24:31.962Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:24:31.982Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:24:31.983Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:24:32.057Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:24:32.090Z - info:   [ext.admin.ui.HomeJobAssetUI] Running ChatFunctions...
+2018-04-08T04:24:34.837Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:24:35.504Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:24:35.515Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:24:35.516Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:24:35.519Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:24:35.521Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:24:35.527Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:24:35.546Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:24:35.557Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:24:35.557Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:24:35.558Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:24:35.561Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:24:35.891Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:24:35.906Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:24:36.246Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:24:36.247Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:24:36.247Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:24:36.247Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:24:36.248Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:24:36.248Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:24:36.248Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:24:36.248Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:24:36.268Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:24:36.269Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:24:36.382Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:24:36.395Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:24:36.397Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:24:36.397Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:24:36.398Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:24:36.409Z - info: [start] App running on port: 3000
+2018-04-08T04:24:36.410Z - info: [main] App started!
+2018-04-08T04:33:57.849Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:33:58.496Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:33:58.500Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:33:58.501Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:33:58.504Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:33:58.504Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:33:58.505Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:33:58.507Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:33:58.509Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:33:58.509Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:33:58.509Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:33:58.516Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:33:58.809Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:33:58.823Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:33:59.106Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:33:59.107Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:33:59.107Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:33:59.108Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:33:59.108Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:33:59.109Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:33:59.109Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:33:59.109Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:33:59.152Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:33:59.153Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:33:59.238Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:33:59.254Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:33:59.256Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:33:59.256Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:33:59.257Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:33:59.272Z - info: [start] App running on port: 3000
+2018-04-08T04:33:59.273Z - info: [main] App started!
+2018-04-08T04:34:38.332Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:34:38.971Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:34:38.975Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:34:38.976Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:34:38.978Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:34:38.979Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:34:38.979Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:34:38.981Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:34:38.982Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:34:38.983Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:34:38.983Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:34:38.986Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:34:39.289Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:34:39.303Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:34:39.604Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:34:39.604Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:34:39.605Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:34:39.605Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:34:39.606Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:34:39.606Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:34:39.606Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:34:39.607Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:34:39.632Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:34:39.632Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:34:39.730Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:34:39.767Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:34:39.770Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:34:39.771Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:34:39.772Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:34:39.783Z - info: [start] App running on port: 3000
+2018-04-08T04:34:39.783Z - info: [main] App started!
+2018-04-08T04:34:42.179Z - error: [ext.homejobchat] Cannot get user conversations: ReferenceError: _ is not defined
+    at db.models.conversation.find.lean.exec.then.conversations (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/libs.js:15:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+_ is not defined
+2018-04-08T04:35:04.716Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:35:05.360Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:35:05.364Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:35:05.365Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:35:05.367Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:35:05.368Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:35:05.368Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:35:05.370Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:35:05.372Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:35:05.372Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:35:05.373Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:35:05.376Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:35:05.675Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:35:05.694Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:35:06.044Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:35:06.045Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:35:06.045Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:35:06.045Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:35:06.046Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:35:06.046Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:35:06.046Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:35:06.046Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:35:06.084Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:35:06.085Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:35:06.156Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:35:06.172Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:35:06.174Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:35:06.175Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:35:06.175Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:35:06.186Z - info: [start] App running on port: 3000
+2018-04-08T04:35:06.187Z - info: [main] App started!
+2018-04-08T04:35:07.460Z - error: [ext.homejobchat] Cannot get user conversations: ReferenceError: helper is not defined
+    at _.map.conversation (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/libs.js:21:41)
+    at arrayMap (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:631:23)
+    at Function.map (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/node_modules/lodash/lodash.js:9546:14)
+    at db.models.conversation.find.lean.exec.then.conversations (/mnt/c/Users/Ngoc Phuong/work/projects/laco2/node_modules/laco-ext-homejobchat/libs.js:20:31)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+helper is not defined
+2018-04-08T04:35:19.977Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:35:20.576Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:35:20.581Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:35:20.581Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:35:20.583Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:35:20.584Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:35:20.584Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:35:20.586Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:35:20.588Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:35:20.589Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:35:20.589Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:35:20.592Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:35:20.872Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:35:20.886Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:35:21.185Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:35:21.186Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:35:21.186Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:35:21.186Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:35:21.187Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:35:21.187Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:35:21.188Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:35:21.188Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:35:21.212Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:35:21.213Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:35:21.289Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:35:21.306Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:35:21.308Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:35:21.309Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:35:21.310Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:35:21.321Z - info: [start] App running on port: 3000
+2018-04-08T04:35:21.322Z - info: [main] App started!
+2018-04-08T04:37:17.288Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:37:17.928Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:37:17.933Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:37:17.934Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:37:17.936Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:37:17.936Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:37:17.937Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:37:17.939Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:37:17.942Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:37:17.942Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:37:17.942Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:37:17.945Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:37:18.338Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:37:18.356Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:37:18.772Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:37:18.773Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:37:18.774Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:37:18.774Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:37:18.774Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:37:18.775Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:37:18.775Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:37:18.775Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:37:18.807Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:37:18.807Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:37:18.908Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:37:18.930Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:37:18.933Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:37:18.933Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:37:18.934Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:37:18.954Z - info: [start] App running on port: 3000
+2018-04-08T04:37:18.954Z - info: [main] App started!
+2018-04-08T04:48:33.751Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:48:34.559Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:48:34.564Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:48:34.566Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:48:34.570Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:48:34.571Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:48:34.572Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:48:34.575Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:48:34.583Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:48:34.584Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:48:34.584Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:48:34.588Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:48:35.054Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:48:35.071Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:48:35.516Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:48:35.519Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:48:35.520Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:48:35.520Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:48:35.520Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:48:35.521Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:48:35.521Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:48:35.521Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:48:35.523Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:48:35.523Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:48:40.620Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:48:40.644Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:48:40.648Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:48:40.649Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:48:40.650Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:48:40.671Z - info: [start] App running on port: 3000
+2018-04-08T04:48:40.672Z - info: [main] App started!
+2018-04-08T04:49:18.442Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:49:19.123Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:49:19.127Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:49:19.128Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:49:19.130Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:49:19.130Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:49:19.131Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:49:19.133Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:49:19.135Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:49:19.135Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:49:19.135Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:49:19.138Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:49:19.454Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:49:19.470Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:49:19.850Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:49:19.851Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:49:19.851Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:49:19.851Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:49:19.852Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:49:19.852Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:49:19.852Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:49:19.852Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:49:19.854Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:49:19.854Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:49:20.207Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:49:20.222Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:49:20.224Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:49:20.224Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:49:20.225Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:49:20.236Z - info: [start] App running on port: 3000
+2018-04-08T04:49:20.237Z - info: [main] App started!
+2018-04-08T04:50:04.215Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:50:04.947Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:50:04.953Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:50:04.954Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:50:04.957Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:50:04.957Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:50:04.958Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:50:04.962Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:50:04.965Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:50:04.965Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:50:04.966Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:50:04.969Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:50:05.460Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:50:05.478Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:50:05.854Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:50:05.855Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:50:05.855Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:50:05.856Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:50:05.856Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:50:05.857Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:50:05.857Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:50:05.857Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:50:05.859Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:50:05.859Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:50:06.017Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:50:06.032Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:50:06.034Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:50:06.034Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:50:06.035Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:50:06.047Z - info: [start] App running on port: 3000
+2018-04-08T04:50:06.048Z - info: [main] App started!
+2018-04-08T04:50:32.778Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:50:33.442Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:50:33.446Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:50:33.447Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:50:33.449Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:50:33.449Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:50:33.450Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:50:33.451Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:50:33.454Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:50:33.454Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:50:33.454Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:50:33.457Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:50:33.790Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:50:33.804Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:50:34.137Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:50:34.137Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:50:34.138Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:50:34.138Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:50:34.139Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:50:34.139Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:50:34.139Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:50:34.140Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:50:34.141Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:50:34.142Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:50:34.264Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:50:34.289Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:50:34.291Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:50:34.291Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:50:34.292Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:50:34.302Z - info: [start] App running on port: 3000
+2018-04-08T04:50:34.303Z - info: [main] App started!
+2018-04-08T04:55:04.394Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:55:04.993Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:55:04.997Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:55:04.998Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:55:05.000Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:55:05.000Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:55:05.001Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:55:05.003Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:55:05.005Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:55:05.005Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:55:05.005Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:55:05.008Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:55:05.290Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:55:05.305Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:55:05.613Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:55:05.614Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:55:05.614Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:55:05.615Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:55:05.615Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:55:05.615Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:55:05.616Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:55:05.616Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:55:05.618Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:55:05.618Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:55:05.745Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:55:05.758Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:55:05.760Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:55:05.761Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:55:05.761Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:55:05.773Z - info: [start] App running on port: 3000
+2018-04-08T04:55:05.774Z - info: [main] App started!
+2018-04-08T04:56:47.708Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T04:56:48.385Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T04:56:48.390Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T04:56:48.391Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T04:56:48.392Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T04:56:48.393Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T04:56:48.393Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T04:56:48.395Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T04:56:48.397Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T04:56:48.397Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T04:56:48.398Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T04:56:48.403Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T04:56:48.890Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T04:56:48.968Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T04:56:50.107Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T04:56:50.108Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T04:56:50.108Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T04:56:50.108Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T04:56:50.109Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T04:56:50.109Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T04:56:50.109Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T04:56:50.110Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T04:56:50.112Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T04:56:50.112Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T04:56:50.225Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T04:56:50.244Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T04:56:50.246Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T04:56:50.246Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T04:56:50.247Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T04:56:50.278Z - info: [start] App running on port: 3000
+2018-04-08T04:56:50.278Z - info: [main] App started!
+2018-04-08T05:00:40.621Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:00:41.276Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:00:41.280Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:00:41.281Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:00:41.283Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:00:41.283Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:00:41.284Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:00:41.285Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:00:41.287Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:00:41.287Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:00:41.288Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:00:41.290Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:00:41.575Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:00:41.588Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:00:41.943Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:00:41.944Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:00:41.944Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:00:41.945Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:00:41.945Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:00:41.945Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:00:41.946Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:00:41.946Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:00:41.948Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:00:41.948Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:00:42.038Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:00:42.067Z - info:   [ext.admin.ui.HomeJobAssetUI] Running ChatFunctions...
+2018-04-08T05:00:44.819Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:00:45.469Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:00:45.473Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:00:45.473Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:00:45.475Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:00:45.476Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:00:45.476Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:00:45.478Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:00:45.481Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:00:45.481Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:00:45.482Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:00:45.484Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:00:45.790Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:00:45.803Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:00:46.122Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:00:46.123Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:00:46.123Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:00:46.123Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:00:46.124Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:00:46.124Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:00:46.124Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:00:46.124Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:00:46.126Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:00:46.126Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:00:46.215Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:00:46.228Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T05:00:46.230Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T05:00:46.230Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T05:00:46.231Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T05:00:46.241Z - info: [start] App running on port: 3000
+2018-04-08T05:00:46.242Z - info: [main] App started!
+2018-04-08T05:02:03.883Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:02:04.570Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:02:04.574Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:02:04.575Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:02:04.576Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:02:04.577Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:02:04.577Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:02:04.579Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:02:04.581Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:02:04.581Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:02:04.582Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:02:04.584Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:02:04.877Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:02:04.891Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:02:05.244Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:02:05.244Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:02:05.245Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:02:05.245Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:02:05.245Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:02:05.246Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:02:05.246Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:02:05.247Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:02:05.248Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:02:05.249Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:02:05.349Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:02:05.380Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T05:02:05.383Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T05:02:05.383Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T05:02:05.385Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T05:02:05.407Z - info: [start] App running on port: 3000
+2018-04-08T05:02:05.408Z - info: [main] App started!
+2018-04-08T05:02:08.103Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:02:08.733Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:02:08.737Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:02:08.738Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:02:08.739Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:02:08.740Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:02:08.740Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:02:08.742Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:02:08.744Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:02:08.744Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:02:08.744Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:02:08.747Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:02:09.025Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:02:09.038Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:02:09.366Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:02:09.367Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:02:09.367Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:02:09.367Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:02:09.368Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:02:09.368Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:02:09.368Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:02:09.368Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:02:09.370Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:02:09.370Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:02:09.459Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:02:09.487Z - info:   [ext.admin.ui.HomeJobAssetUI] Running ChatFunctions...
+2018-04-08T05:02:12.166Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:02:12.805Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:02:12.809Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:02:12.809Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:02:12.811Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:02:12.811Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:02:12.811Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:02:12.813Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:02:12.815Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:02:12.815Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:02:12.815Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:02:12.817Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:02:13.117Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:02:13.131Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:02:13.459Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:02:13.460Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:02:13.460Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:02:13.461Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:02:13.461Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:02:13.462Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:02:13.462Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:02:13.462Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:02:13.464Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:02:13.464Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:02:13.551Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:02:13.580Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T05:02:13.583Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T05:02:13.583Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T05:02:13.584Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T05:02:13.595Z - info: [start] App running on port: 3000
+2018-04-08T05:02:13.595Z - info: [main] App started!
+2018-04-08T05:07:03.280Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:07:03.899Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:07:03.904Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:07:03.905Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:07:03.906Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:07:03.907Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:07:03.907Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:07:03.909Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:07:03.911Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:07:03.911Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:07:03.911Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:07:03.915Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:07:04.215Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:07:04.228Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:07:04.565Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:07:04.566Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:07:04.566Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:07:04.566Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:07:04.566Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:07:04.567Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:07:04.567Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:07:04.567Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:07:04.587Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:07:04.588Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:07:04.678Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:07:04.720Z - info:   [ext.admin.ui.HomeJobAssetUI] Running ChatFunctions...
+2018-04-08T05:07:07.810Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:07:08.418Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:07:08.422Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:07:08.423Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:07:08.425Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:07:08.426Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:07:08.426Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:07:08.428Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:07:08.430Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:07:08.430Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:07:08.430Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:07:08.433Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:07:08.751Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:07:08.764Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:07:09.078Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:07:09.078Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:07:09.079Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:07:09.079Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:07:09.079Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:07:09.080Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:07:09.080Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:07:09.080Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:07:09.082Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:07:09.083Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:07:09.943Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:07:09.982Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T05:07:09.985Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T05:07:09.985Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T05:07:09.986Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T05:07:09.996Z - info: [start] App running on port: 3000
+2018-04-08T05:07:09.996Z - info: [main] App started!
+2018-04-08T05:09:48.788Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:09:49.468Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:09:49.472Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:09:49.473Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:09:49.475Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:09:49.475Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:09:49.476Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:09:49.478Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:09:49.482Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:09:49.483Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:09:49.483Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:09:49.486Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:09:49.795Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:09:49.811Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:09:50.153Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:09:50.154Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:09:50.154Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:09:50.155Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:09:50.155Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:09:50.156Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:09:50.156Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:09:50.157Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:09:50.178Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:09:50.179Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:09:50.250Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:09:50.263Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T05:09:50.265Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T05:09:50.265Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T05:09:50.266Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T05:09:50.277Z - info: [start] App running on port: 3000
+2018-04-08T05:09:50.277Z - info: [main] App started!
+2018-04-08T05:13:45.014Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:13:45.629Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:13:45.633Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:13:45.633Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:13:45.635Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:13:45.636Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:13:45.636Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:13:45.637Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:13:45.639Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:13:45.640Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:13:45.640Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:13:45.642Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:13:45.918Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:13:45.930Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:13:46.248Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:13:46.249Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:13:46.249Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:13:46.250Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:13:46.250Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:13:46.250Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:13:46.251Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:13:46.253Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:13:46.257Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:13:46.258Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:13:46.355Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:13:46.386Z - info:   [ext.admin.ui.HomeJobAssetUI] Running ChatFunctions...
+2018-04-08T05:13:48.998Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:13:49.663Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:13:49.667Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:13:49.668Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:13:49.670Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:13:49.670Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:13:49.671Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:13:49.672Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:13:49.674Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:13:49.675Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:13:49.675Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:13:49.678Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:13:49.993Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:13:50.009Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:13:50.371Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:13:50.371Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:13:50.372Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:13:50.372Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:13:50.372Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:13:50.372Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:13:50.373Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:13:50.374Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:13:50.376Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:13:50.376Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:13:50.487Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:13:50.502Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T05:13:50.505Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T05:13:50.506Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T05:13:50.507Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T05:13:50.531Z - info: [start] App running on port: 3000
+2018-04-08T05:13:50.532Z - info: [main] App started!
+2018-04-08T05:14:38.207Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:14:38.821Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:14:38.825Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:14:38.825Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:14:38.827Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:14:38.828Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:14:38.828Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:14:38.830Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:14:38.832Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:14:38.832Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:14:38.832Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:14:38.835Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:14:39.118Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:14:39.132Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:14:39.458Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:14:39.459Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:14:39.459Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:14:39.459Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:14:39.460Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:14:39.460Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:14:39.460Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:14:39.461Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:14:39.462Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:14:39.463Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:14:39.550Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:14:39.580Z - info:   [ext.admin.ui.HomeJobAssetUI] Running ChatFunctions...
+2018-04-08T05:14:42.127Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:14:42.784Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:14:42.789Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:14:42.790Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:14:42.792Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:14:42.793Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:14:42.793Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:14:42.794Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:14:42.796Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:14:42.796Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:14:42.797Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:14:42.799Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:14:43.109Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:14:43.125Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:14:43.447Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:14:43.448Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:14:43.448Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:14:43.448Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:14:43.448Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:14:43.449Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:14:43.449Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:14:43.449Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:14:43.450Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:14:43.451Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:14:43.750Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:14:43.776Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T05:14:43.778Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T05:14:43.778Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T05:14:43.779Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T05:14:43.794Z - info: [start] App running on port: 3000
+2018-04-08T05:14:43.795Z - info: [main] App started!
+2018-04-08T05:15:18.820Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:15:19.459Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:15:19.464Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:15:19.465Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:15:19.467Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:15:19.467Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:15:19.468Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:15:19.470Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:15:19.472Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:15:19.472Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:15:19.472Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:15:19.475Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:15:19.767Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:15:19.781Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:15:20.107Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:15:20.107Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:15:20.108Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:15:20.108Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:15:20.109Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:15:20.109Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:15:20.110Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:15:20.110Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:15:20.111Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:15:20.112Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:15:20.201Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:15:20.231Z - info:   [ext.admin.ui.HomeJobAssetUI] Running ChatFunctions...
+2018-04-08T05:15:22.746Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:15:23.362Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:15:23.366Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:15:23.367Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:15:23.369Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:15:23.370Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:15:23.370Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:15:23.372Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:15:23.374Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:15:23.374Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:15:23.374Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:15:23.377Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:15:23.677Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:15:23.695Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:15:24.092Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:15:24.092Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:15:24.092Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:15:24.093Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:15:24.093Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:15:24.093Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:15:24.093Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:15:24.093Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:15:24.095Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:15:24.095Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:15:24.185Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:15:24.199Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T05:15:24.201Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T05:15:24.201Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T05:15:24.202Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T05:15:24.214Z - info: [start] App running on port: 3000
+2018-04-08T05:15:24.214Z - info: [main] App started!
+2018-04-08T05:19:16.225Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:19:16.840Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:19:16.844Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:19:16.844Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:19:16.846Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:19:16.846Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:19:16.847Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:19:16.848Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:19:16.850Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:19:16.850Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:19:16.851Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:19:16.853Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:19:17.131Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:19:17.151Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:19:17.495Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:19:17.496Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:19:17.496Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:19:17.496Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:19:17.497Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:19:17.497Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:19:17.497Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:19:17.498Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:19:17.519Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:19:17.520Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:19:17.944Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:19:17.974Z - info:   [ext.admin.ui.HomeJobAssetUI] Running ChatFunctions...
+2018-04-08T05:19:20.952Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:19:21.728Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:19:21.734Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:19:21.735Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:19:21.736Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:19:21.737Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:19:21.737Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:19:21.739Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:19:21.740Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:19:21.741Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:19:21.741Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:19:21.743Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:19:22.142Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:19:22.162Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:19:22.547Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:19:22.548Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:19:22.548Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:19:22.548Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:19:22.549Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:19:22.549Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:19:22.549Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:19:22.549Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:19:22.551Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:19:22.551Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:19:22.637Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:19:22.650Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T05:19:22.652Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T05:19:22.653Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T05:19:22.654Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T05:19:22.671Z - info: [start] App running on port: 3000
+2018-04-08T05:19:22.671Z - info: [main] App started!
+2018-04-08T05:20:34.682Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:20:35.320Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:20:35.324Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:20:35.324Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:20:35.326Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:20:35.326Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:20:35.327Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:20:35.328Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:20:35.330Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:20:35.330Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:20:35.330Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:20:35.333Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:20:35.609Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:20:35.631Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:20:35.957Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:20:35.958Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:20:35.958Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:20:35.958Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:20:35.959Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:20:35.959Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:20:35.960Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:20:35.960Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:20:35.962Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:20:35.962Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:20:36.051Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:20:36.080Z - info:   [ext.admin.ui.HomeJobAssetUI] Running ChatFunctions...
+2018-04-08T05:20:39.175Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:20:39.804Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:20:39.808Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:20:39.809Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:20:39.811Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:20:39.811Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:20:39.812Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:20:39.813Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:20:39.816Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:20:39.816Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:20:39.816Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:20:39.819Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:20:40.147Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:20:40.161Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:20:40.511Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:20:40.511Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:20:40.512Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:20:40.512Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:20:40.512Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:20:40.513Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:20:40.513Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:20:40.513Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:20:40.515Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:20:40.516Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:20:40.603Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:20:40.617Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T05:20:40.619Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T05:20:40.619Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T05:20:40.620Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T05:20:40.631Z - info: [start] App running on port: 3000
+2018-04-08T05:20:40.632Z - info: [main] App started!
+2018-04-08T05:26:41.714Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:26:42.352Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:26:42.357Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:26:42.358Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:26:42.359Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:26:42.360Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:26:42.360Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:26:42.362Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:26:42.364Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:26:42.364Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:26:42.365Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:26:42.367Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:26:42.668Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:26:42.684Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:26:43.017Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:26:43.017Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:26:43.018Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:26:43.018Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:26:43.018Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:26:43.019Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:26:43.019Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:26:43.019Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:26:43.022Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:26:43.022Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:26:43.127Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:26:43.159Z - info:   [ext.admin.ui.HomeJobAssetUI] Running ChatFunctions...
+2018-04-08T05:26:45.742Z - info: [Commander.regis] Registering command: uitask
+2018-04-08T05:26:46.421Z - info: [ExtManager.load] Loading extension: admin
+2018-04-08T05:26:46.426Z - info: [Router.register] [admin] Registering route: Dashboard
+2018-04-08T05:26:46.426Z - info: [Router.register] [admin] Registering route: login
+2018-04-08T05:26:46.428Z - info: [Ctller.register] [admin] Registering controller: dashboard
+2018-04-08T05:26:46.428Z - info: [Ctller.register] [admin] Registering controller: user
+2018-04-08T05:26:46.429Z - info: [SubApp.register] [admin] Success register sub app: /admin
+2018-04-08T05:26:46.430Z - info: [UIMana.register] Registering ui: AdminBSB
+2018-04-08T05:26:46.433Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: prepare
+2018-04-08T05:26:46.433Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: clean
+2018-04-08T05:26:46.433Z - info: [lib.ui.baseTask] [AdminBSB] Registering UI task: buildCommonStyle
+2018-04-08T05:26:46.436Z - info: [lib.ui.addLayou] [AdminBSB] Registering layout: default
+2018-04-08T05:26:46.758Z - info: [lib.ui.addViews] [AdminBSB] Registering view: dashboard/index
+2018-04-08T05:26:46.775Z - info: [ExtManager.load] Loading extension: homejobchat
+2018-04-08T05:26:47.107Z - info: [UIMana.register] Registering ui: HJAsset
+2018-04-08T05:26:47.108Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: prepare
+2018-04-08T05:26:47.108Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: clean
+2018-04-08T05:26:47.108Z - info: [lib.ui.baseTask] [HJAsset] Registering UI task: ChatFunctions
+2018-04-08T05:26:47.108Z - info: [Router.register] [homejobchat] Registering route: index
+2018-04-08T05:26:47.108Z - info: [Router.register] [homejobchat] Registering route: user
+2018-04-08T05:26:47.109Z - info: [Router.register] [homejobchat] Registering route: msg
+2018-04-08T05:26:47.109Z - info: [Router.register] [homejobchat] Registering route: conversation
+2018-04-08T05:26:47.110Z - info: [Ctller.register] [homejobchat] Registering controller: chat
+2018-04-08T05:26:47.110Z - info: [SubApp.register] [homejobchat] Success register sub app: /chat
+2018-04-08T05:26:47.201Z - info: [ext.homejobchat] Connected to database...
+2018-04-08T05:26:47.216Z - info: [Router.dispatch] [admin] Dispatching...
+2018-04-08T05:26:47.219Z - info: [SubApp.dispatch] [admin] Mounted...
+2018-04-08T05:26:47.219Z - info: [Router.dispatch] [homejobchat] Dispatching...
+2018-04-08T05:26:47.222Z - info: [SubApp.dispatch] [chat] Mounted...
+2018-04-08T05:26:47.233Z - info: [start] App running on port: 3000
+2018-04-08T05:26:47.233Z - info: [main] App started!
