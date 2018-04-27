@@ -8,3 +8,5 @@ node_modules/*
 !node_modules/laco
 node_modules/laco/node_modules/*
 !node_modules/laco-ext-*
+node_modules/laco-ext-*/node_modules/*
+private/logs/*
